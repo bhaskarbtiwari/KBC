@@ -1,0 +1,35 @@
+/* KBC-inspired theme: deep navy and gold accents */
+body{background:radial-gradient(circle at 20% 10%, #09182b 0%, #071022 40%, #02111a 100%), linear-gradient(180deg,#071022,#001018); color:#ffd;}
+header{background:linear-gradient(90deg,#06213a,#0b2740);padding:14px;border-radius:10px;color:#ffd;margin-bottom:12px}
+h1{color:#ffd;margin:0;font-weight:700}
+.status{display:flex;gap:12px;align-items:center}
+.subject-btn{padding:10px 14px;border-radius:8px;border:2px solid rgba(255,215,0,0.08);background:linear-gradient(180deg,#0f4a78,#083a60);color:#ffd;font-weight:600;cursor:pointer}
+.subject-btn:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(0,0,0,0.6)}
+#subjects .subject-btn.selected{outline:3px solid rgba(255,215,0,0.18);box-shadow:0 12px 36px rgba(255,215,0,0.06) inset}
+#voice-info{padding:6px 8px;background:rgba(255,215,0,0.08);border-radius:8px;border:1px solid rgba(255,215,0,0.12);color:#ffd;font-size:0.9rem}
+
+.card{background:linear-gradient(180deg,#072137,#04121a);border:1px solid rgba(255,215,0,0.06);color:#fff}
+.message{background:rgba(255,215,0,0.06);border:1px solid rgba(255,215,0,0.12);color:#ffd}
+#choices{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:18px}
+#choices .choice{background:linear-gradient(180deg,#082a43,#052033);border:1px solid rgba(255,255,255,0.04);color:#ffd;padding:16px;border-radius:10px;font-size:1.05rem;text-align:center}
+.choice.correct{background:linear-gradient(180deg,#2b5b1f,#1f4b18);border-color:#ffd700;color:#053}
+.choice.wrong{background:linear-gradient(180deg,#5b1f1f,#4a1414);border-color:#ff8a8a;color:#ffd}
+button{background:linear-gradient(180deg,#d4af37,#b8860b);color:#04111a;border:none;padding:12px 14px;border-radius:8px;cursor:pointer;font-weight:700}
+button.ghost{background:transparent;color:#ffd;border:2px solid #ffd}
+
+
+/* On-screen Devanagari keyboard */
+#keyboard{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
+.key-row{display:flex;gap:6px;width:100%;justify-content:center}
+
+/* voice controls styling inside game */
+#voice-controls{background:#f6fbff;border:1px solid #dfeefd;padding:10px;border-radius:8px}
+#voice-controls h4{margin:0 0 8px 0;font-size:1rem}
+#voice-controls label{min-width:40px}
+.key-btn{padding:8px 10px;border-radius:6px;border:1px solid rgba(255,215,0,0.12);background:linear-gradient(180deg,#083246,#052033);color:#ffd;cursor:pointer;min-width:36px;text-align:center;font-weight:600}
+.key-btn:active{background:#0b2f3a}
+.card#chapters{background:linear-gradient(180deg,#082233,#04121a);padding:12px}
+.chapter-btn{padding:8px 10px;border-radius:8px;background:rgba(255,215,0,0.06);color:#ffd;border:1px solid rgba(255,215,0,0.08);margin:6px;cursor:pointer}
+.chapter-btn.selected{background:linear-gradient(90deg,#ffd70033,#ffd70011);color:#04111a;border-color:rgba(255,215,0,0.22);font-weight:700}
+
+.keyboard-help{font-size:0.9rem;opacity:0.95}

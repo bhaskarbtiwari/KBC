@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>KBC Kids - Learn with Games</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>KBC Kids</h1>
+      <div class="status">
+        <div id="coins">Gold Coins: 0</div>
+        <div id="level">Level: Basic</div>
+        <div id="voice-info" title="Selected voice">Voice: Auto</div>
+        <select id="voice-select" aria-label="Voice selector" style="margin-left:8px;padding:6px;border-radius:6px"></select>
+      </div>
+    </header>
+
+    <main>
+      <section id="menu" class="card">
+        <h2>Choose a subject</h2>
+        <div id="subjects"></div>
+        <section id="chapters" class="card hidden" style="margin-top:12px">
+          <h3>Chapters</h3>
+          <div id="chapter-list"></div>
+        </section>
+        <div class="grade-select" style="margin-top:12px">
+          <label for="grade-select">Choose Grade: </label>
+          <select id="grade-select">
+            <option value="1">Grade 1</option>
+            <option value="2">Grade 2</option>
+            <option value="3">Grade 3</option>
+            <option value="4">Grade 4</option>
+            <option value="5">Grade 5</option>
+            <option value="6">Grade 6</option>
+            <option value="7">Grade 7</option>
+            <option value="8">Grade 8</option>
+            <option value="9">Grade 9</option>
+            <option value="10">Grade 10</option>
+          </select>
+        </div>
+        <div class="menu-actions">
+          <button id="view-progress">View Progress</button>
+          <button id="reset-progress">Reset Progress</button>
+        </div>
+        <p class="help">Target: children of all ages who prefer playful learning. Try 'Grammar Phoenix' spelling mode to listen and type the word!</p>
+      </section>
+
+      <section id="game" class="card hidden">
+        <div id="chapter-title" style="font-weight:700;margin-bottom:8px;color:#ffd"></div>
+        <div id="question-area">
+          <h3 id="q-text"></h3>
+          <div id="choices"></div>
+          <div id="spell-area" class="hidden">
+            <button id="play-sound">🔊 Play Sound</button>
+            <input id="spell-input" placeholder="Type the word here" autocomplete="off" />
+            <button id="submit-spell">Submit</button>
+            <div id="keyboard" class="hidden" aria-hidden="true"></div>
+            <div id="keyboard-help" class="hidden keyboard-help" style="margin-top:8px;color:#ffd;">Tip: To create a half-consonant (join letters), press the Halant (्) after a consonant. Example: स + ् + त = स्त</div>
+          </div>
+        </div>
+
+        <div class="game-controls">
+          <button id="next-btn" class="hidden">Next</button>
+          <button id="quit-btn">Quit</button>
+          <button id="show-answer" class="hidden">Show Answer</button>
+        </div>
+
+        <div id="message" class="message"></div>
+        <div id="voice-controls" class="card" style="margin-top:12px;display:none">
+          <h4>Voice controls</h4>
+          <div style="display:flex;gap:8px;align-items:center">
+            <label for="voice-rate">Rate</label>
+            <input id="voice-rate" type="range" min="0.5" max="1.5" step="0.05" value="0.95" />
+            <span id="voice-rate-val">0.95</span>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center;margin-top:8px">
+            <label for="voice-pitch">Pitch</label>
+            <input id="voice-pitch" type="range" min="0.5" max="2" step="0.05" value="1" />
+            <span id="voice-pitch-val">1.00</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="progress" class="card hidden">
+        <h2>Your Progress</h2>
+        <div id="progress-content"></div>
+        <button id="back-to-menu">Back</button>
+      </section>
+    </main>
+
+    <footer>
+      <small>Made for playful learning — restart anytime. Grammar Phoenix: listen & spell.</small>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
