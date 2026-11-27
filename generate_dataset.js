@@ -17,7 +17,11 @@ for(const subject of ['math','science','social']){
   if(extra.length !== cbse[6][subject].length) throw new Error(`grade 6 ${subject}: extra chapter lists do not match`);
   cbse[6][subject] = cbse[6][subject].map(([name, lines], i)=>[name, [...lines, ...extra[i]]]);
 }
-const MIN_PER_CBSE_CHAPTER = 20;
+cbse[6].hindi = require('./bank/cbse-grade6-hindi');
+cbse[6].english = require('./bank/cbse-grade6-english');
+// Marathi follows the Maharashtra Balbharati book, split over two files
+cbse[6].marathi = [...require('./bank/cbse-grade6-marathi-a'), ...require('./bank/cbse-grade6-marathi-b')];
+const MIN_PER_CBSE_CHAPTER = { math:20, science:20, social:20, hindi:20, english:20, marathi:20 };
 const MIN_MCQ = 50; // every subject and grade must have at least this many multiple-choice questions
 
 // chapter names and question wording for the pair lists in bank/words.js
@@ -127,7 +131,7 @@ for(const grade of grades){
   if(!cbse[grade]?.math) total += write('math', grade, mathChapters(grade, makeRandom(`math${grade}`), shuffle));
   for(const [subject, chapters] of Object.entries(cbse[grade] || {})){
     for(const [name, lines] of chapters){
-      if(lines.length < MIN_PER_CBSE_CHAPTER) throw new Error(`grade ${grade} ${subject} "${name}": only ${lines.length} questions`);
+      if(lines.length < MIN_PER_CBSE_CHAPTER[subject]) throw new Error(`grade ${grade} ${subject} "${name}": only ${lines.length} questions`);
     }
     total += write(subject, grade, fromBank(chapters, makeRandom(`cbse${subject}${grade}`)));
   }

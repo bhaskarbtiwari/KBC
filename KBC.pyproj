@@ -28,6 +28,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="bank\cbse-grade6.js" />
+    <Content Include="bank\cbse-grade6-english.js" />
+    <Content Include="bank\cbse-grade6-hindi.js" />
+    <Content Include="bank\cbse-grade6-marathi-a.js" />
+    <Content Include="bank\cbse-grade6-marathi-b.js" />
     <Content Include="bank\cbse-grade6-math-more.js" />
     <Content Include="bank\cbse-grade6-science-more.js" />
     <Content Include="bank\cbse-grade6-social-more.js" />

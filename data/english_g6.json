@@ -2,775 +2,3881 @@
   "questions": [
     {
       "id": 1,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "vegetable"
+      "type": "mcq",
+      "q": "What really created the wealth?",
+      "choices": [
+        "Hard work",
+        "Magic words",
+        "Luck",
+        "The copper vessel"
+      ],
+      "answer": "Hard work"
     },
     {
       "id": 2,
       "type": "mcq",
-      "q": "Which sentence uses the apostrophe correctly?",
+      "q": "What was the name of the sage?",
       "choices": [
-        "This is Asha bag’s.",
-        "This i’s Asha bag.",
-        "This is Asha’s bag.",
-        "This is Ashas’ bag."
+        "Farooqi",
+        "Mahipati",
+        "Patanjali",
+        "Mahadev"
       ],
-      "answer": "This is Asha’s bag."
+      "answer": "Mahipati"
     },
     {
       "id": 3,
       "type": "mcq",
-      "q": "Choose the correct form: Neither of the answers ___ right.",
+      "q": "What did Rama Natha have to collect?",
       "choices": [
-        "are",
-        "were",
-        "is",
-        "have been"
+        "Morning dew from the leaves",
+        "Rain water from the roof",
+        "Juice from the fruit",
+        "River water"
       ],
-      "answer": "is"
+      "answer": "Morning dew from the leaves"
     },
     {
       "id": 4,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "science"
+      "type": "mcq",
+      "q": "What did Rama Natha’s father leave to him?",
+      "choices": [
+        "Large tracts of land",
+        "A herd of cows",
+        "A shop",
+        "A bag of diamonds"
+      ],
+      "answer": "Large tracts of land"
     },
     {
       "id": 5,
       "type": "mcq",
-      "q": "He is taller ___ his brother.",
+      "q": "What does \"tended\" mean in the story?",
       "choices": [
-        "than",
-        "to",
-        "then",
-        "from"
+        "Looked after",
+        "Forgot",
+        "Sold",
+        "Cut down"
       ],
-      "answer": "than"
+      "answer": "Looked after"
     },
     {
       "id": 6,
       "type": "mcq",
-      "q": "Identify the verb: \"The baby cried loudly.\"",
+      "q": "Rama Natha was the son of a rich ___.",
       "choices": [
-        "baby",
-        "loudly",
-        "cried",
-        "The"
+        "landlord",
+        "king",
+        "sage",
+        "merchant"
       ],
-      "answer": "cried"
+      "answer": "landlord"
     },
     {
       "id": 7,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "decision"
+      "type": "mcq",
+      "q": "What was the name of Rama Natha’s wife?",
+      "choices": [
+        "Kalawati",
+        "Madhumati",
+        "Renu",
+        "Amber"
+      ],
+      "answer": "Madhumati"
     },
     {
       "id": 8,
       "type": "mcq",
-      "q": "Which word is a collective noun?",
+      "q": "Who wrote \"A Bottle of Dew\"?",
       "choices": [
-        "swiftly",
-        "Delhi",
-        "honesty",
-        "committee"
+        "Sudha Murty",
+        "Subba Rao",
+        "Georgia Heard",
+        "Jill Wolf"
       ],
-      "answer": "committee"
+      "answer": "Sudha Murty"
     },
     {
       "id": 9,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "practice"
+      "type": "mcq",
+      "q": "Why was Madhumati worried?",
+      "choices": [
+        "He was spending a lot of money",
+        "He sold the house",
+        "He was always ill",
+        "He wanted to move away"
+      ],
+      "answer": "He was spending a lot of money"
     },
     {
       "id": 10,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "history"
+      "type": "mcq",
+      "q": "What did Rama Natha believe in?",
+      "choices": [
+        "A talking bird",
+        "A magic carpet",
+        "A tree that grows coins",
+        "A potion that turns objects into gold"
+      ],
+      "answer": "A potion that turns objects into gold"
     },
     {
       "id": 11,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "knowledge"
+      "type": "mcq",
+      "q": "In which season did he collect the dew?",
+      "choices": [
+        "Monsoon",
+        "Summer",
+        "Spring",
+        "Winter"
+      ],
+      "answer": "Winter"
     },
     {
       "id": 12,
       "type": "mcq",
-      "q": "Which pair are homophones?",
+      "q": "Where did the sage say he had heard how to make the potion?",
       "choices": [
-        "big and large",
-        "sea and see",
-        "hot and cold",
-        "run and ran"
+        "In the Himalayas",
+        "At the sea shore",
+        "In a desert",
+        "In the king’s court"
       ],
-      "answer": "sea and see"
+      "answer": "In the Himalayas"
     },
     {
       "id": 13,
       "type": "mcq",
-      "q": "A person who studies the stars and planets is an ___.",
+      "q": "What does the word \"dew\" mean?",
       "choices": [
-        "architect",
-        "astronomer",
-        "astrologer",
-        "athlete"
+        "A magic spell",
+        "A field",
+        "Drops of water on leaves that form at night",
+        "A kind of fruit"
       ],
-      "answer": "astronomer"
+      "answer": "Drops of water on leaves that form at night"
     },
     {
       "id": 14,
       "type": "mcq",
-      "q": "What is the meaning of \"once in a blue moon\"?",
+      "q": "How much dew did the sage ask for?",
       "choices": [
-        "very rarely",
-        "during winter",
-        "every night",
-        "very quickly"
+        "Ten litres",
+        "One bottle cap",
+        "Five litres",
+        "Two litres"
       ],
-      "answer": "very rarely"
+      "answer": "Five litres"
     },
     {
       "id": 15,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "village"
+      "type": "mcq",
+      "q": "What happened when the dew was sprinkled on a copper vessel?",
+      "choices": [
+        "It broke",
+        "It vanished",
+        "It turned to gold",
+        "Nothing happened"
+      ],
+      "answer": "Nothing happened"
     },
     {
       "id": 16,
       "type": "mcq",
-      "q": "The prefix \"re-\" in \"rewrite\" means ___.",
+      "q": "What did Madhumati do with the bananas?",
       "choices": [
-        "not",
-        "under",
-        "again",
-        "before"
+        "Sold them in the market",
+        "Gave all of them to the sage",
+        "Threw them away",
+        "Hid them"
       ],
-      "answer": "again"
+      "answer": "Sold them in the market"
     },
     {
       "id": 17,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "interesting"
+      "type": "mcq",
+      "q": "Who had to look after the plants and collect the dew?",
+      "choices": [
+        "Rama Natha himself",
+        "A hired worker",
+        "The sage",
+        "The villagers"
+      ],
+      "answer": "Rama Natha himself"
     },
     {
       "id": 18,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "business"
+      "type": "mcq",
+      "q": "What did Madhumati bring in a big box?",
+      "choices": [
+        "Gold coins",
+        "Bananas",
+        "Old books",
+        "Bottles of dew"
+      ],
+      "answer": "Gold coins"
     },
     {
       "id": 19,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "beginning"
+      "type": "mcq",
+      "q": "Which plant did the sage ask Rama Natha to grow?",
+      "choices": [
+        "Banana",
+        "Neem",
+        "Coconut",
+        "Mango"
+      ],
+      "answer": "Banana"
     },
     {
       "id": 20,
       "type": "mcq",
-      "q": "Which word means \"unable to be seen\"?",
+      "q": "How long did it take to collect the dew?",
       "choices": [
-        "invisible",
-        "invincible",
-        "illegible",
-        "inaudible"
+        "Twenty years",
+        "Six months",
+        "Two years",
+        "Six years"
       ],
-      "answer": "invisible"
+      "answer": "Six years"
     },
     {
       "id": 21,
       "type": "mcq",
-      "q": "\"The classroom was a zoo\" is an example of a ___.",
+      "q": "What happened when the Raven opened his beak?",
       "choices": [
-        "question",
-        "metaphor",
-        "simile",
-        "proverb"
+        "He flew away",
+        "The Fox ran off",
+        "He sang beautifully",
+        "The food fell down"
       ],
-      "answer": "metaphor"
+      "answer": "The food fell down"
     },
     {
       "id": 22,
       "type": "mcq",
-      "q": "\"Peter Piper picked a peck\" is an example of ___.",
+      "q": "A \"morsel\" is ___.",
       "choices": [
-        "metaphor",
-        "irony",
-        "alliteration",
-        "personification"
+        "a long feather",
+        "a small piece of food",
+        "a loud sound",
+        "a large nest"
       ],
-      "answer": "alliteration"
+      "answer": "a small piece of food"
     },
     {
       "id": 23,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "character"
+      "type": "mcq",
+      "q": "What did the Raven hold in his beak?",
+      "choices": [
+        "A morsel of food",
+        "A coin",
+        "A flower",
+        "A twig"
+      ],
+      "answer": "A morsel of food"
     },
     {
       "id": 24,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "imagine"
+      "type": "mcq",
+      "q": "Who wrote the poem \"The Raven and the Fox\"?",
+      "choices": [
+        "Georgia Heard",
+        "Daphne Lister",
+        "Jean de La Fontaine",
+        "Jill Wolf"
+      ],
+      "answer": "Jean de La Fontaine"
     },
     {
       "id": 25,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "rhythm"
+      "type": "mcq",
+      "q": "How did the Fox speak to the Raven?",
+      "choices": [
+        "In admiring tones",
+        "In tears",
+        "In a whisper of fear",
+        "In an angry voice"
+      ],
+      "answer": "In admiring tones"
     },
     {
       "id": 26,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "language"
+      "type": "mcq",
+      "q": "What did the Fox call the Raven?",
+      "choices": [
+        "A lazy bird",
+        "A handsome bird",
+        "A clever hunter",
+        "A tiny bird"
+      ],
+      "answer": "A handsome bird"
     },
     {
       "id": 27,
       "type": "mcq",
-      "q": "\"The wind whispered\" is an example of ___.",
+      "q": "What is the name of the Fox in the poem?",
       "choices": [
-        "alliteration",
-        "rhyme",
-        "personification",
-        "simile"
+        "Raven",
+        "Gajaraj",
+        "Buntee",
+        "Reynard"
       ],
-      "answer": "personification"
+      "answer": "Reynard"
     },
     {
       "id": 28,
       "type": "mcq",
-      "q": "A word that imitates a sound, like \"buzz\", shows ___.",
+      "q": "The Fox said the birds of the woods would call the Raven ___.",
       "choices": [
-        "onomatopoeia",
-        "irony",
-        "simile",
-        "hyperbole"
+        "Friend",
+        "King",
+        "Doctor",
+        "Poet"
       ],
-      "answer": "onomatopoeia"
+      "answer": "King"
     },
     {
       "id": 29,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "poetry"
+      "type": "mcq",
+      "q": "According to the Fox, what is rather unwise?",
+      "choices": [
+        "Patience",
+        "Kindness",
+        "Silence",
+        "Pride"
+      ],
+      "answer": "Pride"
     },
     {
       "id": 30,
       "type": "mcq",
-      "q": "\"As brave as a lion\" is an example of a ___.",
+      "q": "What lesson does the Fox give?",
       "choices": [
-        "simile",
-        "rhyme",
-        "pun",
-        "metaphor"
+        "Ignore sweet words of flattery",
+        "Always sing loudly",
+        "Never eat on trees",
+        "Trust every stranger"
       ],
-      "answer": "simile"
+      "answer": "Ignore sweet words of flattery"
     },
     {
       "id": 31,
       "type": "mcq",
-      "q": "What is the opposite of \"major\"?",
+      "q": "What did the Fox want?",
       "choices": [
-        "minor",
-        "gather",
-        "export",
-        "proud"
+        "The food",
+        "A feather",
+        "The Raven’s nest",
+        "A song book"
       ],
-      "answer": "minor"
+      "answer": "The food"
     },
     {
       "id": 32,
       "type": "mcq",
-      "q": "What is the opposite of \"permanent\"?",
+      "q": "What was the Raven’s voice really like?",
       "choices": [
-        "gather",
-        "retreat",
-        "proud",
-        "temporary"
+        "A roar",
+        "A sweet song",
+        "A croak",
+        "A whistle"
       ],
-      "answer": "temporary"
+      "answer": "A croak"
     },
     {
       "id": 33,
       "type": "mcq",
-      "q": "What is the opposite of \"junior\"?",
+      "q": "Which word rhymes with \"bird\"?",
       "choices": [
-        "temporary",
-        "gather",
-        "senior",
-        "export"
+        "bard",
+        "bread",
+        "beard",
+        "word"
       ],
-      "answer": "senior"
+      "answer": "word"
     },
     {
       "id": 34,
       "type": "mcq",
-      "q": "What is the opposite of \"import\"?",
+      "q": "Where was Mr Raven sitting?",
       "choices": [
-        "minor",
-        "fertile",
-        "temporary",
-        "export"
+        "On a roof",
+        "On a rock",
+        "On the ground",
+        "On a limb of a tree"
       ],
-      "answer": "export"
+      "answer": "On a limb of a tree"
     },
     {
       "id": 35,
       "type": "mcq",
-      "q": "What is the opposite of \"cruel\"?",
+      "q": "Another word for a \"limb\" of a tree is ___.",
       "choices": [
-        "merciful",
-        "senior",
-        "temporary",
-        "fertile"
+        "branch",
+        "leaf",
+        "seed",
+        "root"
       ],
-      "answer": "merciful"
+      "answer": "branch"
     },
     {
       "id": 36,
       "type": "mcq",
-      "q": "What is the opposite of \"advance\"?",
+      "q": "What made the Raven open his beak?",
       "choices": [
-        "minor",
-        "retreat",
-        "merciful",
-        "temporary"
+        "Hunger",
+        "Fear",
+        "Sleepiness",
+        "Foolish pride"
       ],
-      "answer": "retreat"
+      "answer": "Foolish pride"
     },
     {
       "id": 37,
       "type": "mcq",
-      "q": "What is the opposite of \"barren\"?",
+      "q": "Which word rhymes with \"limb\"?",
       "choices": [
-        "fertile",
-        "gather",
-        "retreat",
-        "pessimist"
+        "home",
+        "him",
+        "lamp",
+        "name"
       ],
-      "answer": "fertile"
+      "answer": "him"
     },
     {
       "id": 38,
       "type": "mcq",
-      "q": "What is the opposite of \"humble\"?",
+      "q": "This poem is an example of a ___.",
       "choices": [
-        "fertile",
-        "senior",
-        "proud",
-        "temporary"
+        "recipe",
+        "fable",
+        "news report",
+        "diary"
       ],
-      "answer": "proud"
+      "answer": "fable"
     },
     {
       "id": 39,
       "type": "mcq",
-      "q": "What is the opposite of \"optimist\"?",
+      "q": "Which word best describes the Fox?",
       "choices": [
-        "temporary",
-        "pessimist",
-        "export",
-        "retreat"
+        "Shy",
+        "Cunning",
+        "Careless",
+        "Honest"
       ],
-      "answer": "pessimist"
+      "answer": "Cunning"
     },
     {
       "id": 40,
       "type": "mcq",
-      "q": "What is the opposite of \"scatter\"?",
+      "q": "What did the Fox ask the Raven to do?",
       "choices": [
-        "gather",
-        "retreat",
-        "export",
-        "pessimist"
+        "Sleep",
+        "Sing",
+        "Dance",
+        "Fly away"
       ],
-      "answer": "gather"
+      "answer": "Sing"
     },
     {
       "id": 41,
       "type": "mcq",
-      "q": "Which word means the same as \"loyal\"?",
+      "q": "A \"rescue\" means ___.",
       "choices": [
-        "faithful",
-        "risk",
-        "weak",
-        "peaceful"
+        "selling goods",
+        "taking a rest",
+        "saving someone from danger",
+        "making a plan to rob"
       ],
-      "answer": "faithful"
+      "answer": "saving someone from danger"
     },
     {
       "id": 42,
       "type": "mcq",
-      "q": "Which word means the same as \"eager\"?",
+      "q": "Why did the couple call out \"Rama\" loudly?",
       "choices": [
-        "hardworking",
-        "risk",
-        "keen",
-        "peaceful"
+        "So that the kotwal would hear and come",
+        "To sing a song",
+        "To wake the thief gently",
+        "To call their cow"
       ],
-      "answer": "keen"
+      "answer": "So that the kotwal would hear and come"
     },
     {
       "id": 43,
       "type": "mcq",
-      "q": "Which word means the same as \"adore\"?",
+      "q": "Who was caught in the end?",
       "choices": [
-        "desert",
-        "worship",
-        "keen",
-        "risk"
+        "The thief",
+        "The husband",
+        "The kotwal",
+        "The wife"
       ],
-      "answer": "worship"
+      "answer": "The thief"
     },
     {
       "id": 44,
       "type": "mcq",
-      "q": "Which word means the same as \"feeble\"?",
+      "q": "\"Rama to the Rescue\" is presented as a ___.",
       "choices": [
-        "risk",
-        "weak",
-        "keen",
-        "real"
+        "comic story",
+        "diary",
+        "letter",
+        "poem"
       ],
-      "answer": "weak"
+      "answer": "comic story"
     },
     {
       "id": 45,
       "type": "mcq",
-      "q": "Which word means the same as \"abandon\"?",
+      "q": "Which is the opposite of \"softly\"?",
       "choices": [
-        "desert",
-        "risk",
-        "worship",
-        "peaceful"
+        "quietly",
+        "loudly",
+        "gently",
+        "slowly"
       ],
-      "answer": "desert"
+      "answer": "loudly"
     },
     {
       "id": 46,
       "type": "mcq",
-      "q": "Which word means the same as \"hazard\"?",
+      "q": "What did Rama do on hearing his name?",
       "choices": [
-        "peaceful",
-        "worship",
-        "risk",
-        "real"
+        "Went to sleep",
+        "Hid under a tree",
+        "Left the village",
+        "Ran to the house"
       ],
-      "answer": "risk"
+      "answer": "Ran to the house"
     },
     {
       "id": 47,
       "type": "mcq",
-      "q": "Which word means the same as \"genuine\"?",
+      "q": "A \"kotwal\" is a ___.",
       "choices": [
-        "peaceful",
-        "hardworking",
-        "worship",
-        "real"
+        "farmer",
+        "potter",
+        "sage",
+        "policeman"
       ],
-      "answer": "real"
+      "answer": "policeman"
     },
     {
       "id": 48,
       "type": "mcq",
-      "q": "Which word means the same as \"diligent\"?",
+      "q": "\"Ssssh!\" is used to ask someone to ___.",
       "choices": [
-        "desert",
-        "weak",
-        "hardworking",
-        "real"
+        "eat",
+        "run away",
+        "be quiet",
+        "sing"
       ],
-      "answer": "hardworking"
+      "answer": "be quiet"
     },
     {
       "id": 49,
       "type": "mcq",
-      "q": "Which word means the same as \"tranquil\"?",
+      "q": "\"Perhaps\" means ___.",
       "choices": [
-        "faithful",
-        "peaceful",
-        "real",
-        "bravery"
+        "maybe",
+        "never",
+        "always",
+        "certainly"
       ],
-      "answer": "peaceful"
+      "answer": "maybe"
     },
     {
       "id": 50,
       "type": "mcq",
-      "q": "Which word means the same as \"courage\"?",
+      "q": "How had the thief entered the house?",
       "choices": [
-        "weak",
-        "risk",
-        "hardworking",
-        "bravery"
+        "He was invited",
+        "He came as a guest",
+        "He walked in with the kotwal",
+        "He had dug his way in"
       ],
-      "answer": "bravery"
+      "answer": "He had dug his way in"
     },
     {
       "id": 51,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "address"
+      "type": "mcq",
+      "q": "What did the thief want to know about?",
+      "choices": [
+        "What was for dinner",
+        "Where the jewels were kept",
+        "Where the kotwal lived",
+        "The way to the market"
+      ],
+      "answer": "Where the jewels were kept"
     },
     {
       "id": 52,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "apparent"
+      "type": "mcq",
+      "q": "A \"yard\" is ___.",
+      "choices": [
+        "a room upstairs",
+        "an area outside a building",
+        "a window",
+        "a kind of jewel"
+      ],
+      "answer": "an area outside a building"
     },
     {
       "id": 53,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "calendar"
+      "type": "mcq",
+      "q": "Which quality did the kotwal show?",
+      "choices": [
+        "Fear",
+        "Laziness",
+        "Greed",
+        "Alertness"
+      ],
+      "answer": "Alertness"
     },
     {
       "id": 54,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "committee"
+      "type": "mcq",
+      "q": "Which quality of the couple helped them most?",
+      "choices": [
+        "Quick thinking",
+        "Great strength",
+        "Wealth",
+        "Silence all night"
+      ],
+      "answer": "Quick thinking"
     },
     {
       "id": 55,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "disappear"
+      "type": "mcq",
+      "q": "\"Instead\" means ___.",
+      "choices": [
+        "in place of something",
+        "inside",
+        "together",
+        "at once"
+      ],
+      "answer": "in place of something"
     },
     {
       "id": 56,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "embarrass"
+      "type": "mcq",
+      "q": "From which publisher is the story taken?",
+      "choices": [
+        "kathakids.com",
+        "NCERT Times",
+        "Amar Chitra Katha",
+        "Panchatantra Press"
+      ],
+      "answer": "Amar Chitra Katha"
     },
     {
       "id": 57,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "foreign"
+      "type": "mcq",
+      "q": "Who is Rama in the story?",
+      "choices": [
+        "A child of the king",
+        "The husband",
+        "The thief",
+        "The village kotwal"
+      ],
+      "answer": "The village kotwal"
     },
     {
       "id": 58,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "government"
+      "type": "mcq",
+      "q": "Who are the main characters besides the thief?",
+      "choices": [
+        "A king and a minister",
+        "A teacher and students",
+        "A husband, a wife and the kotwal",
+        "A farmer and a dog"
+      ],
+      "answer": "A husband, a wife and the kotwal"
     },
     {
       "id": 59,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "immediately"
+      "type": "mcq",
+      "q": "To \"chatter\" means to ___.",
+      "choices": [
+        "write carefully",
+        "stay silent",
+        "run fast",
+        "talk a lot about unimportant things"
+      ],
+      "answer": "talk a lot about unimportant things"
     },
     {
       "id": 60,
-      "type": "spell",
-      "q": "Grammar Phoenix: Listen and type the word",
-      "answer": "jewellery"
+      "type": "mcq",
+      "q": "What disturbed the couple at night?",
+      "choices": [
+        "A barking dog",
+        "A crying baby",
+        "A storm",
+        "A noise made by a thief"
+      ],
+      "answer": "A noise made by a thief"
     },
     {
       "id": 61,
       "type": "mcq",
-      "q": "What does the idiom \"cry over spilt milk\" mean?",
+      "q": "What did the dog dislike?",
       "choices": [
-        "in trouble",
-        "regret what cannot be changed",
-        "lose a chance",
-        "a very important day"
+        "Eating crumbs",
+        "Taking showers",
+        "Sleeping",
+        "Riding on the elephant"
       ],
-      "answer": "regret what cannot be changed"
+      "answer": "Taking showers"
     },
     {
       "id": 62,
       "type": "mcq",
-      "q": "What does the idiom \"let the cat out of the bag\" mean?",
+      "q": "Who wrote \"The Unlikely Best Friends\"?",
       "choices": [
-        "regret what cannot be changed",
-        "give away a secret",
-        "in trouble",
-        "tease someone"
+        "Daphne Lister",
+        "Sudha Murty",
+        "S. I. Farooqi",
+        "Subba Rao"
       ],
-      "answer": "give away a secret"
+      "answer": "Subba Rao"
     },
     {
       "id": 63,
       "type": "mcq",
-      "q": "What does the idiom \"miss the boat\" mean?",
+      "q": "What did the mahout say he had also found?",
       "choices": [
-        "give away a secret",
-        "lose a chance",
-        "watch carefully",
-        "tease someone"
+        "A new job",
+        "A friend",
+        "A lost elephant",
+        "A bag of money"
       ],
-      "answer": "lose a chance"
+      "answer": "A friend"
     },
     {
       "id": 64,
       "type": "mcq",
-      "q": "What does the idiom \"in hot water\" mean?",
+      "q": "What did the kind farmer finally do?",
       "choices": [
-        "in trouble",
-        "tease someone",
-        "watch carefully",
-        "a very important day"
+        "Locked the dog inside",
+        "Untied the dog and let it go",
+        "Bought another rope",
+        "Sold the dog"
       ],
-      "answer": "in trouble"
+      "answer": "Untied the dog and let it go"
     },
     {
       "id": 65,
       "type": "mcq",
-      "q": "What does the idiom \"hit the sack\" mean?",
+      "q": "Who was Gajaraj?",
       "choices": [
-        "a very important day",
-        "watch carefully",
-        "lose a chance",
-        "go to bed"
+        "An elephant",
+        "A king",
+        "A farmer",
+        "A dog"
       ],
-      "answer": "go to bed"
+      "answer": "An elephant"
     },
     {
       "id": 66,
       "type": "mcq",
-      "q": "What does the idiom \"pull someone’s leg\" mean?",
+      "q": "Where did Gajaraj live?",
       "choices": [
-        "go to bed",
-        "regret what cannot be changed",
-        "tease someone",
-        "give away a secret"
+        "In a forest",
+        "In a zoo",
+        "On a farm",
+        "In the royal stables"
       ],
-      "answer": "tease someone"
+      "answer": "In the royal stables"
     },
     {
       "id": 67,
       "type": "mcq",
-      "q": "What does the idiom \"a red-letter day\" mean?",
+      "q": "What was wrong with the dog at the farmer’s house?",
       "choices": [
-        "lose a chance",
-        "a very important day",
-        "regret what cannot be changed",
-        "go to bed"
+        "It would not eat",
+        "It would not stop barking",
+        "It broke things",
+        "It slept all day without worry"
       ],
-      "answer": "a very important day"
+      "answer": "It would not eat"
     },
     {
       "id": 68,
       "type": "mcq",
-      "q": "What does the idiom \"keep an eye on\" mean?",
+      "q": "What was the dog’s name?",
       "choices": [
-        "lose a chance",
-        "watch carefully",
-        "in trouble",
-        "give away a secret"
+        "Moti",
+        "Buntee",
+        "Mario",
+        "Reynard"
       ],
-      "answer": "watch carefully"
+      "answer": "Buntee"
     },
     {
       "id": 69,
       "type": "mcq",
-      "q": "Which single word means \"one who does not eat meat\"?",
+      "q": "What did Gajaraj do after his friend left?",
       "choices": [
-        "illiterate",
-        "vegetarian",
-        "extempore",
-        "manuscript"
+        "Slept happily",
+        "Ate twice as much",
+        "Ran away",
+        "Stopped eating"
       ],
-      "answer": "vegetarian"
+      "answer": "Stopped eating"
     },
     {
       "id": 70,
       "type": "mcq",
-      "q": "Which single word means \"one who walks on foot\"?",
+      "q": "How did the farmer take the dog home?",
       "choices": [
-        "pedestrian",
-        "extempore",
-        "vegetarian",
-        "illiterate"
+        "In a bag",
+        "On an elephant",
+        "With a rope round its neck",
+        "In a basket"
       ],
-      "answer": "pedestrian"
+      "answer": "With a rope round its neck"
     },
     {
       "id": 71,
       "type": "mcq",
-      "q": "Which single word means \"one who cannot read or write\"?",
+      "q": "Who strayed into the stable one evening?",
       "choices": [
-        "pedestrian",
-        "vegetarian",
-        "extempore",
-        "illiterate"
+        "A goat",
+        "A horse",
+        "A dog",
+        "A cat"
       ],
-      "answer": "illiterate"
+      "answer": "A dog"
     },
     {
       "id": 72,
       "type": "mcq",
-      "q": "Which single word means \"one who loves their country\"?",
+      "q": "What does \"munching\" mean?",
       "choices": [
-        "extempore",
-        "illegible",
-        "patriot",
-        "pedestrian"
+        "Chewing",
+        "Jumping",
+        "Crying",
+        "Washing"
       ],
-      "answer": "patriot"
+      "answer": "Chewing"
     },
     {
       "id": 73,
       "type": "mcq",
-      "q": "Which single word means \"a speech made without preparation\"?",
+      "q": "Who looked after Gajaraj?",
       "choices": [
-        "extempore",
-        "vegetarian",
-        "patriot",
-        "manuscript"
+        "The kotwal",
+        "The cook",
+        "The mahout",
+        "The farmer"
       ],
-      "answer": "extempore"
+      "answer": "The mahout"
     },
     {
       "id": 74,
       "type": "mcq",
-      "q": "Which single word means \"that which cannot be read\"?",
+      "q": "Who recognised the dog as his own?",
       "choices": [
-        "illiterate",
-        "illegible",
-        "vegetarian",
-        "manuscript"
+        "A child",
+        "The king",
+        "A mahout from another town",
+        "A farmer"
       ],
-      "answer": "illegible"
+      "answer": "A farmer"
     },
     {
       "id": 75,
       "type": "mcq",
-      "q": "Which single word means \"a handwritten book or document\"?",
+      "q": "Why are the two friends called \"unlikely\"?",
       "choices": [
-        "extempore",
-        "illiterate",
-        "vegetarian",
-        "manuscript"
+        "They disliked each other always",
+        "They never met",
+        "An elephant and a dog are very different animals",
+        "They were both kings"
       ],
-      "answer": "manuscript"
+      "answer": "An elephant and a dog are very different animals"
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "q": "Why was Gajaraj sad at first?",
+      "choices": [
+        "He was beaten",
+        "He had no food",
+        "He was ill",
+        "He had no friends"
+      ],
+      "answer": "He had no friends"
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "q": "Who was fond of Gajaraj?",
+      "choices": [
+        "The king",
+        "The queen of another land",
+        "A sage",
+        "A merchant"
+      ],
+      "answer": "The king"
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "q": "A \"mahout\" is ___.",
+      "choices": [
+        "a village officer",
+        "a stable roof",
+        "an elephant trainer",
+        "a kind of food"
+      ],
+      "answer": "an elephant trainer"
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "q": "What did Gajaraj share with the visitor?",
+      "choices": [
+        "His pond only",
+        "His bell",
+        "His bed",
+        "His food"
+      ],
+      "answer": "His food"
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "q": "How did the elephant give the dog a ride?",
+      "choices": [
+        "He pushed him in a cart",
+        "He placed the dog on his back with his trunk",
+        "He carried him in his mouth",
+        "He tied him to his tail"
+      ],
+      "answer": "He placed the dog on his back with his trunk"
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "q": "Who is speaking in the poem?",
+      "choices": [
+        "A tree",
+        "A kite",
+        "Someone talking about being a good friend",
+        "A soldier at war"
+      ],
+      "answer": "Someone talking about being a good friend"
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "q": "Which is the opposite of \"friend\"?",
+      "choices": [
+        "companion",
+        "buddy",
+        "enemy",
+        "partner"
+      ],
+      "answer": "enemy"
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "q": "Which action would the poet approve of?",
+      "choices": [
+        "Keeping all the best for oneself",
+        "Laughing at a friend’s fall",
+        "Judging by looks",
+        "Helping a friend with a dream"
+      ],
+      "answer": "Helping a friend with a dream"
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "q": "Which word rhymes with \"see\"?",
+      "choices": [
+        "by",
+        "say",
+        "be",
+        "saw"
+      ],
+      "answer": "be"
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "q": "How does the poet feel with special friends?",
+      "choices": [
+        "Bored",
+        "Afraid",
+        "Blessed",
+        "Jealous"
+      ],
+      "answer": "Blessed"
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "q": "Which word rhymes with \"do\"?",
+      "choices": [
+        "dog",
+        "true",
+        "tree",
+        "day"
+      ],
+      "answer": "true"
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "q": "Who wrote the poem \"A Friend’s Prayer\"?",
+      "choices": [
+        "Jill Wolf",
+        "Subba Rao",
+        "Daphne Lister",
+        "Georgia Heard"
+      ],
+      "answer": "Jill Wolf"
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "q": "What does the poet want to help friends’ wishes do?",
+      "choices": [
+        "Wait",
+        "Disappear",
+        "Come true",
+        "Change"
+      ],
+      "answer": "Come true"
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "q": "Which word is closest in meaning to \"care\"?",
+      "choices": [
+        "noise",
+        "anger",
+        "neglect",
+        "concern"
+      ],
+      "answer": "concern"
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "q": "The poet wants to do more than share ___.",
+      "choices": [
+        "games and toys",
+        "books and pens",
+        "hopes and plans",
+        "food and drink"
+      ],
+      "answer": "hopes and plans"
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "q": "The poet wishes to use the ___ to see.",
+      "choices": [
+        "telescope",
+        "heart",
+        "ears",
+        "mirror"
+      ],
+      "answer": "heart"
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "q": "What does the poet not want to make from afar?",
+      "choices": [
+        "Promises",
+        "Letters",
+        "Gifts",
+        "Judgements"
+      ],
+      "answer": "Judgements"
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "q": "What does the poet want to give to friends?",
+      "choices": [
+        "Only advice",
+        "The very best",
+        "Expensive toys",
+        "Nothing"
+      ],
+      "answer": "The very best"
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "q": "A judgement made \"from afar\" is made ___.",
+      "choices": [
+        "after long friendship",
+        "without knowing someone closely",
+        "by a doctor",
+        "in a game"
+      ],
+      "answer": "without knowing someone closely"
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "q": "\"To realise\" means ___.",
+      "choices": [
+        "to refuse",
+        "to forget",
+        "to hide",
+        "to understand"
+      ],
+      "answer": "to understand"
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "q": "How does the poet want to love friends?",
+      "choices": [
+        "Only when they win",
+        "The way they are",
+        "Only if they are rich",
+        "After changing them"
+      ],
+      "answer": "The way they are"
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "q": "The main theme of the poem is ___.",
+      "choices": [
+        "true friendship",
+        "bravery in war",
+        "saving trees",
+        "winning games"
+      ],
+      "answer": "true friendship"
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "q": "A \"prayer\" in this poem expresses a ___.",
+      "choices": [
+        "joke",
+        "complaint",
+        "command",
+        "heartfelt wish"
+      ],
+      "answer": "heartfelt wish"
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "q": "What does the poet wish friendships to be?",
+      "choices": [
+        "A secret",
+        "The most important thing",
+        "A small matter",
+        "A contest"
+      ],
+      "answer": "The most important thing"
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "q": "Which word rhymes with \"blessed\"?",
+      "choices": [
+        "bless",
+        "best",
+        "bust",
+        "boast"
+      ],
+      "answer": "best"
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "q": "What does \"attic\" mean?",
+      "choices": [
+        "A garden shed outside the town",
+        "A storage space just under the roof",
+        "A kitchen shelf",
+        "A school hall"
+      ],
+      "answer": "A storage space just under the roof"
+    },
+    {
+      "id": 102,
+      "type": "mcq",
+      "q": "What did Mario love?",
+      "choices": [
+        "Painting",
+        "Having lots of friends",
+        "Studying alone",
+        "Climbing trees"
+      ],
+      "answer": "Having lots of friends"
+    },
+    {
+      "id": 103,
+      "type": "mcq",
+      "q": "Who is the boy in \"The Chair\"?",
+      "choices": [
+        "Surya",
+        "Vikram",
+        "Prabhat",
+        "Mario"
+      ],
+      "answer": "Mario"
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "q": "What did Grandpa say about many of Mario’s friends?",
+      "choices": [
+        "They were only companions or partners",
+        "They were his cousins",
+        "They were invisible",
+        "They were all heroes"
+      ],
+      "answer": "They were only companions or partners"
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "q": "Who won the bet in the end?",
+      "choices": [
+        "Mario",
+        "Mario’s grandfather",
+        "Guneet",
+        "The class"
+      ],
+      "answer": "Mario’s grandfather"
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "q": "What happened on Mario’s first try?",
+      "choices": [
+        "Nobody came",
+        "The chair broke",
+        "He sat perfectly",
+        "He fell down"
+      ],
+      "answer": "He fell down"
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "q": "When did Mario try the chair at school?",
+      "choices": [
+        "During an exam",
+        "Before assembly in the bus",
+        "At night",
+        "At break time"
+      ],
+      "answer": "At break time"
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "q": "What did Mario learn?",
+      "choices": [
+        "Bets are always lost",
+        "Popular people have no problems",
+        "Chairs are useless",
+        "True friends care for us"
+      ],
+      "answer": "True friends care for us"
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "q": "What would happen if Mario managed to sit on it?",
+      "choices": [
+        "He would get good marks",
+        "He would know who his real friends were",
+        "He would win a race",
+        "He would become tall"
+      ],
+      "answer": "He would know who his real friends were"
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "q": "Which three buddies held Mario up?",
+      "choices": [
+        "Guneet, Asma and Deepa",
+        "Renu, Bala and Chitra",
+        "Amber, Vikram and Vaibhavi",
+        "Ravi, Meena and Ila"
+      ],
+      "answer": "Guneet, Asma and Deepa"
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "q": "How did Mario respond to falling?",
+      "choices": [
+        "He kept trying",
+        "He hid the chair",
+        "He blamed Grandpa",
+        "He went home crying"
+      ],
+      "answer": "He kept trying"
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "q": "How was Mario finally able to \"sit\"?",
+      "choices": [
+        "Some friends held him up",
+        "The chair became visible",
+        "He leaned on a wall",
+        "A teacher gave him a stool"
+      ],
+      "answer": "Some friends held him up"
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "q": "Which word describes Mario while he took the chair to school?",
+      "choices": [
+        "Sleepy",
+        "Frightened",
+        "Determined",
+        "Careless"
+      ],
+      "answer": "Determined"
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "q": "What did the four children do at Grandpa’s?",
+      "choices": [
+        "Did homework",
+        "Heard stories and ate fruit chaat",
+        "Painted the attic",
+        "Played cricket"
+      ],
+      "answer": "Heard stories and ate fruit chaat"
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "q": "Who challenged Mario?",
+      "choices": [
+        "His grandfather",
+        "His father",
+        "His classmate",
+        "His teacher"
+      ],
+      "answer": "His grandfather"
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "q": "What did they bet?",
+      "choices": [
+        "A fruit chaat",
+        "A cricket bat",
+        "A book",
+        "A bicycle"
+      ],
+      "answer": "A fruit chaat"
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "q": "What did Mario ask his classmates to form?",
+      "choices": [
+        "A line",
+        "A team",
+        "A square",
+        "A circle"
+      ],
+      "answer": "A circle"
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "q": "What did many others do when Mario fell?",
+      "choices": [
+        "Gave him water",
+        "Called Grandpa",
+        "Helped him up",
+        "Made fun of him"
+      ],
+      "answer": "Made fun of him"
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "q": "What was special about the chair?",
+      "choices": [
+        "It could talk",
+        "It could fly",
+        "It was made of gold",
+        "It was invisible"
+      ],
+      "answer": "It was invisible"
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "q": "Where was the special object kept?",
+      "choices": [
+        "In the attic",
+        "Under the bed",
+        "In the garden",
+        "In the school"
+      ],
+      "answer": "In the attic"
+    },
+    {
+      "id": 121,
+      "type": "mcq",
+      "q": "\"Neem Baba\" is adapted from the work of ___.",
+      "choices": [
+        "S. I. Farooqi",
+        "Jill Wolf",
+        "Sudha Murty",
+        "Georgia Heard"
+      ],
+      "answer": "S. I. Farooqi"
+    },
+    {
+      "id": 122,
+      "type": "mcq",
+      "q": "\"Stagnant\" water is water that is ___.",
+      "choices": [
+        "salty",
+        "frozen",
+        "boiling",
+        "not flowing"
+      ],
+      "answer": "not flowing"
+    },
+    {
+      "id": 123,
+      "type": "mcq",
+      "q": "Neem seed powder in rice fields helps to stop ___ breeding.",
+      "choices": [
+        "mosquitoes",
+        "birds",
+        "frogs",
+        "fish"
+      ],
+      "answer": "mosquitoes"
+    },
+    {
+      "id": 124,
+      "type": "mcq",
+      "q": "Where does Neem Baba say he was born?",
+      "choices": [
+        "In North India or Myanmar",
+        "In Europe",
+        "In Africa",
+        "In America"
+      ],
+      "answer": "In North India or Myanmar"
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "q": "Where does the neem tree stand in the story?",
+      "choices": [
+        "In the school library",
+        "On a hill top far away",
+        "In a market",
+        "In Amber’s courtyard"
+      ],
+      "answer": "In Amber’s courtyard"
+    },
+    {
+      "id": 126,
+      "type": "mcq",
+      "q": "Which pest does not eat furniture made of neem wood?",
+      "choices": [
+        "Goats",
+        "Termites",
+        "Crows",
+        "Rats"
+      ],
+      "answer": "Termites"
+    },
+    {
+      "id": 127,
+      "type": "mcq",
+      "q": "What warning does Neem Baba give about remedies?",
+      "choices": [
+        "Use as much as possible",
+        "Only trained, experienced people should use them",
+        "They never work",
+        "Children should try them alone"
+      ],
+      "answer": "Only trained, experienced people should use them"
+    },
+    {
+      "id": 128,
+      "type": "mcq",
+      "q": "In Hindi, neem is called ___.",
+      "choices": [
+        "Amla",
+        "Tulsi",
+        "Peepal",
+        "Nimb"
+      ],
+      "answer": "Nimb"
+    },
+    {
+      "id": 129,
+      "type": "mcq",
+      "q": "Who talks to the neem tree?",
+      "choices": [
+        "Amber",
+        "Madhumati",
+        "Renu",
+        "Chitra"
+      ],
+      "answer": "Amber"
+    },
+    {
+      "id": 130,
+      "type": "mcq",
+      "q": "Who made a medicine from neem bark for Amber’s cough?",
+      "choices": [
+        "Neem Baba’s doctor",
+        "Her brother",
+        "Her teacher",
+        "Her grandmother"
+      ],
+      "answer": "Her grandmother"
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "q": "What do neem leaves protect?",
+      "choices": [
+        "Clothes",
+        "Stones",
+        "Iron",
+        "Glass"
+      ],
+      "answer": "Clothes"
+    },
+    {
+      "id": 132,
+      "type": "mcq",
+      "q": "Which of these is a Sanskrit name of neem?",
+      "choices": [
+        "Methi",
+        "Saunf",
+        "Haldi",
+        "Arishta"
+      ],
+      "answer": "Arishta"
+    },
+    {
+      "id": 133,
+      "type": "mcq",
+      "q": "Why did the doctor suggest neem leaves for measles?",
+      "choices": [
+        "They taste sweet",
+        "They give comfort and stop germs breeding",
+        "They make the room dark",
+        "They look pretty"
+      ],
+      "answer": "They give comfort and stop germs breeding"
+    },
+    {
+      "id": 134,
+      "type": "mcq",
+      "q": "Neem oil is used to make soaps and ___.",
+      "choices": [
+        "paper",
+        "toothpaste",
+        "glass",
+        "cement"
+      ],
+      "answer": "toothpaste"
+    },
+    {
+      "id": 135,
+      "type": "mcq",
+      "q": "According to the story, who gave the name \"Neem\"?",
+      "choices": [
+        "The Romans",
+        "The Greeks",
+        "The Chinese",
+        "The Iranians"
+      ],
+      "answer": "The Iranians"
+    },
+    {
+      "id": 136,
+      "type": "mcq",
+      "q": "What does the name \"Arishta\" suggest?",
+      "choices": [
+        "One who grows in water",
+        "One who gives gold",
+        "One who cures diseases",
+        "One who sings"
+      ],
+      "answer": "One who cures diseases"
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "q": "What did Amber do in the neem’s shade when she was small?",
+      "choices": [
+        "Slept every night",
+        "Cooked",
+        "Played",
+        "Studied maps"
+      ],
+      "answer": "Played"
+    },
+    {
+      "id": 138,
+      "type": "mcq",
+      "q": "What helps stop locusts eating plants?",
+      "choices": [
+        "Spraying water mixed with neem seed powder",
+        "Burning leaves in houses",
+        "Cutting the plants",
+        "Adding salt"
+      ],
+      "answer": "Spraying water mixed with neem seed powder"
+    },
+    {
+      "id": 139,
+      "type": "mcq",
+      "q": "What do people clean their teeth with?",
+      "choices": [
+        "Neem seeds",
+        "Neem twigs",
+        "Neem furniture",
+        "Neem roots only"
+      ],
+      "answer": "Neem twigs"
+    },
+    {
+      "id": 140,
+      "type": "mcq",
+      "q": "What was made from neem flowers for her father’s eyes?",
+      "choices": [
+        "A syrup",
+        "A soap",
+        "A kajal",
+        "A powder for rice fields"
+      ],
+      "answer": "A kajal"
+    },
+    {
+      "id": 141,
+      "type": "mcq",
+      "q": "Who is the poet of \"What a Bird Thought\"?",
+      "choices": [
+        "Jill Wolf",
+        "Georgia Heard",
+        "Daphne Lister",
+        "The poet is anonymous"
+      ],
+      "answer": "The poet is anonymous"
+    },
+    {
+      "id": 142,
+      "type": "mcq",
+      "q": "The first \"little house\" of the bird was really its ___.",
+      "choices": [
+        "hive",
+        "cage",
+        "egg",
+        "nest box"
+      ],
+      "answer": "egg"
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "q": "Where did the bird live next?",
+      "choices": [
+        "In a kennel",
+        "In a pond",
+        "In a burrow",
+        "In a little nest"
+      ],
+      "answer": "In a little nest"
+    },
+    {
+      "id": 144,
+      "type": "mcq",
+      "q": "Where did the bird fly at last?",
+      "choices": [
+        "Under the ground",
+        "Into a house",
+        "Beyond the tree",
+        "Back into the shell"
+      ],
+      "answer": "Beyond the tree"
+    },
+    {
+      "id": 145,
+      "type": "mcq",
+      "q": "Where did the bird live first?",
+      "choices": [
+        "In a cave",
+        "In a little house of shell",
+        "In water",
+        "On a roof"
+      ],
+      "answer": "In a little house of shell"
+    },
+    {
+      "id": 146,
+      "type": "mcq",
+      "q": "Who is the speaker in the poem?",
+      "choices": [
+        "A bird",
+        "A fox",
+        "A tree",
+        "A child"
+      ],
+      "answer": "A bird"
+    },
+    {
+      "id": 147,
+      "type": "mcq",
+      "q": "Which word rhymes with \"other\" in the second stanza?",
+      "choices": [
+        "mother",
+        "made",
+        "straw",
+        "nest"
+      ],
+      "answer": "mother"
+    },
+    {
+      "id": 148,
+      "type": "mcq",
+      "q": "Who else, according to the bird, does not know?",
+      "choices": [
+        "The sage",
+        "Its neighbours",
+        "Only its mother",
+        "The poet’s teacher"
+      ],
+      "answer": "Its neighbours"
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "q": "Which word rhymes with \"well\" at the start of the poem?",
+      "choices": [
+        "shell",
+        "will",
+        "wool",
+        "wall"
+      ],
+      "answer": "shell"
+    },
+    {
+      "id": 150,
+      "type": "mcq",
+      "q": "What did the bird first think the world was like?",
+      "choices": [
+        "Long and narrow",
+        "Dark and flat",
+        "Large and square",
+        "Small and round"
+      ],
+      "answer": "Small and round"
+    },
+    {
+      "id": 151,
+      "type": "mcq",
+      "q": "What does the poem mainly show?",
+      "choices": [
+        "Eggs are always blue",
+        "Our view of the world grows with experience",
+        "Birds cannot fly",
+        "Nests are unsafe"
+      ],
+      "answer": "Our view of the world grows with experience"
+    },
+    {
+      "id": 152,
+      "type": "mcq",
+      "q": "\"Nestled\" means ___.",
+      "choices": [
+        "made a loud noise",
+        "looked for food",
+        "settled close and cosy",
+        "flew far away"
+      ],
+      "answer": "settled close and cosy"
+    },
+    {
+      "id": 153,
+      "type": "mcq",
+      "q": "What colour was the shell?",
+      "choices": [
+        "Dark green",
+        "Pale blue",
+        "Black",
+        "Bright red"
+      ],
+      "answer": "Pale blue"
+    },
+    {
+      "id": 154,
+      "type": "mcq",
+      "q": "\"Fluttered\" means moved with ___.",
+      "choices": [
+        "no movement",
+        "quick flapping of wings",
+        "swimming strokes",
+        "slow heavy steps"
+      ],
+      "answer": "quick flapping of wings"
+    },
+    {
+      "id": 155,
+      "type": "mcq",
+      "q": "What did the bird do one day?",
+      "choices": [
+        "Went to sleep for ever",
+        "Broke another egg",
+        "Built a house of brick",
+        "Fluttered from the nest"
+      ],
+      "answer": "Fluttered from the nest"
+    },
+    {
+      "id": 156,
+      "type": "mcq",
+      "q": "What does the bird admit at the end?",
+      "choices": [
+        "It knows everything",
+        "It does not know how the world is made",
+        "The world is a shell",
+        "There is no world"
+      ],
+      "answer": "It does not know how the world is made"
+    },
+    {
+      "id": 157,
+      "type": "mcq",
+      "q": "When in the nest, what did the bird think the world was made of?",
+      "choices": [
+        "Water",
+        "Stone",
+        "Glass",
+        "Straw"
+      ],
+      "answer": "Straw"
+    },
+    {
+      "id": 158,
+      "type": "mcq",
+      "q": "By whom did the bird nestle?",
+      "choices": [
+        "Its mother",
+        "A farmer",
+        "A fox",
+        "Its neighbour’s cat"
+      ],
+      "answer": "Its mother"
+    },
+    {
+      "id": 159,
+      "type": "mcq",
+      "q": "The bird said it had been very ___.",
+      "choices": [
+        "rich",
+        "brave",
+        "hungry",
+        "blind"
+      ],
+      "answer": "blind"
+    },
+    {
+      "id": 160,
+      "type": "mcq",
+      "q": "After leaving the nest, what did the bird say the world was made of?",
+      "choices": [
+        "Clouds",
+        "Sand",
+        "Leaves",
+        "Wood only"
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "id": 161,
+      "type": "mcq",
+      "q": "\"Spices that Heal Us\" is written in the form of a ___.",
+      "choices": [
+        "comic",
+        "poem",
+        "play",
+        "letter"
+      ],
+      "answer": "letter"
+    },
+    {
+      "id": 162,
+      "type": "mcq",
+      "q": "Which two give relief from toothache until a dentist is seen?",
+      "choices": [
+        "Fennel and carom",
+        "Cinnamon and clove",
+        "Cardamom and methi",
+        "Turmeric and cumin"
+      ],
+      "answer": "Cinnamon and clove"
+    },
+    {
+      "id": 163,
+      "type": "mcq",
+      "q": "Who writes the letter?",
+      "choices": [
+        "Amber",
+        "A doctor",
+        "Daadi",
+        "Vikram"
+      ],
+      "answer": "Daadi"
+    },
+    {
+      "id": 164,
+      "type": "mcq",
+      "q": "Which are often served at the end of a meal to help digestion?",
+      "choices": [
+        "Haldi and heeng",
+        "Methi and jeera",
+        "Saunf and ajwain",
+        "Clove and ginger"
+      ],
+      "answer": "Saunf and ajwain"
+    },
+    {
+      "id": 165,
+      "type": "mcq",
+      "q": "Which spice water did Daadi put on a baby’s tummy for gas?",
+      "choices": [
+        "Dalchini",
+        "Haldi",
+        "Heeng",
+        "Saunf"
+      ],
+      "answer": "Heeng"
+    },
+    {
+      "id": 166,
+      "type": "mcq",
+      "q": "Laung is called ___ in English.",
+      "choices": [
+        "cumin",
+        "clove",
+        "cinnamon",
+        "ginger"
+      ],
+      "answer": "clove"
+    },
+    {
+      "id": 167,
+      "type": "mcq",
+      "q": "Haldi helps in improving energy and ___.",
+      "choices": [
+        "digestion",
+        "hearing",
+        "height",
+        "eyesight"
+      ],
+      "answer": "digestion"
+    },
+    {
+      "id": 168,
+      "type": "mcq",
+      "q": "Heeng is called ___ in English.",
+      "choices": [
+        "amchur",
+        "ajwain",
+        "asafoetida",
+        "aniseed"
+      ],
+      "answer": "asafoetida"
+    },
+    {
+      "id": 169,
+      "type": "mcq",
+      "q": "Kali mirch is called ___.",
+      "choices": [
+        "green cardamom",
+        "black cumin",
+        "red chilli",
+        "black pepper"
+      ],
+      "answer": "black pepper"
+    },
+    {
+      "id": 170,
+      "type": "mcq",
+      "q": "What is methi called in English?",
+      "choices": [
+        "Clove",
+        "Cinnamon",
+        "Fenugreek",
+        "Cardamom"
+      ],
+      "answer": "Fenugreek"
+    },
+    {
+      "id": 171,
+      "type": "mcq",
+      "q": "Which herb helps with cough and cold and has been used for over 4000 years?",
+      "choices": [
+        "Clove",
+        "Ginger",
+        "Saffron",
+        "Mint"
+      ],
+      "answer": "Ginger"
+    },
+    {
+      "id": 172,
+      "type": "mcq",
+      "q": "Jeera water can improve digestion and help cure ___.",
+      "choices": [
+        "measles",
+        "sleeplessness",
+        "broken bones",
+        "short sight"
+      ],
+      "answer": "sleeplessness"
+    },
+    {
+      "id": 173,
+      "type": "mcq",
+      "q": "What is Daadi’s final advice about these remedies?",
+      "choices": [
+        "Never share them",
+        "Consult an elder before using them",
+        "Keep them secret",
+        "Use them in large amounts"
+      ],
+      "answer": "Consult an elder before using them"
+    },
+    {
+      "id": 174,
+      "type": "mcq",
+      "q": "What does Daadi use methi to control?",
+      "choices": [
+        "Toothache",
+        "Cough only",
+        "Sugar level and body weight",
+        "Sleep"
+      ],
+      "answer": "Sugar level and body weight"
+    },
+    {
+      "id": 175,
+      "type": "mcq",
+      "q": "How does Daadi prepare methi?",
+      "choices": [
+        "Soaks the seeds overnight and drinks the water",
+        "Mixes it with sand",
+        "Makes a paste for the eyes",
+        "Fries the seeds in oil"
+      ],
+      "answer": "Soaks the seeds overnight and drinks the water"
+    },
+    {
+      "id": 176,
+      "type": "mcq",
+      "q": "To whom is the letter written?",
+      "choices": [
+        "Renu and Bala",
+        "Rama and his wife",
+        "Vikram and Vaibhavi",
+        "Guneet and Asma"
+      ],
+      "answer": "Vikram and Vaibhavi"
+    },
+    {
+      "id": 177,
+      "type": "mcq",
+      "q": "From whom did Daadi learn the remedies?",
+      "choices": [
+        "A shopkeeper",
+        "A textbook",
+        "Neem Baba",
+        "Her grandmother"
+      ],
+      "answer": "Her grandmother"
+    },
+    {
+      "id": 178,
+      "type": "mcq",
+      "q": "Which spice helps cure bad breath?",
+      "choices": [
+        "Asafoetida",
+        "Turmeric",
+        "Cardamom",
+        "Fenugreek"
+      ],
+      "answer": "Cardamom"
+    },
+    {
+      "id": 179,
+      "type": "mcq",
+      "q": "What is haldi called in English?",
+      "choices": [
+        "Fenugreek",
+        "Turmeric",
+        "Fennel",
+        "Cumin"
+      ],
+      "answer": "Turmeric"
+    },
+    {
+      "id": 180,
+      "type": "mcq",
+      "q": "A spice is a part of a plant used to give food ___.",
+      "choices": [
+        "weight and size",
+        "taste and colour",
+        "coldness",
+        "noise"
+      ],
+      "answer": "taste and colour"
+    },
+    {
+      "id": 181,
+      "type": "mcq",
+      "q": "How did Surya react to losing?",
+      "choices": [
+        "He broke his racket",
+        "He complained to the coach",
+        "He cried",
+        "It did not matter to him"
+      ],
+      "answer": "It did not matter to him"
+    },
+    {
+      "id": 182,
+      "type": "mcq",
+      "q": "What responsibility was Prabhat given for the match?",
+      "choices": [
+        "Being the coach",
+        "Keeping score",
+        "Bringing water",
+        "Drawing the court"
+      ],
+      "answer": "Keeping score"
+    },
+    {
+      "id": 183,
+      "type": "mcq",
+      "q": "When did the coach hold friendly matches?",
+      "choices": [
+        "On the last Friday of the month",
+        "Every Monday",
+        "On Sundays",
+        "Once a year"
+      ],
+      "answer": "On the last Friday of the month"
+    },
+    {
+      "id": 184,
+      "type": "mcq",
+      "q": "Why is the story called \"Change of Heart\"?",
+      "choices": [
+        "The heart game was played",
+        "Prabhat’s attitude changed",
+        "The coach changed the teams",
+        "Surya changed schools"
+      ],
+      "answer": "Prabhat’s attitude changed"
+    },
+    {
+      "id": 185,
+      "type": "mcq",
+      "q": "Which game was Prabhat really good at?",
+      "choices": [
+        "Swimming",
+        "Badminton",
+        "Kho-kho",
+        "Chess"
+      ],
+      "answer": "Badminton"
+    },
+    {
+      "id": 186,
+      "type": "mcq",
+      "q": "Who is the boy who always wanted to win?",
+      "choices": [
+        "Mario",
+        "Prabhat",
+        "Surya",
+        "Sushil"
+      ],
+      "answer": "Prabhat"
+    },
+    {
+      "id": 187,
+      "type": "mcq",
+      "q": "What does \"terrible\" mean here?",
+      "choices": [
+        "Very unhappy",
+        "Very funny",
+        "Very quick",
+        "Very strong"
+      ],
+      "answer": "Very unhappy"
+    },
+    {
+      "id": 188,
+      "type": "mcq",
+      "q": "What did Prabhat learn?",
+      "choices": [
+        "To avoid sports",
+        "To cheat more cleverly",
+        "To enjoy a game for its own sake",
+        "To keep every score"
+      ],
+      "answer": "To enjoy a game for its own sake"
+    },
+    {
+      "id": 189,
+      "type": "mcq",
+      "q": "What did Prabhat do if he sensed he would lose?",
+      "choices": [
+        "He would not play",
+        "He clapped for others",
+        "He played harder for fun",
+        "He asked for help"
+      ],
+      "answer": "He would not play"
+    },
+    {
+      "id": 190,
+      "type": "mcq",
+      "q": "Who was the new student?",
+      "choices": [
+        "Rama",
+        "Vikram",
+        "Surya",
+        "Bala"
+      ],
+      "answer": "Surya"
+    },
+    {
+      "id": 191,
+      "type": "mcq",
+      "q": "\"Opponent\" means ___.",
+      "choices": [
+        "the person you play against",
+        "a spectator",
+        "the scorer",
+        "your coach"
+      ],
+      "answer": "the person you play against"
+    },
+    {
+      "id": 192,
+      "type": "mcq",
+      "q": "How did losing make Prabhat feel?",
+      "choices": [
+        "Calm",
+        "Terrible",
+        "Excited",
+        "Proud"
+      ],
+      "answer": "Terrible"
+    },
+    {
+      "id": 193,
+      "type": "mcq",
+      "q": "How did Surya behave before the match?",
+      "choices": [
+        "Angry",
+        "Relaxed and joking",
+        "Very serious",
+        "Nervous and silent"
+      ],
+      "answer": "Relaxed and joking"
+    },
+    {
+      "id": 194,
+      "type": "mcq",
+      "q": "How did Prabhat feel that night?",
+      "choices": [
+        "He was overjoyed",
+        "He felt nothing at all about it",
+        "He slept early with pride",
+        "He could not sleep well"
+      ],
+      "answer": "He could not sleep well"
+    },
+    {
+      "id": 195,
+      "type": "mcq",
+      "q": "On which day were the teams decided?",
+      "choices": [
+        "Friday",
+        "Wednesday",
+        "Saturday",
+        "Monday"
+      ],
+      "answer": "Monday"
+    },
+    {
+      "id": 196,
+      "type": "mcq",
+      "q": "Which game did Surya play badly but still enjoy?",
+      "choices": [
+        "Cricket",
+        "Basketball",
+        "Badminton",
+        "Marbles"
+      ],
+      "answer": "Basketball"
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "q": "How did Prabhat manage to win?",
+      "choices": [
+        "By changing the scoreboard",
+        "Surya gave up",
+        "The coach helped fairly",
+        "By practising all night"
+      ],
+      "answer": "By changing the scoreboard"
+    },
+    {
+      "id": 198,
+      "type": "mcq",
+      "q": "What did other students later say about Prabhat?",
+      "choices": [
+        "He was a bad loser",
+        "He had a great sporting spirit",
+        "He talked too much about winning",
+        "He never played"
+      ],
+      "answer": "He had a great sporting spirit"
+    },
+    {
+      "id": 199,
+      "type": "mcq",
+      "q": "What did Prabhat notice about Surya?",
+      "choices": [
+        "He played only games he could win",
+        "He hated losing",
+        "He never smiled",
+        "He enjoyed every game equally"
+      ],
+      "answer": "He enjoyed every game equally"
+    },
+    {
+      "id": 200,
+      "type": "mcq",
+      "q": "How did Surya play on the court?",
+      "choices": [
+        "He refused to play",
+        "He cheated",
+        "Brilliantly, laughing all the while",
+        "Very badly"
+      ],
+      "answer": "Brilliantly, laughing all the while"
+    },
+    {
+      "id": 201,
+      "type": "mcq",
+      "q": "What does the blue dark turn to?",
+      "choices": [
+        "White",
+        "Black",
+        "Gold",
+        "Green"
+      ],
+      "answer": "Black"
+    },
+    {
+      "id": 202,
+      "type": "mcq",
+      "q": "The short lines about running suggest ___.",
+      "choices": [
+        "breathlessness",
+        "silence",
+        "sleep",
+        "boredom"
+      ],
+      "answer": "breathlessness"
+    },
+    {
+      "id": 203,
+      "type": "mcq",
+      "q": "What is the field next to?",
+      "choices": [
+        "A creek",
+        "A market",
+        "A mountain peak",
+        "A railway line"
+      ],
+      "answer": "A creek"
+    },
+    {
+      "id": 204,
+      "type": "mcq",
+      "q": "A \"creek\" is ___.",
+      "choices": [
+        "a kind of ball",
+        "a tall tree",
+        "a fence",
+        "a small body of water"
+      ],
+      "answer": "a small body of water"
+    },
+    {
+      "id": 205,
+      "type": "mcq",
+      "q": "What aches their feet?",
+      "choices": [
+        "Hot sand",
+        "Cold grass",
+        "Heavy shoes",
+        "Sharp stones"
+      ],
+      "answer": "Cold grass"
+    },
+    {
+      "id": 206,
+      "type": "mcq",
+      "q": "What seems to creep close?",
+      "choices": [
+        "Clouds",
+        "Cows",
+        "Trees",
+        "Houses"
+      ],
+      "answer": "Trees"
+    },
+    {
+      "id": 207,
+      "type": "mcq",
+      "q": "Who wrote the poem \"The Winner\"?",
+      "choices": [
+        "Georgia Heard",
+        "Jill Wolf",
+        "Daphne Lister",
+        "S. I. Farooqi"
+      ],
+      "answer": "Georgia Heard"
+    },
+    {
+      "id": 208,
+      "type": "mcq",
+      "q": "\"Creep\" means to move ___.",
+      "choices": [
+        "loudly and fast",
+        "by swimming",
+        "by flying",
+        "slowly and quietly"
+      ],
+      "answer": "slowly and quietly"
+    },
+    {
+      "id": 209,
+      "type": "mcq",
+      "q": "A \"neighbour\" is someone who ___.",
+      "choices": [
+        "sells balls",
+        "lives abroad",
+        "teaches us",
+        "lives nearby"
+      ],
+      "answer": "lives nearby"
+    },
+    {
+      "id": 210,
+      "type": "mcq",
+      "q": "Which is the opposite of \"evening\"?",
+      "choices": [
+        "night",
+        "twilight",
+        "morning",
+        "dusk"
+      ],
+      "answer": "morning"
+    },
+    {
+      "id": 211,
+      "type": "mcq",
+      "q": "What happens when night comes?",
+      "choices": [
+        "They light a fire and play on",
+        "The game is over",
+        "The game begins",
+        "They go to school"
+      ],
+      "answer": "The game is over"
+    },
+    {
+      "id": 212,
+      "type": "mcq",
+      "q": "Why do the trees seem close?",
+      "choices": [
+        "The ball is big",
+        "It is getting dark",
+        "The trees are walking",
+        "The field is flooded"
+      ],
+      "answer": "It is getting dark"
+    },
+    {
+      "id": 213,
+      "type": "mcq",
+      "q": "Where do they play?",
+      "choices": [
+        "In a school hall",
+        "On a roof",
+        "On a beach",
+        "In a neighbour’s field"
+      ],
+      "answer": "In a neighbour’s field"
+    },
+    {
+      "id": 214,
+      "type": "mcq",
+      "q": "When do the children play ball in the poem?",
+      "choices": [
+        "At noon",
+        "In the evenings",
+        "At midnight",
+        "At dawn"
+      ],
+      "answer": "In the evenings"
+    },
+    {
+      "id": 215,
+      "type": "mcq",
+      "q": "Who is \"the winner\" in the poem?",
+      "choices": [
+        "The creek",
+        "Night",
+        "The neighbour",
+        "The fastest child"
+      ],
+      "answer": "Night"
+    },
+    {
+      "id": 216,
+      "type": "mcq",
+      "q": "The main idea of the poem is that ___.",
+      "choices": [
+        "ball games are dangerous",
+        "a child wins a trophy",
+        "darkness ends the children’s happy game",
+        "trees can run"
+      ],
+      "answer": "darkness ends the children’s happy game"
+    },
+    {
+      "id": 217,
+      "type": "mcq",
+      "q": "The cold grass shows that the day is ___.",
+      "choices": [
+        "just beginning",
+        "very hot",
+        "ending and cooling",
+        "windless noon"
+      ],
+      "answer": "ending and cooling"
+    },
+    {
+      "id": 218,
+      "type": "mcq",
+      "q": "Which sense helps us notice that grass is cold?",
+      "choices": [
+        "Smell",
+        "Hearing",
+        "Touch",
+        "Taste"
+      ],
+      "answer": "Touch"
+    },
+    {
+      "id": 219,
+      "type": "mcq",
+      "q": "\"Ache\" means ___.",
+      "choices": [
+        "to jump",
+        "to laugh",
+        "to shine",
+        "to feel pain"
+      ],
+      "answer": "to feel pain"
+    },
+    {
+      "id": 220,
+      "type": "mcq",
+      "q": "How do the children run?",
+      "choices": [
+        "Very slowly",
+        "So fast they can hardly catch their breath",
+        "Only in circles with their eyes shut",
+        "On tiptoe"
+      ],
+      "answer": "So fast they can hardly catch their breath"
+    },
+    {
+      "id": 221,
+      "type": "mcq",
+      "q": "The word \"Yoga\" comes from which language?",
+      "choices": [
+        "Greek",
+        "Sanskrit",
+        "Persian",
+        "Latin"
+      ],
+      "answer": "Sanskrit"
+    },
+    {
+      "id": 222,
+      "type": "mcq",
+      "q": "Yoga can improve heart health by lowering ___.",
+      "choices": [
+        "body height",
+        "blood pressure",
+        "bone count",
+        "eyesight"
+      ],
+      "answer": "blood pressure"
+    },
+    {
+      "id": 223,
+      "type": "mcq",
+      "q": "In which work did Patanjali present yoga?",
+      "choices": [
+        "Arthashastra",
+        "Natya Shastra",
+        "Panchatantra",
+        "Yoga Sutras"
+      ],
+      "answer": "Yoga Sutras"
+    },
+    {
+      "id": 224,
+      "type": "mcq",
+      "q": "Yoga postures are called ___.",
+      "choices": [
+        "ragas",
+        "asanas",
+        "sutras",
+        "mudras only"
+      ],
+      "answer": "asanas"
+    },
+    {
+      "id": 225,
+      "type": "mcq",
+      "q": "In a yogic practice, each stretch is coordinated with ___.",
+      "choices": [
+        "competition",
+        "food",
+        "loud music",
+        "breath and awareness"
+      ],
+      "answer": "breath and awareness"
+    },
+    {
+      "id": 226,
+      "type": "mcq",
+      "q": "Where did yoga originate?",
+      "choices": [
+        "Ancient Egypt",
+        "Ancient India",
+        "Ancient China",
+        "Ancient Rome"
+      ],
+      "answer": "Ancient India"
+    },
+    {
+      "id": 227,
+      "type": "mcq",
+      "q": "What is the name of the app launched by WHO?",
+      "choices": [
+        "Yoga Sutra Net",
+        "Asana World",
+        "WHO mYoga",
+        "FitIndia Play"
+      ],
+      "answer": "WHO mYoga"
+    },
+    {
+      "id": 228,
+      "type": "mcq",
+      "q": "Yoga can help reduce pain in the ___.",
+      "choices": [
+        "teeth enamel",
+        "nails",
+        "lower back",
+        "hair"
+      ],
+      "answer": "lower back"
+    },
+    {
+      "id": 229,
+      "type": "mcq",
+      "q": "Yoga is a physical, mental and ___ practice.",
+      "choices": [
+        "commercial",
+        "spiritual",
+        "musical",
+        "competitive"
+      ],
+      "answer": "spiritual"
+    },
+    {
+      "id": 230,
+      "type": "mcq",
+      "q": "Which is a benefit of asanas?",
+      "choices": [
+        "They make muscles useless",
+        "They reduce sleep",
+        "They increase flexibility and balance",
+        "They stop breathing"
+      ],
+      "answer": "They increase flexibility and balance"
+    },
+    {
+      "id": 231,
+      "type": "mcq",
+      "q": "Which techniques help calm the mind?",
+      "choices": [
+        "Shouting and running",
+        "Breathing and meditation",
+        "Watching screens",
+        "Eating and sleeping late"
+      ],
+      "answer": "Breathing and meditation"
+    },
+    {
+      "id": 232,
+      "type": "mcq",
+      "q": "What does WHO stand for?",
+      "choices": [
+        "World Health Organisation",
+        "World Heritage Order",
+        "Water and Health Office",
+        "World Hockey Office"
+      ],
+      "answer": "World Health Organisation"
+    },
+    {
+      "id": 233,
+      "type": "mcq",
+      "q": "How should yoga be practised?",
+      "choices": [
+        "Without distractions",
+        "While arguing",
+        "In a great hurry",
+        "While watching television"
+      ],
+      "answer": "Without distractions"
+    },
+    {
+      "id": 234,
+      "type": "mcq",
+      "q": "Patanjali described yoga as a means to make the mind ___.",
+      "choices": [
+        "busy and restless",
+        "quiet and free from distractions",
+        "forgetful",
+        "competitive"
+      ],
+      "answer": "quiet and free from distractions"
+    },
+    {
+      "id": 235,
+      "type": "mcq",
+      "q": "Who presented yoga in a systematic way?",
+      "choices": [
+        "Sage Mahipati",
+        "Aryabhata",
+        "Sage Patanjali",
+        "Charaka"
+      ],
+      "answer": "Sage Patanjali"
+    },
+    {
+      "id": 236,
+      "type": "mcq",
+      "q": "Yoga can reduce stress and ___.",
+      "choices": [
+        "appetite for water",
+        "memory",
+        "anxiety",
+        "height"
+      ],
+      "answer": "anxiety"
+    },
+    {
+      "id": 237,
+      "type": "mcq",
+      "q": "Yoga can boost the ___ system.",
+      "choices": [
+        "postal",
+        "number",
+        "solar",
+        "immune"
+      ],
+      "answer": "immune"
+    },
+    {
+      "id": 238,
+      "type": "mcq",
+      "q": "\"Endurance\" means ___.",
+      "choices": [
+        "the capacity to continue without giving up",
+        "a sudden fall",
+        "a loud sound",
+        "a kind of posture mat"
+      ],
+      "answer": "the capacity to continue without giving up"
+    },
+    {
+      "id": 239,
+      "type": "mcq",
+      "q": "What does the root \"yuj\" mean?",
+      "choices": [
+        "To divide",
+        "To run",
+        "To sleep",
+        "To join or unite"
+      ],
+      "answer": "To join or unite"
+    },
+    {
+      "id": 240,
+      "type": "mcq",
+      "q": "In which year was the app launched?",
+      "choices": [
+        "2021",
+        "2010",
+        "2015",
+        "2001"
+      ],
+      "answer": "2021"
+    },
+    {
+      "id": 241,
+      "type": "mcq",
+      "q": "The children in the story learn about \"Ek Bharat, ___ Bharat\".",
+      "choices": [
+        "Shreshtha",
+        "Saksham",
+        "Swachh",
+        "Sundar"
+      ],
+      "answer": "Shreshtha"
+    },
+    {
+      "id": 242,
+      "type": "mcq",
+      "q": "What has attracted travellers to Bharat since ancient times?",
+      "choices": [
+        "Its rich and diverse culture",
+        "Its empty land",
+        "Its lack of rivers",
+        "Its ice caps only"
+      ],
+      "answer": "Its rich and diverse culture"
+    },
+    {
+      "id": 243,
+      "type": "mcq",
+      "q": "Aipan is a folk art from ___.",
+      "choices": [
+        "Andhra Pradesh",
+        "Uttarakhand",
+        "Odisha",
+        "Kerala"
+      ],
+      "answer": "Uttarakhand"
+    },
+    {
+      "id": 244,
+      "type": "mcq",
+      "q": "\"Makku\" is a paste of tamarind seed powder and ___.",
+      "choices": [
+        "sawdust",
+        "salt",
+        "rice flour",
+        "wax"
+      ],
+      "answer": "sawdust"
+    },
+    {
+      "id": 245,
+      "type": "mcq",
+      "q": "Gakkad is made from ___ dough.",
+      "choices": [
+        "maize",
+        "rice",
+        "gram",
+        "wheat"
+      ],
+      "answer": "wheat"
+    },
+    {
+      "id": 246,
+      "type": "mcq",
+      "q": "Dhokra is a ___ craft.",
+      "choices": [
+        "cloth",
+        "bamboo",
+        "paper",
+        "metal"
+      ],
+      "answer": "metal"
+    },
+    {
+      "id": 247,
+      "type": "mcq",
+      "q": "Kondapalli toys come from ___.",
+      "choices": [
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Uttarakhand",
+        "Kerala"
+      ],
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "id": 248,
+      "type": "mcq",
+      "q": "Aipan is traditionally made by ___.",
+      "choices": [
+        "school principals",
+        "factory machines",
+        "women in the family",
+        "visiting tourists"
+      ],
+      "answer": "women in the family"
+    },
+    {
+      "id": 249,
+      "type": "mcq",
+      "q": "The people of Bharat show the world ___.",
+      "choices": [
+        "isolation",
+        "sameness in everything",
+        "rivalry",
+        "unity in diversity"
+      ],
+      "answer": "unity in diversity"
+    },
+    {
+      "id": 250,
+      "type": "mcq",
+      "q": "Gakkad bharta is a special dish of ___.",
+      "choices": [
+        "Puri",
+        "Bhavnagar",
+        "Jabalpur",
+        "Amreli"
+      ],
+      "answer": "Jabalpur"
+    },
+    {
+      "id": 251,
+      "type": "mcq",
+      "q": "In Dhokra, the clay figure is covered with a layer of ___.",
+      "choices": [
+        "cloth",
+        "sand",
+        "wax",
+        "paint"
+      ],
+      "answer": "wax"
+    },
+    {
+      "id": 252,
+      "type": "mcq",
+      "q": "Coconut shell craft is called biodegradable because it ___.",
+      "choices": [
+        "will not harm the environment",
+        "never breaks",
+        "glows in the dark",
+        "is made of metal"
+      ],
+      "answer": "will not harm the environment"
+    },
+    {
+      "id": 253,
+      "type": "mcq",
+      "q": "Chitra from Kerala speaks about ___ craft.",
+      "choices": [
+        "wood toy",
+        "mirror work",
+        "coconut shell",
+        "stone"
+      ],
+      "answer": "coconut shell"
+    },
+    {
+      "id": 254,
+      "type": "mcq",
+      "q": "Kondapalli toys are made from ___.",
+      "choices": [
+        "soft wood",
+        "iron",
+        "plastic",
+        "glass"
+      ],
+      "answer": "soft wood"
+    },
+    {
+      "id": 255,
+      "type": "mcq",
+      "q": "Bharat has been known as a land of ___ and heroic individuals.",
+      "choices": [
+        "lazy",
+        "wise",
+        "few",
+        "silent"
+      ],
+      "answer": "wise"
+    },
+    {
+      "id": 256,
+      "type": "mcq",
+      "q": "Which red clay colours the walls for Aipan?",
+      "choices": [
+        "Chalk",
+        "Makku",
+        "Lac",
+        "Geru"
+      ],
+      "answer": "Geru"
+    },
+    {
+      "id": 257,
+      "type": "mcq",
+      "q": "Which metal is poured in the Dhokra process?",
+      "choices": [
+        "Iron",
+        "Brass",
+        "Silver",
+        "Gold"
+      ],
+      "answer": "Brass"
+    },
+    {
+      "id": 258,
+      "type": "mcq",
+      "q": "The Dhokra speaker, Priyaranjan, is from ___.",
+      "choices": [
+        "Punjab",
+        "Odisha",
+        "Assam",
+        "Gujarat"
+      ],
+      "answer": "Odisha"
+    },
+    {
+      "id": 259,
+      "type": "mcq",
+      "q": "Aipan designs are drawn with a paste of ___.",
+      "choices": [
+        "rice flour",
+        "sawdust",
+        "turmeric only",
+        "wheat bran"
+      ],
+      "answer": "rice flour"
+    },
+    {
+      "id": 260,
+      "type": "mcq",
+      "q": "The bharta is made with roasted brinjals and ___.",
+      "choices": [
+        "bananas",
+        "carrots",
+        "potatoes",
+        "tomatoes"
+      ],
+      "answer": "tomatoes"
+    },
+    {
+      "id": 261,
+      "type": "mcq",
+      "q": "\"Like coloured birds\" is an example of a ___.",
+      "choices": [
+        "proverb",
+        "riddle",
+        "pun",
+        "simile"
+      ],
+      "answer": "simile"
+    },
+    {
+      "id": 262,
+      "type": "mcq",
+      "q": "The child would drift upon ___.",
+      "choices": [
+        "wooden wheels",
+        "paper wings",
+        "iron rails",
+        "a leaf boat"
+      ],
+      "answer": "paper wings"
+    },
+    {
+      "id": 263,
+      "type": "mcq",
+      "q": "What would those people wish?",
+      "choices": [
+        "To cut the kite",
+        "That it would rain",
+        "To go home",
+        "To be high in the air like the child"
+      ],
+      "answer": "To be high in the air like the child"
+    },
+    {
+      "id": 264,
+      "type": "mcq",
+      "q": "What would the child hear?",
+      "choices": [
+        "Songs of the wild wind",
+        "School bells",
+        "Traffic horns",
+        "A lion’s roar"
+      ],
+      "answer": "Songs of the wild wind"
+    },
+    {
+      "id": 265,
+      "type": "mcq",
+      "q": "The Kite Festival takes place in January at the time of ___.",
+      "choices": [
+        "Makar Sankranti",
+        "Holi",
+        "Onam",
+        "Diwali"
+      ],
+      "answer": "Makar Sankranti"
+    },
+    {
+      "id": 266,
+      "type": "mcq",
+      "q": "The feeling of the poem is mostly ___.",
+      "choices": [
+        "fear",
+        "sorrow",
+        "joyful imagination",
+        "anger"
+      ],
+      "answer": "joyful imagination"
+    },
+    {
+      "id": 267,
+      "type": "mcq",
+      "q": "What would the people below do?",
+      "choices": [
+        "Stand and stare",
+        "Run indoors",
+        "Cover their eyes",
+        "Go to sleep"
+      ],
+      "answer": "Stand and stare"
+    },
+    {
+      "id": 268,
+      "type": "mcq",
+      "q": "In western India the kite festival is celebrated as ___.",
+      "choices": [
+        "Baisakhi only",
+        "Uttarayan",
+        "Pongal",
+        "Bihu"
+      ],
+      "answer": "Uttarayan"
+    },
+    {
+      "id": 269,
+      "type": "mcq",
+      "q": "Which state is the main centre of Uttarayan celebrations?",
+      "choices": [
+        "Goa",
+        "Assam",
+        "Kerala",
+        "Gujarat"
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "id": 270,
+      "type": "mcq",
+      "q": "What kind of sky is it?",
+      "choices": [
+        "Pitch dark",
+        "Wind-whipped",
+        "Rainy and still",
+        "Snowy"
+      ],
+      "answer": "Wind-whipped"
+    },
+    {
+      "id": 271,
+      "type": "mcq",
+      "q": "Which word rhymes with \"down\" in the poem?",
+      "choices": [
+        "done",
+        "town",
+        "park",
+        "dawn"
+      ],
+      "answer": "town"
+    },
+    {
+      "id": 272,
+      "type": "mcq",
+      "q": "Repeating the same starting sound, as in \"wild wind\", is ___.",
+      "choices": [
+        "alliteration",
+        "simile",
+        "rhyme only",
+        "question"
+      ],
+      "answer": "alliteration"
+    },
+    {
+      "id": 273,
+      "type": "mcq",
+      "q": "To what are the flying kites compared?",
+      "choices": [
+        "Fallen leaves",
+        "Coloured birds",
+        "Fishing boats",
+        "Grey stones"
+      ],
+      "answer": "Coloured birds"
+    },
+    {
+      "id": 274,
+      "type": "mcq",
+      "q": "Who wrote the poem \"The Kites\"?",
+      "choices": [
+        "Jill Wolf",
+        "Daphne Lister",
+        "Sudha Murty",
+        "Georgia Heard"
+      ],
+      "answer": "Daphne Lister"
+    },
+    {
+      "id": 275,
+      "type": "mcq",
+      "q": "\"Drift\" means to ___.",
+      "choices": [
+        "dig",
+        "sink quickly",
+        "float gently",
+        "shout"
+      ],
+      "answer": "float gently"
+    },
+    {
+      "id": 276,
+      "type": "mcq",
+      "q": "Which word rhymes with \"sky\" in the first stanza?",
+      "choices": [
+        "fly",
+        "kite",
+        "air",
+        "see"
+      ],
+      "answer": "fly"
+    },
+    {
+      "id": 277,
+      "type": "mcq",
+      "q": "What would the child like to climb on?",
+      "choices": [
+        "A cloud ladder",
+        "A rooftop pole",
+        "A mountain",
+        "A kite"
+      ],
+      "answer": "A kite"
+    },
+    {
+      "id": 278,
+      "type": "mcq",
+      "q": "What would the child look down over?",
+      "choices": [
+        "A factory inside",
+        "The park and rooftops of the town",
+        "The ocean floor",
+        "A desert"
+      ],
+      "answer": "The park and rooftops of the town"
+    },
+    {
+      "id": 279,
+      "type": "mcq",
+      "q": "Where do the kites fly?",
+      "choices": [
+        "In a tunnel",
+        "Under water",
+        "Inside a hall",
+        "Up in the air"
+      ],
+      "answer": "Up in the air"
+    },
+    {
+      "id": 280,
+      "type": "mcq",
+      "q": "The child wishes to be small and ___.",
+      "choices": [
+        "heavy as stone",
+        "fast as a horse",
+        "light as air",
+        "tall as a tree"
+      ],
+      "answer": "light as air"
+    },
+    {
+      "id": 281,
+      "type": "mcq",
+      "q": "Which of these styles did Ila also learn?",
+      "choices": [
+        "Dhokra",
+        "Aipan",
+        "Lucknawi",
+        "Warli painting"
+      ],
+      "answer": "Lucknawi"
+    },
+    {
+      "id": 282,
+      "type": "mcq",
+      "q": "What does Ila use to create her designs?",
+      "choices": [
+        "A computer",
+        "A machine",
+        "Her teeth",
+        "Her feet"
+      ],
+      "answer": "Her feet"
+    },
+    {
+      "id": 283,
+      "type": "mcq",
+      "q": "What else did her parents help her learn to do with her legs?",
+      "choices": [
+        "Drive a car",
+        "Play the flute",
+        "Eat and comb her hair",
+        "Swim in the sea"
+      ],
+      "answer": "Eat and comb her hair"
+    },
+    {
+      "id": 284,
+      "type": "mcq",
+      "q": "In which district was she born?",
+      "choices": [
+        "Surat",
+        "Jamnagar",
+        "Amreli",
+        "Kutch"
+      ],
+      "answer": "Amreli"
+    },
+    {
+      "id": 285,
+      "type": "mcq",
+      "q": "Common designs include flowers and shapes such as ___.",
+      "choices": [
+        "cars and trains",
+        "squares and triangles",
+        "letters and numbers",
+        "clouds only"
+      ],
+      "answer": "squares and triangles"
+    },
+    {
+      "id": 286,
+      "type": "mcq",
+      "q": "Which quality helped Ila meet the challenge?",
+      "choices": [
+        "Impatience",
+        "Fear",
+        "Carelessness",
+        "Determination"
+      ],
+      "answer": "Determination"
+    },
+    {
+      "id": 287,
+      "type": "mcq",
+      "q": "What did Ila prove?",
+      "choices": [
+        "Challenges can be turned into victories",
+        "Farmers cannot be artists",
+        "Art needs both hands",
+        "Fame needs no work"
+      ],
+      "answer": "Challenges can be turned into victories"
+    },
+    {
+      "id": 288,
+      "type": "mcq",
+      "q": "Ila is skilled in which embroidery?",
+      "choices": [
+        "Kathiawar",
+        "Phulkari",
+        "Kantha",
+        "Chikankari only"
+      ],
+      "answer": "Kathiawar"
+    },
+    {
+      "id": 289,
+      "type": "mcq",
+      "q": "Which stitch is mentioned for this embroidery?",
+      "choices": [
+        "Chain stitch",
+        "Knit stitch",
+        "Glue stitch",
+        "No stitch"
+      ],
+      "answer": "Chain stitch"
+    },
+    {
+      "id": 290,
+      "type": "mcq",
+      "q": "For whom did she first make designs?",
+      "choices": [
+        "The President",
+        "Film stars",
+        "Foreign buyers",
+        "Family and friends"
+      ],
+      "answer": "Family and friends"
+    },
+    {
+      "id": 291,
+      "type": "mcq",
+      "q": "What challenge was Ila born with?",
+      "choices": [
+        "She could not speak",
+        "She could not hear",
+        "Her hands hung loose by her sides",
+        "She could not see"
+      ],
+      "answer": "Her hands hung loose by her sides"
+    },
+    {
+      "id": 292,
+      "type": "mcq",
+      "q": "Besides income, what did Ila find through her skill?",
+      "choices": [
+        "A wish to give up",
+        "A new language",
+        "Loneliness",
+        "Joy in doing what she loved"
+      ],
+      "answer": "Joy in doing what she loved"
+    },
+    {
+      "id": 293,
+      "type": "mcq",
+      "q": "Kathiawar embroidery often uses small ___ along with stitches.",
+      "choices": [
+        "bells of iron",
+        "shells of snails",
+        "buttons of wax",
+        "mirrors"
+      ],
+      "answer": "mirrors"
+    },
+    {
+      "id": 294,
+      "type": "mcq",
+      "q": "Which honour did Ila receive?",
+      "choices": [
+        "A chess title",
+        "A film award",
+        "An Olympic medal",
+        "The President’s Medal"
+      ],
+      "answer": "The President’s Medal"
+    },
+    {
+      "id": 295,
+      "type": "mcq",
+      "q": "Into what kind of family was Ila born?",
+      "choices": [
+        "A farmer’s family",
+        "A royal family",
+        "A merchant’s family abroad",
+        "A sailor’s family"
+      ],
+      "answer": "A farmer’s family"
+    },
+    {
+      "id": 296,
+      "type": "mcq",
+      "q": "Who first taught her the art?",
+      "choices": [
+        "Her mother and grandmother",
+        "A school coach",
+        "A factory owner",
+        "A tourist"
+      ],
+      "answer": "Her mother and grandmother"
+    },
+    {
+      "id": 297,
+      "type": "mcq",
+      "q": "In which state was Ila Sachani born?",
+      "choices": [
+        "Kerala",
+        "Rajasthan",
+        "Gujarat",
+        "Punjab"
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "id": 298,
+      "type": "mcq",
+      "q": "\"Awestruck\" means ___.",
+      "choices": [
+        "bored",
+        "angry",
+        "sleepy",
+        "amazed"
+      ],
+      "answer": "amazed"
+    },
+    {
+      "id": 299,
+      "type": "mcq",
+      "q": "People visiting from which city were moved by her story?",
+      "choices": [
+        "Pune",
+        "Jaipur",
+        "Surat",
+        "Delhi"
+      ],
+      "answer": "Surat"
+    },
+    {
+      "id": 300,
+      "type": "mcq",
+      "q": "Where were some of her samples displayed?",
+      "choices": [
+        "At a state exhibition",
+        "In a school exam",
+        "At a railway station",
+        "In a museum abroad"
+      ],
+      "answer": "At a state exhibition"
+    },
+    {
+      "id": 301,
+      "type": "mcq",
+      "q": "\"Amar Jawan\" means the ___ soldier.",
+      "choices": [
+        "youngest",
+        "tallest",
+        "retired",
+        "immortal"
+      ],
+      "answer": "immortal"
+    },
+    {
+      "id": 302,
+      "type": "mcq",
+      "q": "\"Courage\" means ___.",
+      "choices": [
+        "sorrow",
+        "hunger",
+        "bravery",
+        "wealth"
+      ],
+      "answer": "bravery"
+    },
+    {
+      "id": 303,
+      "type": "mcq",
+      "q": "In which city is the National War Memorial?",
+      "choices": [
+        "New Delhi",
+        "Chennai",
+        "Mumbai",
+        "Kolkata"
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 304,
+      "type": "mcq",
+      "q": "Which feeling does the poem mainly express?",
+      "choices": [
+        "Boredom",
+        "Pride and respect",
+        "Jealousy",
+        "Laughter"
+      ],
+      "answer": "Pride and respect"
+    },
+    {
+      "id": 305,
+      "type": "mcq",
+      "q": "The brave served on battlefields, in the skies and on the ___.",
+      "choices": [
+        "stage",
+        "playground",
+        "oceans",
+        "farm"
+      ],
+      "answer": "oceans"
+    },
+    {
+      "id": 306,
+      "type": "mcq",
+      "q": "The memorial stands with ___ and grace.",
+      "choices": [
+        "noise",
+        "haste",
+        "fear",
+        "respect"
+      ],
+      "answer": "respect"
+    },
+    {
+      "id": 307,
+      "type": "mcq",
+      "q": "An \"eternal\" flame is one that ___.",
+      "choices": [
+        "is meant to burn for ever",
+        "gives no light",
+        "lasts one minute",
+        "is lit once a week only by chance"
+      ],
+      "answer": "is meant to burn for ever"
+    },
+    {
+      "id": 308,
+      "type": "mcq",
+      "q": "What glows in silence at the memorial?",
+      "choices": [
+        "A lantern festival",
+        "The eternal flame",
+        "A lighthouse",
+        "A neon sign"
+      ],
+      "answer": "The eternal flame"
+    },
+    {
+      "id": 309,
+      "type": "mcq",
+      "q": "The poem honours ___.",
+      "choices": [
+        "famous singers",
+        "ancient traders",
+        "brave soldiers who sacrificed their lives",
+        "farmers at harvest"
+      ],
+      "answer": "brave soldiers who sacrificed their lives"
+    },
+    {
+      "id": 310,
+      "type": "mcq",
+      "q": "To \"pay homage\" means to ___.",
+      "choices": [
+        "pay a bill",
+        "show deep respect",
+        "make a joke",
+        "build a house"
+      ],
+      "answer": "show deep respect"
+    },
+    {
+      "id": 311,
+      "type": "mcq",
+      "q": "Which word rhymes with \"glows\"?",
+      "choices": [
+        "shows",
+        "glass",
+        "glad",
+        "glue"
+      ],
+      "answer": "shows"
+    },
+    {
+      "id": 312,
+      "type": "mcq",
+      "q": "What should we always remember?",
+      "choices": [
+        "Only the buildings",
+        "The ticket price",
+        "The weather",
+        "The soldiers’ sacrifice"
+      ],
+      "answer": "The soldiers’ sacrifice"
+    },
+    {
+      "id": 313,
+      "type": "mcq",
+      "q": "This tells us the poem remembers the Army, Air Force and ___.",
+      "choices": [
+        "Fire Service",
+        "Navy",
+        "Post Office",
+        "Railways"
+      ],
+      "answer": "Navy"
+    },
+    {
+      "id": 314,
+      "type": "mcq",
+      "q": "Which word rhymes with \"pride\" in the poem?",
+      "choices": [
+        "proud",
+        "confide",
+        "prize",
+        "brave"
+      ],
+      "answer": "confide"
+    },
+    {
+      "id": 315,
+      "type": "mcq",
+      "q": "Which word rhymes with \"wide\"?",
+      "choices": [
+        "wade",
+        "ward",
+        "wind",
+        "side"
+      ],
+      "answer": "side"
+    },
+    {
+      "id": 316,
+      "type": "mcq",
+      "q": "\"Etched\" means ___.",
+      "choices": [
+        "spoken softly",
+        "carved or engraved",
+        "painted with water",
+        "erased"
+      ],
+      "answer": "carved or engraved"
+    },
+    {
+      "id": 317,
+      "type": "mcq",
+      "q": "Whom or what does the National War Memorial honour?",
+      "choices": [
+        "Brave soldiers of Bharat",
+        "School toppers",
+        "Explorers of the moon",
+        "Sports champions"
+      ],
+      "answer": "Brave soldiers of Bharat"
+    },
+    {
+      "id": 318,
+      "type": "mcq",
+      "q": "The word \"memorial\" is linked to ___.",
+      "choices": [
+        "memory",
+        "market",
+        "medicine",
+        "measurement"
+      ],
+      "answer": "memory"
+    },
+    {
+      "id": 319,
+      "type": "mcq",
+      "q": "\"Sacrifice\" means ___.",
+      "choices": [
+        "collecting coins",
+        "taking a holiday",
+        "winning a prize",
+        "giving up something precious for others"
+      ],
+      "answer": "giving up something precious for others"
+    },
+    {
+      "id": 320,
+      "type": "mcq",
+      "q": "What is written on its stones?",
+      "choices": [
+        "Train timings",
+        "Cricket scores",
+        "Recipes",
+        "Names of the soldiers"
+      ],
+      "answer": "Names of the soldiers"
     }
   ],
-  "chapterCount": 8,
+  "chapterCount": 16,
   "chapterNames": [
-    "Grammar",
-    "Vocabulary",
-    "Figures of Speech",
-    "Opposite Words",
-    "Words with the Same Meaning",
-    "Spelling Practice",
-    "Idioms",
-    "One Word"
+    "1. A Bottle of Dew",
+    "2. The Raven and the Fox",
+    "3. Rama to the Rescue",
+    "4. The Unlikely Best Friends",
+    "5. A Friend’s Prayer",
+    "6. The Chair",
+    "7. Neem Baba",
+    "8. What a Bird Thought",
+    "9. Spices that Heal Us",
+    "10. Change of Heart",
+    "11. The Winner",
+    "12. Yoga—A Way of Life",
+    "13. Hamara Bharat—Incredible India!",
+    "14. The Kites",
+    "15. Ila Sachani: Embroidering Dreams with her Feet",
+    "16. National War Memorial"
   ],
   "chapterSizes": [
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    8,
-    7
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
   ],
   "meta": {
     "subject": "english",
