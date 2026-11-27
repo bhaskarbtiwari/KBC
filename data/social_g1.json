@@ -311,19 +311,313 @@
         "Post office"
       ],
       "answer": "Market"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Who puts out fires?",
+      "choices": [
+        "Firefighter",
+        "Police officer",
+        "Teacher",
+        "Doctor"
+      ],
+      "answer": "Firefighter"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Who stitches clothes?",
+      "choices": [
+        "Postman",
+        "Teacher",
+        "Pilot",
+        "Tailor"
+      ],
+      "answer": "Tailor"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Who grows food?",
+      "choices": [
+        "Farmer",
+        "Postman",
+        "Teacher",
+        "Doctor"
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Who catches thieves?",
+      "choices": [
+        "Farmer",
+        "Firefighter",
+        "Postman",
+        "Police officer"
+      ],
+      "answer": "Police officer"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Who flies aeroplanes?",
+      "choices": [
+        "Police officer",
+        "Pilot",
+        "Tailor",
+        "Teacher"
+      ],
+      "answer": "Pilot"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Who teaches children?",
+      "choices": [
+        "Police officer",
+        "Firefighter",
+        "Teacher",
+        "Tailor"
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Who delivers letters?",
+      "choices": [
+        "Police officer",
+        "Teacher",
+        "Farmer",
+        "Postman"
+      ],
+      "answer": "Postman"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Who treats sick people?",
+      "choices": [
+        "Teacher",
+        "Firefighter",
+        "Postman",
+        "Doctor"
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Where do we go to borrow books?",
+      "choices": [
+        "Bank",
+        "Library",
+        "Post office",
+        "Railway station"
+      ],
+      "answer": "Library"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Where do we go to see a doctor?",
+      "choices": [
+        "Library",
+        "Park",
+        "Railway station",
+        "Hospital"
+      ],
+      "answer": "Hospital"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Where do we go to post a parcel?",
+      "choices": [
+        "Railway station",
+        "Park",
+        "Hospital",
+        "Post office"
+      ],
+      "answer": "Post office"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Where do we go to play on swings?",
+      "choices": [
+        "Post office",
+        "Market",
+        "Railway station",
+        "Park"
+      ],
+      "answer": "Park"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Where do we go to catch a train?",
+      "choices": [
+        "Park",
+        "Library",
+        "School",
+        "Railway station"
+      ],
+      "answer": "Railway station"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Where do we go to buy vegetables?",
+      "choices": [
+        "Railway station",
+        "Post office",
+        "Library",
+        "Market"
+      ],
+      "answer": "Market"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Where do we go to save money?",
+      "choices": [
+        "Library",
+        "Park",
+        "Bank",
+        "Post office"
+      ],
+      "answer": "Bank"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Where do we go to study?",
+      "choices": [
+        "Library",
+        "School",
+        "Park",
+        "Market"
+      ],
+      "answer": "School"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which part of a house is used to bathe?",
+      "choices": [
+        "Bathroom",
+        "Dining room",
+        "Living room",
+        "Garage"
+      ],
+      "answer": "Bathroom"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which part of a house is used to sleep?",
+      "choices": [
+        "Kitchen",
+        "Garden",
+        "Bedroom",
+        "Garage"
+      ],
+      "answer": "Bedroom"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which part of a house is used to park a car?",
+      "choices": [
+        "Kitchen",
+        "Garden",
+        "Bedroom",
+        "Garage"
+      ],
+      "answer": "Garage"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which part of a house is used to dry clothes in the sun?",
+      "choices": [
+        "Dining room",
+        "Terrace",
+        "Garage",
+        "Garden"
+      ],
+      "answer": "Terrace"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which part of a house is used to welcome guests?",
+      "choices": [
+        "Living room",
+        "Bathroom",
+        "Dining room",
+        "Garden"
+      ],
+      "answer": "Living room"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which part of a house is used to grow flowers?",
+      "choices": [
+        "Garden",
+        "Terrace",
+        "Dining room",
+        "Living room"
+      ],
+      "answer": "Garden"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which part of a house is used to eat meals together?",
+      "choices": [
+        "Bedroom",
+        "Garden",
+        "Dining room",
+        "Bathroom"
+      ],
+      "answer": "Dining room"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which part of a house is used to cook food?",
+      "choices": [
+        "Bathroom",
+        "Garage",
+        "Garden",
+        "Kitchen"
+      ],
+      "answer": "Kitchen"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Me and My Family",
     "My School",
     "My Country",
-    "Around Me"
+    "Around Me",
+    "Who Helps Us",
+    "Places Around Us",
+    "Rooms at Home"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

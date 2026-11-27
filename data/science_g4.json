@@ -311,19 +311,313 @@
         "fat"
       ],
       "answer": "fat"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which organ takes in oxygen?",
+      "choices": [
+        "Nerves",
+        "Skin",
+        "Lungs",
+        "Liver"
+      ],
+      "answer": "Lungs"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which organ covers and protects the body?",
+      "choices": [
+        "Liver",
+        "Small intestine",
+        "Lungs",
+        "Skin"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which organ makes bile?",
+      "choices": [
+        "Heart",
+        "Liver",
+        "Nerves",
+        "Lungs"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which organ pumps blood?",
+      "choices": [
+        "Kidney",
+        "Stomach",
+        "Small intestine",
+        "Heart"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which organ carries messages to and from the brain?",
+      "choices": [
+        "Lungs",
+        "Skin",
+        "Nerves",
+        "Kidney"
+      ],
+      "answer": "Nerves"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which organ churns food with acid?",
+      "choices": [
+        "Stomach",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which organ absorbs most digested food?",
+      "choices": [
+        "Lungs",
+        "Small intestine",
+        "Heart",
+        "Kidney"
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which organ makes urine?",
+      "choices": [
+        "Kidney",
+        "Nerves",
+        "Lungs",
+        "Skin"
+      ],
+      "answer": "Kidney"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "What is the hard outer layer of a tooth called?",
+      "choices": [
+        "Canine",
+        "Enamel",
+        "Incisor",
+        "Joint"
+      ],
+      "answer": "Enamel"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "What is the place where two bones meet called?",
+      "choices": [
+        "Rib cage",
+        "Skull",
+        "Backbone",
+        "Joint"
+      ],
+      "answer": "Joint"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "What is the column of bones in the back called?",
+      "choices": [
+        "Molar",
+        "Incisor",
+        "Enamel",
+        "Backbone"
+      ],
+      "answer": "Backbone"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "What is the bone cage protecting the lungs called?",
+      "choices": [
+        "Skull",
+        "Rib cage",
+        "Molar",
+        "Backbone"
+      ],
+      "answer": "Rib cage"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "What is the bony case protecting the brain called?",
+      "choices": [
+        "Backbone",
+        "Rib cage",
+        "Incisor",
+        "Skull"
+      ],
+      "answer": "Skull"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "What is the front tooth used for cutting called?",
+      "choices": [
+        "Incisor",
+        "Joint",
+        "Skull",
+        "Molar"
+      ],
+      "answer": "Incisor"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "What is the pointed tooth used for tearing called?",
+      "choices": [
+        "Incisor",
+        "Backbone",
+        "Enamel",
+        "Canine"
+      ],
+      "answer": "Canine"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "What is the broad back tooth used for grinding called?",
+      "choices": [
+        "Backbone",
+        "Joint",
+        "Molar",
+        "Rib cage"
+      ],
+      "answer": "Molar"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What do we call animals that eat plants and flesh?",
+      "choices": [
+        "Omnivores",
+        "Reptiles",
+        "Insects",
+        "Amphibians"
+      ],
+      "answer": "Omnivores"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What do we call animals that crawl and have dry scales?",
+      "choices": [
+        "Reptiles",
+        "Omnivores",
+        "Carnivores",
+        "Amphibians"
+      ],
+      "answer": "Reptiles"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What do we call animals that have six legs?",
+      "choices": [
+        "Insects",
+        "Reptiles",
+        "Carnivores",
+        "Herbivores"
+      ],
+      "answer": "Insects"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What do we call animals that have feathers?",
+      "choices": [
+        "Birds",
+        "Amphibians",
+        "Reptiles",
+        "Mammals"
+      ],
+      "answer": "Birds"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What do we call animals that live both in water and on land?",
+      "choices": [
+        "Carnivores",
+        "Birds",
+        "Mammals",
+        "Amphibians"
+      ],
+      "answer": "Amphibians"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What do we call animals that eat only plants?",
+      "choices": [
+        "Insects",
+        "Herbivores",
+        "Omnivores",
+        "Reptiles"
+      ],
+      "answer": "Herbivores"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What do we call animals that eat only flesh?",
+      "choices": [
+        "Mammals",
+        "Carnivores",
+        "Herbivores",
+        "Reptiles"
+      ],
+      "answer": "Carnivores"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What do we call animals that feed their young on milk?",
+      "choices": [
+        "Amphibians",
+        "Herbivores",
+        "Insects",
+        "Mammals"
+      ],
+      "answer": "Mammals"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Human Body",
     "Food and Nutrients",
     "Environment",
-    "Animals and Adaptation"
+    "Animals and Adaptation",
+    "Body Organs",
+    "Teeth and Bones",
+    "Animal Groups"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

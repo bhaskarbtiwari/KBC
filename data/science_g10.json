@@ -311,20 +311,316 @@
         "50%"
       ],
       "answer": "10%"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What is the chemical formula of gypsum?",
+      "choices": [
+        "CaSO4·2H2O",
+        "CaSO4·½H2O",
+        "NaHCO3",
+        "Ca(OH)2"
+      ],
+      "answer": "CaSO4·2H2O"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What is the chemical formula of quicklime?",
+      "choices": [
+        "CaO",
+        "NaCl",
+        "CaSO4·½H2O",
+        "NaHCO3"
+      ],
+      "answer": "CaO"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What is the chemical formula of plaster of Paris?",
+      "choices": [
+        "NaHCO3",
+        "Ca(OH)2",
+        "CaO",
+        "CaSO4·½H2O"
+      ],
+      "answer": "CaSO4·½H2O"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What is the chemical formula of common salt?",
+      "choices": [
+        "Na2CO3·10H2O",
+        "CaO",
+        "NaCl",
+        "CaSO4·½H2O"
+      ],
+      "answer": "NaCl"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What is the chemical formula of slaked lime?",
+      "choices": [
+        "CaO",
+        "CaSO4·½H2O",
+        "CaCO3",
+        "Ca(OH)2"
+      ],
+      "answer": "Ca(OH)2"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What is the chemical formula of limestone?",
+      "choices": [
+        "CaO",
+        "Na2CO3·10H2O",
+        "CaCO3",
+        "NaHCO3"
+      ],
+      "answer": "CaCO3"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What is the chemical formula of washing soda?",
+      "choices": [
+        "Ca(OH)2",
+        "Na2CO3·10H2O",
+        "CaSO4·2H2O",
+        "NaHCO3"
+      ],
+      "answer": "Na2CO3·10H2O"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What is the chemical formula of baking soda?",
+      "choices": [
+        "CaSO4·½H2O",
+        "NaHCO3",
+        "Na2CO3·10H2O",
+        "Ca(OH)2"
+      ],
+      "answer": "NaHCO3"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which gland mainly produces oestrogen?",
+      "choices": [
+        "Testis",
+        "Ovary",
+        "Pancreas",
+        "Pituitary"
+      ],
+      "answer": "Ovary"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which gland mainly produces adrenaline?",
+      "choices": [
+        "Pancreas",
+        "Pituitary",
+        "Ovary",
+        "Adrenal gland"
+      ],
+      "answer": "Adrenal gland"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which gland mainly produces insulin?",
+      "choices": [
+        "Pancreas",
+        "Testis",
+        "Adrenal gland",
+        "Pituitary"
+      ],
+      "answer": "Pancreas"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which gland mainly produces testosterone?",
+      "choices": [
+        "Pancreas",
+        "Testis",
+        "Ovary",
+        "Adrenal gland"
+      ],
+      "answer": "Testis"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which gland mainly produces thyroxine?",
+      "choices": [
+        "Pancreas",
+        "Adrenal gland",
+        "Thyroid",
+        "Ovary"
+      ],
+      "answer": "Thyroid"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which gland mainly produces growth hormone?",
+      "choices": [
+        "Pancreas",
+        "Thyroid",
+        "Pituitary",
+        "Testis"
+      ],
+      "answer": "Pituitary"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "What is the molecular formula of ethene?",
+      "choices": [
+        "CH4",
+        "CH3COOH",
+        "C2H2",
+        "C2H4"
+      ],
+      "answer": "C2H4"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "What is the molecular formula of methane?",
+      "choices": [
+        "CH3COOH",
+        "C2H6",
+        "CH4",
+        "C2H2"
+      ],
+      "answer": "CH4"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is the molecular formula of ethanoic acid?",
+      "choices": [
+        "C2H4",
+        "CH3COOH",
+        "C2H5OH",
+        "C2H6"
+      ],
+      "answer": "CH3COOH"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is the molecular formula of ethane?",
+      "choices": [
+        "C2H5OH",
+        "C2H2",
+        "C2H6",
+        "C2H4"
+      ],
+      "answer": "C2H6"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is the molecular formula of ethyne?",
+      "choices": [
+        "C2H6",
+        "C2H2",
+        "CH4",
+        "C2H5OH"
+      ],
+      "answer": "C2H2"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is the molecular formula of ethanol?",
+      "choices": [
+        "C2H2",
+        "CH4",
+        "C2H5OH",
+        "CH3COOH"
+      ],
+      "answer": "C2H5OH"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which part of the eye controls the size of the pupil?",
+      "choices": [
+        "Retina",
+        "Iris",
+        "Cornea",
+        "Optic nerve"
+      ],
+      "answer": "Iris"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which part of the eye is where the image forms?",
+      "choices": [
+        "Cornea",
+        "Retina",
+        "Optic nerve",
+        "Iris"
+      ],
+      "answer": "Retina"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which part of the eye carries signals to the brain?",
+      "choices": [
+        "Iris",
+        "Cornea",
+        "Retina",
+        "Optic nerve"
+      ],
+      "answer": "Optic nerve"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which part of the eye is the clear front surface where light enters?",
+      "choices": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Optic nerve"
+      ],
+      "answer": "Cornea"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 8,
   "chapterNames": [
     "Chemical Reactions",
     "Life Processes and Heredity",
     "Light and Electricity",
-    "Metals, Control and Ecology"
+    "Metals, Control and Ecology",
+    "Chemical Compounds",
+    "Hormones and Glands",
+    "Carbon Compounds",
+    "Human Eye"
   ],
   "chapterSizes": [
     6,
     6,
     6,
-    8
+    8,
+    8,
+    6,
+    6,
+    4
   ],
   "meta": {
     "subject": "science",

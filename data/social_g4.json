@@ -311,19 +311,313 @@
         "Mapusa"
       ],
       "answer": "Panaji"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What is the capital of Sikkim?",
+      "choices": [
+        "Gangtok",
+        "Shillong",
+        "Itanagar",
+        "Agartala"
+      ],
+      "answer": "Gangtok"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What is the capital of Mizoram?",
+      "choices": [
+        "Shimla",
+        "Itanagar",
+        "Aizawl",
+        "Agartala"
+      ],
+      "answer": "Aizawl"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What is the capital of Meghalaya?",
+      "choices": [
+        "Kohima",
+        "Shillong",
+        "Itanagar",
+        "Gangtok"
+      ],
+      "answer": "Shillong"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What is the capital of Nagaland?",
+      "choices": [
+        "Imphal",
+        "Shillong",
+        "Kohima",
+        "Gangtok"
+      ],
+      "answer": "Kohima"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What is the capital of Arunachal Pradesh?",
+      "choices": [
+        "Itanagar",
+        "Shimla",
+        "Imphal",
+        "Gangtok"
+      ],
+      "answer": "Itanagar"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What is the capital of Manipur?",
+      "choices": [
+        "Itanagar",
+        "Shillong",
+        "Imphal",
+        "Gangtok"
+      ],
+      "answer": "Imphal"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What is the capital of Himachal Pradesh?",
+      "choices": [
+        "Shimla",
+        "Itanagar",
+        "Kohima",
+        "Shillong"
+      ],
+      "answer": "Shimla"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What is the capital of Tripura?",
+      "choices": [
+        "Agartala",
+        "Shillong",
+        "Itanagar",
+        "Gangtok"
+      ],
+      "answer": "Agartala"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "On which river is the Ukai Dam?",
+      "choices": [
+        "Mahanadi",
+        "Sutlej",
+        "Tapi",
+        "Bhagirathi"
+      ],
+      "answer": "Tapi"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "On which river is the Sardar Sarovar Dam?",
+      "choices": [
+        "Bhagirathi",
+        "Godavari",
+        "Kaveri",
+        "Narmada"
+      ],
+      "answer": "Narmada"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "On which river is the Mettur Dam?",
+      "choices": [
+        "Kaveri",
+        "Mahanadi",
+        "Bhagirathi",
+        "Godavari"
+      ],
+      "answer": "Kaveri"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "On which river is the Bhakra Dam?",
+      "choices": [
+        "Sutlej",
+        "Mahanadi",
+        "Tapi",
+        "Narmada"
+      ],
+      "answer": "Sutlej"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "On which river is the Nagarjuna Sagar Dam?",
+      "choices": [
+        "Tapi",
+        "Krishna",
+        "Narmada",
+        "Godavari"
+      ],
+      "answer": "Krishna"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "On which river is the Tehri Dam?",
+      "choices": [
+        "Bhagirathi",
+        "Narmada",
+        "Mahanadi",
+        "Godavari"
+      ],
+      "answer": "Bhagirathi"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "On which river is the Hirakud Dam?",
+      "choices": [
+        "Krishna",
+        "Bhagirathi",
+        "Sutlej",
+        "Mahanadi"
+      ],
+      "answer": "Mahanadi"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "On which river is the Jayakwadi Dam?",
+      "choices": [
+        "Bhagirathi",
+        "Kaveri",
+        "Krishna",
+        "Godavari"
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which is India’s national bird?",
+      "choices": [
+        "Elephant",
+        "Peacock",
+        "Ganga",
+        "River dolphin"
+      ],
+      "answer": "Peacock"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which is India’s national river?",
+      "choices": [
+        "Banyan",
+        "Ganga",
+        "Tiger",
+        "River dolphin"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which is India’s national fruit?",
+      "choices": [
+        "Lotus",
+        "Mango",
+        "Ganga",
+        "Elephant"
+      ],
+      "answer": "Mango"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which is India’s national aquatic animal?",
+      "choices": [
+        "Banyan",
+        "Mango",
+        "River dolphin",
+        "Elephant"
+      ],
+      "answer": "River dolphin"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which is India’s national animal?",
+      "choices": [
+        "Tiger",
+        "Banyan",
+        "Ganga",
+        "River dolphin"
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which is India’s national heritage animal?",
+      "choices": [
+        "Elephant",
+        "River dolphin",
+        "Peacock",
+        "Tiger"
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which is India’s national flower?",
+      "choices": [
+        "Peacock",
+        "Lotus",
+        "Banyan",
+        "Elephant"
+      ],
+      "answer": "Lotus"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which is India’s national tree?",
+      "choices": [
+        "Banyan",
+        "River dolphin",
+        "Mango",
+        "Lotus"
+      ],
+      "answer": "Banyan"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "States and Capitals",
     "Rivers and Climate",
     "Our Government",
-    "More State Capitals"
+    "More State Capitals",
+    "North-East and North",
+    "Rivers and Dams",
+    "National Symbols"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

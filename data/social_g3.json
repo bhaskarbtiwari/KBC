@@ -311,19 +311,313 @@
         "Bihar"
       ],
       "answer": "Punjab"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which is the main official language of Kerala?",
+      "choices": [
+        "Tamil",
+        "Malayalam",
+        "Odia",
+        "Punjabi"
+      ],
+      "answer": "Malayalam"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which is the main official language of Maharashtra?",
+      "choices": [
+        "Bengali",
+        "Tamil",
+        "Odia",
+        "Marathi"
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which is the main official language of Odisha?",
+      "choices": [
+        "Bengali",
+        "Marathi",
+        "Punjabi",
+        "Odia"
+      ],
+      "answer": "Odia"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which is the main official language of Karnataka?",
+      "choices": [
+        "Odia",
+        "Kannada",
+        "Punjabi",
+        "Tamil"
+      ],
+      "answer": "Kannada"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which is the main official language of Gujarat?",
+      "choices": [
+        "Kannada",
+        "Tamil",
+        "Gujarati",
+        "Malayalam"
+      ],
+      "answer": "Gujarati"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which is the main official language of West Bengal?",
+      "choices": [
+        "Tamil",
+        "Marathi",
+        "Punjabi",
+        "Bengali"
+      ],
+      "answer": "Bengali"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which is the main official language of Punjab?",
+      "choices": [
+        "Punjabi",
+        "Odia",
+        "Kannada",
+        "Malayalam"
+      ],
+      "answer": "Punjabi"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which is the main official language of Tamil Nadu?",
+      "choices": [
+        "Odia",
+        "Gujarati",
+        "Tamil",
+        "Bengali"
+      ],
+      "answer": "Tamil"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which state is the home of Kathakali?",
+      "choices": [
+        "Tamil Nadu",
+        "Manipur",
+        "Assam",
+        "Kerala"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which state is the home of Odissi?",
+      "choices": [
+        "Tamil Nadu",
+        "Kerala",
+        "Odisha",
+        "Andhra Pradesh"
+      ],
+      "answer": "Odisha"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which state is the home of Garba?",
+      "choices": [
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Kerala",
+        "Gujarat"
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which state is the home of Bharatanatyam?",
+      "choices": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Assam"
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which state is the home of Kuchipudi?",
+      "choices": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Odisha",
+        "Manipur"
+      ],
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which state is the home of Lavani?",
+      "choices": [
+        "Maharashtra",
+        "Odisha",
+        "Assam",
+        "Andhra Pradesh"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which state is the home of Sattriya?",
+      "choices": [
+        "Gujarat",
+        "Manipur",
+        "Tamil Nadu",
+        "Assam"
+      ],
+      "answer": "Assam"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which state is the home of Manipuri dance?",
+      "choices": [
+        "Assam",
+        "Manipur",
+        "Odisha",
+        "Tamil Nadu"
+      ],
+      "answer": "Manipur"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "In which city is the Shaniwar Wada?",
+      "choices": [
+        "Agra",
+        "Vijayapura",
+        "Pune",
+        "Delhi"
+      ],
+      "answer": "Pune"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "In which city is the Victoria Memorial?",
+      "choices": [
+        "Pune",
+        "Madurai",
+        "Ahmedabad",
+        "Kolkata"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "In which city is the Red Fort?",
+      "choices": [
+        "Madurai",
+        "Vijayapura",
+        "Delhi",
+        "Kolkata"
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "In which city is the Gol Gumbaz?",
+      "choices": [
+        "Agra",
+        "Madurai",
+        "Vijayapura",
+        "Jaipur"
+      ],
+      "answer": "Vijayapura"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "In which city is the Meenakshi Temple?",
+      "choices": [
+        "Madurai",
+        "Pune",
+        "Vijayapura",
+        "Ahmedabad"
+      ],
+      "answer": "Madurai"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "In which city is the Hawa Mahal?",
+      "choices": [
+        "Ahmedabad",
+        "Vijayapura",
+        "Pune",
+        "Jaipur"
+      ],
+      "answer": "Jaipur"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "In which city is the Sabarmati Ashram?",
+      "choices": [
+        "Ahmedabad",
+        "Jaipur",
+        "Agra",
+        "Pune"
+      ],
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "In which city is the Taj Mahal?",
+      "choices": [
+        "Pune",
+        "Vijayapura",
+        "Agra",
+        "Ahmedabad"
+      ],
+      "answer": "Agra"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Our Earth",
     "Landforms of India",
     "National Symbols and Days",
-    "States of India"
+    "States of India",
+    "State Languages",
+    "Classical Dances",
+    "Famous Monuments"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

@@ -3,1454 +3,2428 @@
     {
       "id": 1,
       "type": "mcq",
-      "q": "What is the LCM of 7 and 10?",
+      "q": "What comes next: 1, 8, 27, 64, ...?",
       "choices": [
-        "68",
-        "70",
-        "65",
-        "63"
+        "100",
+        "125",
+        "216",
+        "81"
       ],
-      "answer": "70"
+      "answer": "125"
     },
     {
       "id": 2,
       "type": "mcq",
-      "q": "What is the LCM of 7 and 16?",
+      "q": "What comes next in the triangular numbers 1, 3, 6, 10, ...?",
       "choices": [
-        "108",
-        "112",
-        "101",
-        "113"
+        "14",
+        "20",
+        "15",
+        "16"
       ],
-      "answer": "112"
+      "answer": "15"
     },
     {
       "id": 3,
       "type": "mcq",
-      "q": "What is the LCM of 24 and 23?",
+      "q": "What comes next: 2, 4, 6, 8, ...?",
       "choices": [
-        "523",
-        "514",
-        "534",
-        "552"
+        "11",
+        "14",
+        "10",
+        "9"
       ],
-      "answer": "552"
+      "answer": "10"
     },
     {
       "id": 4,
       "type": "mcq",
-      "q": "What is the LCM of 8 and 10?",
+      "q": "What is the 10th square number?",
       "choices": [
-        "40",
-        "39",
-        "44",
-        "43"
+        "100",
+        "121",
+        "81",
+        "20"
       ],
-      "answer": "40"
+      "answer": "100"
     },
     {
       "id": 5,
       "type": "mcq",
-      "q": "What is the HCF of 11 and 10?",
+      "q": "What comes next: 7, 14, 21, 28, ...?",
       "choices": [
-        "3",
-        "1",
-        "4",
-        "2"
+        "35",
+        "49",
+        "34",
+        "36"
       ],
-      "answer": "1"
+      "answer": "35"
     },
     {
       "id": 6,
       "type": "mcq",
-      "q": "What is the LCM of 21 and 21?",
+      "q": "How many sides does a hexagon have?",
       "choices": [
-        "20",
-        "21",
-        "18",
-        "22"
-      ],
-      "answer": "21"
-    },
-    {
-      "id": 7,
-      "type": "mcq",
-      "q": "What is the LCM of 6 and 10?",
-      "choices": [
-        "30",
-        "31",
-        "33",
-        "29"
-      ],
-      "answer": "30"
-    },
-    {
-      "id": 8,
-      "type": "mcq",
-      "q": "What is the LCM of 24 and 7?",
-      "choices": [
-        "168",
-        "184",
-        "158",
-        "169"
-      ],
-      "answer": "168"
-    },
-    {
-      "id": 9,
-      "type": "mcq",
-      "q": "What is the HCF of 17 and 27?",
-      "choices": [
-        "4",
-        "1",
-        "2",
-        "3"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 10,
-      "type": "mcq",
-      "q": "What is the LCM of 12 and 25?",
-      "choices": [
-        "315",
-        "300",
-        "288",
-        "309"
-      ],
-      "answer": "300"
-    },
-    {
-      "id": 11,
-      "type": "mcq",
-      "q": "What is the LCM of 26 and 30?",
-      "choices": [
-        "361",
-        "376",
-        "390",
-        "379"
-      ],
-      "answer": "390"
-    },
-    {
-      "id": 12,
-      "type": "mcq",
-      "q": "What is the HCF of 11 and 25?",
-      "choices": [
-        "1",
-        "0",
-        "2",
-        "4"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 13,
-      "type": "mcq",
-      "q": "What is the LCM of 14 and 13?",
-      "choices": [
-        "169",
-        "176",
-        "195",
-        "182"
-      ],
-      "answer": "182"
-    },
-    {
-      "id": 14,
-      "type": "mcq",
-      "q": "What is the LCM of 29 and 23?",
-      "choices": [
-        "667",
-        "611",
-        "707",
-        "653"
-      ],
-      "answer": "667"
-    },
-    {
-      "id": 15,
-      "type": "mcq",
-      "q": "What is the HCF of 17 and 5?",
-      "choices": [
-        "1",
-        "2",
-        "4",
-        "0"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 16,
-      "type": "mcq",
-      "q": "What is the HCF of 25 and 4?",
-      "choices": [
-        "1",
-        "0",
-        "2",
-        "3"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 17,
-      "type": "mcq",
-      "q": "What is the HCF of 29 and 12?",
-      "choices": [
-        "2",
-        "0",
-        "1",
-        "3"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 18,
-      "type": "mcq",
-      "q": "What is the LCM of 27 and 22?",
-      "choices": [
-        "594",
-        "628",
-        "618",
-        "636"
-      ],
-      "answer": "594"
-    },
-    {
-      "id": 19,
-      "type": "mcq",
-      "q": "What is the HCF of 20 and 29?",
-      "choices": [
-        "4",
-        "2",
-        "0",
-        "1"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 20,
-      "type": "mcq",
-      "q": "What is the HCF of 6 and 12?",
-      "choices": [
-        "8",
         "7",
-        "6",
-        "4"
+        "8",
+        "5",
+        "6"
       ],
       "answer": "6"
     },
     {
-      "id": 21,
+      "id": 7,
       "type": "mcq",
-      "q": "What is the LCM of 29 and 21?",
+      "q": "What comes next: 1, 3, 5, 7, ...?",
       "choices": [
-        "630",
-        "631",
-        "571",
-        "609"
+        "8",
+        "10",
+        "9",
+        "11"
       ],
-      "answer": "609"
+      "answer": "9"
     },
     {
-      "id": 22,
+      "id": 8,
       "type": "mcq",
-      "q": "What is the HCF of 21 and 25?",
+      "q": "What comes next: 1, 3, 9, 27, ...?",
       "choices": [
-        "2",
-        "1",
-        "4",
-        "3"
+        "108",
+        "72",
+        "54",
+        "81"
       ],
-      "answer": "1"
+      "answer": "81"
     },
     {
-      "id": 23,
+      "id": 9,
       "type": "mcq",
-      "q": "What is the LCM of 30 and 18?",
+      "q": "What is 1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1?",
       "choices": [
-        "86",
-        "90",
-        "99",
-        "87"
-      ],
-      "answer": "90"
-    },
-    {
-      "id": 24,
-      "type": "mcq",
-      "q": "What is the HCF of 25 and 28?",
-      "choices": [
-        "4",
-        "3",
-        "0",
-        "1"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 25,
-      "type": "mcq",
-      "q": "What is the HCF of 23 and 17?",
-      "choices": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 26,
-      "type": "mcq",
-      "q": "What is the HCF of 7 and 26?",
-      "choices": [
-        "1",
-        "0",
-        "2",
-        "3"
-      ],
-      "answer": "1"
-    },
-    {
-      "id": 27,
-      "type": "mcq",
-      "q": "What is the LCM of 26 and 13?",
-      "choices": [
-        "26",
-        "23",
         "25",
-        "27"
-      ],
-      "answer": "26"
-    },
-    {
-      "id": 28,
-      "type": "mcq",
-      "q": "What is the LCM of 22 and 25?",
-      "choices": [
-        "543",
-        "564",
-        "550",
-        "570"
-      ],
-      "answer": "550"
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "q": "What is the LCM of 22 and 11?",
-      "choices": [
-        "23",
-        "22",
         "24",
+        "30",
         "20"
       ],
-      "answer": "22"
+      "answer": "25"
     },
     {
-      "id": 30,
+      "id": 10,
       "type": "mcq",
-      "q": "What is the HCF of 29 and 18?",
+      "q": "What comes next: 3, 6, 9, 12, ...?",
       "choices": [
-        "0",
-        "1",
-        "4",
-        "2"
+        "15",
+        "21",
+        "16",
+        "14"
       ],
-      "answer": "1"
+      "answer": "15"
     },
     {
-      "id": 31,
+      "id": 11,
       "type": "mcq",
-      "q": "What is the LCM of 25 and 10?",
+      "q": "The sum of the first 4 odd numbers is ___.",
       "choices": [
-        "48",
+        "20",
+        "16",
+        "10",
+        "12"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "q": "What comes next: 1, 2, 4, 8, 16, ...?",
+      "choices": [
+        "18",
+        "32",
+        "30",
+        "24"
+      ],
+      "answer": "32"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "q": "What comes next: 10, 20, 30, 40, ...?",
+      "choices": [
+        "70",
+        "51",
         "49",
-        "53",
         "50"
       ],
       "answer": "50"
     },
     {
-      "id": 32,
+      "id": 14,
       "type": "mcq",
-      "q": "What is the HCF of 14 and 26?",
+      "q": "What comes next: 1, 4, 9, 16, ...?",
       "choices": [
-        "3",
-        "0",
-        "2",
-        "4"
+        "24",
+        "25",
+        "20",
+        "32"
       ],
-      "answer": "2"
+      "answer": "25"
     },
     {
-      "id": 33,
+      "id": 15,
       "type": "mcq",
-      "q": "What is the LCM of 6 and 17?",
+      "q": "What comes next: 100, 90, 80, 70, ...?",
       "choices": [
-        "97",
-        "100",
-        "93",
-        "102"
+        "40",
+        "59",
+        "60",
+        "61"
       ],
-      "answer": "102"
+      "answer": "60"
     },
     {
-      "id": 34,
+      "id": 16,
       "type": "mcq",
-      "q": "What is the LCM of 25 and 8?",
+      "q": "What comes next: 5, 10, 15, 20, ...?",
       "choices": [
-        "200",
-        "217",
-        "213",
-        "186"
+        "25",
+        "24",
+        "35",
+        "26"
       ],
-      "answer": "200"
+      "answer": "25"
     },
     {
-      "id": 35,
+      "id": 17,
       "type": "mcq",
-      "q": "What is the LCM of 11 and 4?",
+      "q": "What comes next: 1, 5, 9, 13, ...?",
       "choices": [
-        "44",
-        "42",
-        "46",
-        "43"
+        "25",
+        "17",
+        "18",
+        "16"
       ],
-      "answer": "44"
+      "answer": "17"
     },
     {
-      "id": 36,
+      "id": 18,
       "type": "mcq",
-      "q": "What is the LCM of 13 and 13?",
+      "q": "What comes next in the Virahanka numbers 1, 2, 3, 5, 8, ...?",
       "choices": [
+        "12",
         "11",
-        "10",
         "16",
         "13"
       ],
       "answer": "13"
     },
     {
-      "id": 37,
+      "id": 19,
       "type": "mcq",
-      "q": "What is the LCM of 20 and 27?",
+      "q": "The sum of the first 6 odd numbers is ___.",
       "choices": [
-        "540",
-        "542",
-        "576",
-        "569"
+        "30",
+        "25",
+        "42",
+        "36"
       ],
-      "answer": "540"
+      "answer": "36"
     },
     {
-      "id": 38,
+      "id": 20,
       "type": "mcq",
-      "q": "What is the LCM of 23 and 23?",
+      "q": "What comes next: 2, 5, 8, 11, ...?",
       "choices": [
-        "21",
-        "22",
-        "23",
-        "26"
+        "20",
+        "15",
+        "13",
+        "14"
       ],
-      "answer": "23"
+      "answer": "14"
     },
     {
-      "id": 39,
+      "id": 21,
       "type": "mcq",
-      "q": "What is the HCF of 8 and 30?",
+      "q": "A straight angle measures ___.",
       "choices": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "q": "How many end points does a line segment have?",
+      "choices": [
+        "3",
+        "1",
         "0",
-        "5",
-        "2",
-        "4"
+        "2"
       ],
       "answer": "2"
     },
     {
+      "id": 23,
+      "type": "mcq",
+      "q": "Which has no end points?",
+      "choices": [
+        "Ray",
+        "Side of a square",
+        "Line",
+        "Line segment"
+      ],
+      "answer": "Line"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "q": "Which tool is used to measure an angle?",
+      "choices": [
+        "Set of weights",
+        "Protractor",
+        "Divider",
+        "Compass"
+      ],
+      "answer": "Protractor"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "q": "The two rays that form an angle are called its ___.",
+      "choices": [
+        "arms",
+        "sides of a circle",
+        "vertices",
+        "diameters"
+      ],
+      "answer": "arms"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "q": "An angle greater than 180° but less than 360° is a ___ angle.",
+      "choices": [
+        "reflex",
+        "obtuse",
+        "straight",
+        "acute"
+      ],
+      "answer": "reflex"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What type of angle is 150°?",
+      "choices": [
+        "Right",
+        "Obtuse",
+        "Straight",
+        "Acute"
+      ],
+      "answer": "Obtuse"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What type of angle is 89°?",
+      "choices": [
+        "Right",
+        "Obtuse",
+        "Acute",
+        "Straight"
+      ],
+      "answer": "Acute"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Half of a right angle measures ___.",
+      "choices": [
+        "30°",
+        "60°",
+        "45°",
+        "90°"
+      ],
+      "answer": "45°"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "An angle of 45° is ___.",
+      "choices": [
+        "acute",
+        "reflex",
+        "obtuse",
+        "right"
+      ],
+      "answer": "acute"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "How many degrees are there in a full turn?",
+      "choices": [
+        "90°",
+        "180°",
+        "360°",
+        "270°"
+      ],
+      "answer": "360°"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "An angle of 120° is ___.",
+      "choices": [
+        "acute",
+        "right",
+        "obtuse",
+        "straight"
+      ],
+      "answer": "obtuse"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What type of angle is 91°?",
+      "choices": [
+        "Acute",
+        "Right",
+        "Obtuse",
+        "Straight"
+      ],
+      "answer": "Obtuse"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What type of angle is 300°?",
+      "choices": [
+        "Acute",
+        "Right",
+        "Obtuse",
+        "Reflex"
+      ],
+      "answer": "Reflex"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "How many lines can pass through two given different points?",
+      "choices": [
+        "2",
+        "Countless",
+        "1",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "An angle of exactly 90° is called a ___ angle.",
+      "choices": [
+        "obtuse",
+        "acute",
+        "straight",
+        "right"
+      ],
+      "answer": "right"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "The common starting point of the two rays of an angle is its ___.",
+      "choices": [
+        "side",
+        "midpoint",
+        "arm",
+        "vertex"
+      ],
+      "answer": "vertex"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "A ray has how many starting points?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "What type of angle is 200°?",
+      "choices": [
+        "Right",
+        "Obtuse",
+        "Acute",
+        "Reflex"
+      ],
+      "answer": "Reflex"
+    },
+    {
       "id": 40,
       "type": "mcq",
-      "q": "What is the HCF of 17 and 11?",
+      "q": "What type of angle is 25°?",
+      "choices": [
+        "Straight",
+        "Right",
+        "Obtuse",
+        "Acute"
+      ],
+      "answer": "Acute"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "The digit sum of 55555 is ___.",
+      "choices": [
+        "35",
+        "25",
+        "24",
+        "26"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "In the Collatz steps, what follows an even number n?",
+      "choices": [
+        "n + 1",
+        "n ÷ 2",
+        "2n",
+        "3n + 1"
+      ],
+      "answer": "n ÷ 2"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "The digit sum of 9081 is ___.",
+      "choices": [
+        "17",
+        "19",
+        "28",
+        "18"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "The digit sum of 709 is ___.",
+      "choices": [
+        "15",
+        "16",
+        "26",
+        "17"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is the smallest 5-digit number?",
+      "choices": [
+        "10000",
+        "10001",
+        "11111",
+        "9999"
+      ],
+      "answer": "10000"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "In Kaprekar’s routine for 4-digit numbers, which constant is reached?",
+      "choices": [
+        "4716",
+        "9999",
+        "1089",
+        "6174"
+      ],
+      "answer": "6174"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is the largest 5-digit number?",
+      "choices": [
+        "90000",
+        "100000",
+        "99999",
+        "10000"
+      ],
+      "answer": "99999"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Reverse the digits of 35 and add the result to 35. What do you get?",
+      "choices": [
+        "78",
+        "88",
+        "99",
+        "98"
+      ],
+      "answer": "88"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Reverse the digits of 68 and add the result to 68. What do you get?",
+      "choices": [
+        "164",
+        "165",
+        "154",
+        "144"
+      ],
+      "answer": "154"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is the largest 3-digit palindrome?",
+      "choices": [
+        "999",
+        "889",
+        "989",
+        "990"
+      ],
+      "answer": "999"
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "q": "Reverse the digits of 243 and add the result to 243. What do you get?",
+      "choices": [
+        "575",
+        "585",
+        "596",
+        "595"
+      ],
+      "answer": "585"
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "q": "Reverse the digits of 124 and add the result to 124. What do you get?",
+      "choices": [
+        "535",
+        "555",
+        "545",
+        "556"
+      ],
+      "answer": "545"
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "q": "What is the largest 4-digit number made using 3, 0, 7 and 5 once each?",
+      "choices": [
+        "5730",
+        "7503",
+        "7530",
+        "7350"
+      ],
+      "answer": "7530"
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "q": "A number is a \"supercell\" in a row when it is ___ than its neighbours.",
+      "choices": [
+        "smaller",
+        "equal to",
+        "half of",
+        "greater"
+      ],
+      "answer": "greater"
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "q": "What is the smallest 4-digit number made using 3, 0, 7 and 5 once each?",
+      "choices": [
+        "3507",
+        "3075",
+        "3057",
+        "0357"
+      ],
+      "answer": "3057"
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "q": "Reverse 47 and add it to 47. What do you get?",
+      "choices": [
+        "121",
+        "141",
+        "111",
+        "94"
+      ],
+      "answer": "121"
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "q": "How many 2-digit numbers are there?",
+      "choices": [
+        "90",
+        "100",
+        "99",
+        "89"
+      ],
+      "answer": "90"
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "q": "Which of these numbers is a palindrome?",
+      "choices": [
+        "4545",
+        "3434",
+        "3443",
+        "1231"
+      ],
+      "answer": "3443"
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "q": "The digit sum of 3265 is ___.",
+      "choices": [
+        "17",
+        "16",
+        "15",
+        "26"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "q": "The digit sum of 4852 is ___.",
+      "choices": [
+        "21",
+        "18",
+        "19",
+        "17"
+      ],
+      "answer": "19"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "A bar graph scale is 1 unit = 5 books. How many books does a bar 4 units tall show?",
+      "choices": [
+        "24",
+        "15",
+        "25",
+        "20"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "Tally marks are mainly used for ___.",
+      "choices": [
+        "counting while collecting data",
+        "measuring angles",
+        "finding area",
+        "drawing circles"
+      ],
+      "answer": "counting while collecting data"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "In a bar graph, the bars should have ___ width.",
+      "choices": [
+        "random",
+        "increasing",
+        "equal",
+        "zero"
+      ],
+      "answer": "equal"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "If 1 unit height shows 5 students, a bar 6 units high shows ___ students.",
+      "choices": [
+        "6",
+        "11",
+        "35",
+        "30"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "In a bar graph, the bar for the largest value is the ___.",
+      "choices": [
+        "first",
+        "shortest",
+        "longest",
+        "widest"
+      ],
+      "answer": "longest"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "A graph that uses pictures to show data is a ___.",
+      "choices": [
+        "pictograph",
+        "number line",
+        "line segment",
+        "bar graph"
+      ],
+      "answer": "pictograph"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "The number of times a value appears in data is its ___.",
+      "choices": [
+        "frequency",
+        "scale",
+        "range",
+        "title"
+      ],
+      "answer": "frequency"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "With a scale of 1 unit = 5, how many units tall is a bar for 35?",
+      "choices": [
+        "6",
+        "8",
+        "12",
+        "7"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "In a pictograph one symbol stands for 5 children. How many children do 6 symbols show?",
+      "choices": [
+        "35",
+        "30",
+        "25",
+        "36"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "In tally marks, a group crossed by a diagonal line stands for ___.",
+      "choices": [
+        "5",
+        "10",
+        "1",
+        "4"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "A bar graph scale is 1 unit = 2 books. How many books does a bar 8 units tall show?",
+      "choices": [
+        "18",
+        "24",
+        "14",
+        "16"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "If one symbol stands for 10 books, 4 symbols stand for ___ books.",
+      "choices": [
+        "40",
+        "10",
+        "14",
+        "4"
+      ],
+      "answer": "40"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "In a pictograph one symbol stands for 20 children. How many children do 3 symbols show?",
+      "choices": [
+        "63",
+        "40",
+        "80",
+        "60"
+      ],
+      "answer": "60"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "In a pictograph one symbol stands for 4 children. How many children do 9 symbols show?",
+      "choices": [
+        "36",
+        "40",
+        "32",
+        "45"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "A bar graph scale is 1 unit = 10 books. How many books does a bar 9 units tall show?",
+      "choices": [
+        "80",
+        "99",
+        "90",
+        "100"
+      ],
+      "answer": "90"
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "q": "In 2, 5, 5, 7, 5, 2, which value occurs most often?",
+      "choices": [
+        "7",
+        "6",
+        "5",
+        "2"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "q": "With a scale of 1 unit = 10, how many units tall is a bar for 60?",
+      "choices": [
+        "7",
+        "5",
+        "6",
+        "16"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "q": "The gaps between bars in a bar graph should be ___.",
+      "choices": [
+        "equal",
+        "increasing",
+        "random",
+        "different for every bar"
+      ],
+      "answer": "equal"
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "q": "A collection of facts or numbers gathered for information is called ___.",
+      "choices": [
+        "a scale",
+        "data",
+        "a graph",
+        "a tally"
+      ],
+      "answer": "data"
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "q": "In a pictograph one symbol stands for 10 children. How many children do 7 symbols show?",
+      "choices": [
+        "60",
+        "80",
+        "77",
+        "70"
+      ],
+      "answer": "70"
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "q": "What is the smallest common multiple of 10 and 15?",
+      "choices": [
+        "45",
+        "90",
+        "40",
+        "30"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "q": "Which of these is a prime number?",
+      "choices": [
+        "33",
+        "29",
+        "21",
+        "27"
+      ],
+      "answer": "29"
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "q": "Which of these is the next prime number after 62?",
+      "choices": [
+        "65",
+        "67",
+        "69",
+        "63"
+      ],
+      "answer": "67"
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "q": "What is the smallest common multiple of 5 and 7?",
+      "choices": [
+        "42",
+        "105",
+        "35",
+        "40"
+      ],
+      "answer": "35"
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "q": "Which pair of numbers is co-prime?",
+      "choices": [
+        "6 and 9",
+        "8 and 15",
+        "14 and 21",
+        "10 and 25"
+      ],
+      "answer": "8 and 15"
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "q": "Which of these is the next prime number after 38?",
+      "choices": [
+        "39",
+        "45",
+        "41",
+        "40"
+      ],
+      "answer": "41"
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "q": "How many factors does 12 have?",
+      "choices": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "q": "How many even prime numbers are there?",
+      "choices": [
+        "1",
+        "2",
+        "Countless",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "q": "Which number is divisible by 10?",
+      "choices": [
+        "370",
+        "703",
+        "375",
+        "307"
+      ],
+      "answer": "370"
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "q": "Which number is divisible by 4?",
+      "choices": [
+        "410",
+        "322",
+        "316",
+        "314"
+      ],
+      "answer": "316"
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "q": "What is the smallest common multiple of 9 and 12?",
+      "choices": [
+        "48",
+        "45",
+        "36",
+        "108"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "q": "What is the smallest common multiple of 8 and 12?",
+      "choices": [
+        "24",
+        "72",
+        "36",
+        "32"
+      ],
+      "answer": "24"
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "q": "Which of these is the next prime number after 90?",
+      "choices": [
+        "97",
+        "91",
+        "95",
+        "93"
+      ],
+      "answer": "97"
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "q": "Which is the smallest prime number?",
+      "choices": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "q": "Which number is a factor of every number?",
+      "choices": [
+        "0",
+        "1",
+        "10",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "q": "A number is divisible by 5 if it ends in ___.",
+      "choices": [
+        "3 or 6",
+        "2 or 4",
+        "only 1",
+        "0 or 5"
+      ],
+      "answer": "0 or 5"
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "q": "Which of these is the next prime number after 50?",
+      "choices": [
+        "51",
+        "53",
+        "55",
+        "52"
+      ],
+      "answer": "53"
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "q": "A number with more than two factors is called ___.",
+      "choices": [
+        "prime",
+        "co-prime",
+        "odd",
+        "composite"
+      ],
+      "answer": "composite"
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "q": "The prime factorisation of 36 is ___.",
+      "choices": [
+        "6 × 6",
+        "2 × 3 × 6",
+        "4 × 9",
+        "2 × 2 × 3 × 3"
+      ],
+      "answer": "2 × 2 × 3 × 3"
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "q": "Which is a common multiple of 4 and 6?",
+      "choices": [
+        "8",
+        "18",
+        "10",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "q": "The area of an 8 cm by 5 cm rectangle is ___.",
+      "choices": [
+        "40 sq cm",
+        "26 sq cm",
+        "13 sq cm",
+        "45 sq cm"
+      ],
+      "answer": "40 sq cm"
+    },
+    {
+      "id": 102,
+      "type": "mcq",
+      "q": "The distance around a closed flat figure is its ___.",
+      "choices": [
+        "perimeter",
+        "angle",
+        "area",
+        "volume"
+      ],
+      "answer": "perimeter"
+    },
+    {
+      "id": 103,
+      "type": "mcq",
+      "q": "The area of a square of side 7 cm is ___.",
+      "choices": [
+        "28 sq cm",
+        "49 sq cm",
+        "14 sq cm",
+        "42 sq cm"
+      ],
+      "answer": "49 sq cm"
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "q": "What is the perimeter, in cm, of a 12 cm by 7 cm rectangle?",
+      "choices": [
+        "50",
+        "38",
+        "40",
+        "31"
+      ],
+      "answer": "38"
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "q": "The perimeter of a square of side 7 cm is ___.",
+      "choices": [
+        "21 cm",
+        "14 cm",
+        "49 cm",
+        "28 cm"
+      ],
+      "answer": "28 cm"
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "q": "What is the area, in sq cm, of a square of side 6 cm?",
+      "choices": [
+        "42",
+        "30",
+        "36",
+        "37"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "q": "What is the area, in sq cm, of a 12 cm by 7 cm rectangle?",
+      "choices": [
+        "96",
+        "77",
+        "84",
+        "86"
+      ],
+      "answer": "84"
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "q": "What is the perimeter, in cm, of a square of side 5 cm?",
+      "choices": [
+        "45",
+        "20",
+        "15",
+        "25"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "q": "Area is measured in ___ units.",
+      "choices": [
+        "cubic",
+        "straight",
+        "square",
+        "angle"
+      ],
+      "answer": "square"
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "q": "The area of a right triangle with perpendicular sides 6 cm and 4 cm is ___.",
+      "choices": [
+        "12 sq cm",
+        "20 sq cm",
+        "10 sq cm",
+        "24 sq cm"
+      ],
+      "answer": "12 sq cm"
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "q": "The perimeter of an 8 cm by 5 cm rectangle is ___.",
+      "choices": [
+        "21 cm",
+        "13 cm",
+        "40 cm",
+        "26 cm"
+      ],
+      "answer": "26 cm"
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "q": "The perimeter of an equilateral triangle of side 9 cm is ___.",
+      "choices": [
+        "27 cm",
+        "36 cm",
+        "18 cm",
+        "81 cm"
+      ],
+      "answer": "27 cm"
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "q": "What is the perimeter, in cm, of a 15 cm by 4 cm rectangle?",
+      "choices": [
+        "40",
+        "38",
+        "53",
+        "34"
+      ],
+      "answer": "38"
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "q": "What is the perimeter, in cm, of a square of side 20 cm?",
+      "choices": [
+        "480",
+        "80",
+        "60",
+        "100"
+      ],
+      "answer": "80"
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "q": "What is the area, in sq cm, of a 15 cm by 4 cm rectangle?",
+      "choices": [
+        "60",
+        "56",
+        "75",
+        "62"
+      ],
+      "answer": "60"
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "q": "A square has a perimeter of 36 cm. What is its side in cm?",
+      "choices": [
+        "36",
+        "12",
+        "9",
+        "6"
+      ],
+      "answer": "9"
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "q": "What is the perimeter, in cm, of a square of side 12 cm?",
+      "choices": [
+        "60",
+        "192",
+        "36",
+        "48"
+      ],
+      "answer": "48"
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "q": "A rectangle has area 48 sq cm and length 8 cm. Its width is ___.",
+      "choices": [
+        "5 cm",
+        "8 cm",
+        "40 cm",
+        "6 cm"
+      ],
+      "answer": "6 cm"
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "q": "What is the area, in sq cm, of a square of side 11 cm?",
+      "choices": [
+        "121",
+        "110",
+        "132",
+        "122"
+      ],
+      "answer": "121"
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "q": "A regular hexagon has sides of 5 cm. What is its perimeter in cm?",
+      "choices": [
+        "25",
+        "35",
+        "30",
+        "20"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": 121,
+      "type": "mcq",
+      "q": "In 5/8, the number 8 is the ___.",
+      "choices": [
+        "remainder",
+        "quotient",
+        "denominator",
+        "numerator"
+      ],
+      "answer": "denominator"
+    },
+    {
+      "id": 122,
+      "type": "mcq",
+      "q": "A fraction with numerator 1 is called a ___ fraction.",
+      "choices": [
+        "mixed",
+        "improper",
+        "like",
+        "unit"
+      ],
+      "answer": "unit"
+    },
+    {
+      "id": 123,
+      "type": "mcq",
+      "q": "What is 2/7 + 3/7?",
+      "choices": [
+        "5/7",
+        "6/7",
+        "1/7",
+        "5/14"
+      ],
+      "answer": "5/7"
+    },
+    {
+      "id": 124,
+      "type": "mcq",
+      "q": "What is 1/2 + 1/4?",
+      "choices": [
+        "1/8",
+        "3/4",
+        "1/6",
+        "2/6"
+      ],
+      "answer": "3/4"
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "q": "What is 1/3 + 1/6?",
+      "choices": [
+        "1/2",
+        "1/9",
+        "2/9",
+        "2/3"
+      ],
+      "answer": "1/2"
+    },
+    {
+      "id": 126,
+      "type": "mcq",
+      "q": "Which is smallest?",
+      "choices": [
+        "1/3",
+        "1/9",
+        "1/5",
+        "1/2"
+      ],
+      "answer": "1/9"
+    },
+    {
+      "id": 127,
+      "type": "mcq",
+      "q": "Written as a mixed number, 11/4 is ___.",
+      "choices": [
+        "2 1/4",
+        "3 1/4",
+        "2 3/4",
+        "1 3/4"
+      ],
+      "answer": "2 3/4"
+    },
+    {
+      "id": 128,
+      "type": "mcq",
+      "q": "What is half of 30?",
+      "choices": [
+        "10",
+        "60",
+        "15",
+        "20"
+      ],
+      "answer": "15"
+    },
+    {
+      "id": 129,
+      "type": "mcq",
+      "q": "The simplest form of 12/18 is ___.",
+      "choices": [
+        "6/9",
+        "4/6",
+        "3/4",
+        "2/3"
+      ],
+      "answer": "2/3"
+    },
+    {
+      "id": 130,
+      "type": "mcq",
+      "q": "Which is greater?",
+      "choices": [
+        "2/3",
+        "3/5",
+        "1/2",
+        "3/4"
+      ],
+      "answer": "3/4"
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "q": "Which of these is an improper fraction?",
+      "choices": [
+        "4/9",
+        "9/4",
+        "7/8",
+        "1/2"
+      ],
+      "answer": "9/4"
+    },
+    {
+      "id": 132,
+      "type": "mcq",
+      "q": "Fractions with the same denominator are called ___ fractions.",
+      "choices": [
+        "mixed",
+        "like",
+        "unit",
+        "unlike"
+      ],
+      "answer": "like"
+    },
+    {
+      "id": 133,
+      "type": "mcq",
+      "q": "Which fraction is equivalent to 1/4?",
+      "choices": [
+        "3/12",
+        "4/8",
+        "2/6",
+        "1/8"
+      ],
+      "answer": "3/12"
+    },
+    {
+      "id": 134,
+      "type": "mcq",
+      "q": "What is 5/8 - 1/8?",
+      "choices": [
+        "5/64",
+        "1/2",
+        "6/8",
+        "1/8"
+      ],
+      "answer": "1/2"
+    },
+    {
+      "id": 135,
+      "type": "mcq",
+      "q": "What is 7/9 - 2/9?",
+      "choices": [
+        "9/9",
+        "5/9",
+        "2/9",
+        "5/18"
+      ],
+      "answer": "5/9"
+    },
+    {
+      "id": 136,
+      "type": "mcq",
+      "q": "What is 3/4 - 1/2?",
+      "choices": [
+        "1/4",
+        "1/8",
+        "1/2",
+        "2/2"
+      ],
+      "answer": "1/4"
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "q": "The simplest form of 10/15 is ___.",
+      "choices": [
+        "1/5",
+        "5/10",
+        "2/3",
+        "3/5"
+      ],
+      "answer": "2/3"
+    },
+    {
+      "id": 138,
+      "type": "mcq",
+      "q": "Which fraction is equivalent to 2/3?",
+      "choices": [
+        "2/6",
+        "4/9",
+        "4/6",
+        "3/4"
+      ],
+      "answer": "4/6"
+    },
+    {
+      "id": 139,
+      "type": "mcq",
+      "q": "As an improper fraction, 3 1/2 is ___.",
+      "choices": [
+        "4/2",
+        "5/2",
+        "7/2",
+        "3/2"
+      ],
+      "answer": "7/2"
+    },
+    {
+      "id": 140,
+      "type": "mcq",
+      "q": "What is 3/10 + 4/10?",
+      "choices": [
+        "7/20",
+        "12/10",
+        "1/10",
+        "7/10"
+      ],
+      "answer": "7/10"
+    },
+    {
+      "id": 141,
+      "type": "mcq",
+      "q": "A circle has a radius of 3 cm. What is its diameter in cm?",
+      "choices": [
+        "3",
+        "9",
+        "6",
+        "7"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 142,
+      "type": "mcq",
+      "q": "The diagonals of a rectangle are ___ in length.",
+      "choices": [
+        "zero",
+        "always unequal",
+        "equal",
+        "equal to the shorter side"
+      ],
+      "answer": "equal"
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "q": "In a square, all four sides are ___.",
+      "choices": [
+        "curved",
+        "different",
+        "equal",
+        "parallel to one line"
+      ],
+      "answer": "equal"
+    },
+    {
+      "id": 144,
+      "type": "mcq",
+      "q": "The distance from the centre of a circle to a point on it is the ___.",
+      "choices": [
+        "circumference",
+        "radius",
+        "diameter",
+        "arc"
+      ],
+      "answer": "radius"
+    },
+    {
+      "id": 145,
+      "type": "mcq",
+      "q": "A part of the boundary of a circle is called an ___.",
+      "choices": [
+        "axis",
+        "area",
+        "angle",
+        "arc"
+      ],
+      "answer": "arc"
+    },
+    {
+      "id": 146,
+      "type": "mcq",
+      "q": "A circle has a diameter of 22 cm. What is its radius in cm?",
+      "choices": [
+        "11",
+        "12",
+        "22",
+        "10"
+      ],
+      "answer": "11"
+    },
+    {
+      "id": 147,
+      "type": "mcq",
+      "q": "Each angle of a rectangle measures ___.",
+      "choices": [
+        "45°",
+        "180°",
+        "90°",
+        "60°"
+      ],
+      "answer": "90°"
+    },
+    {
+      "id": 148,
+      "type": "mcq",
+      "q": "In a rectangle, opposite sides are ___.",
+      "choices": [
+        "perpendicular to each other",
+        "always unequal",
+        "curved",
+        "equal"
+      ],
+      "answer": "equal"
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "q": "A circle has a diameter of 14 cm. What is its radius in cm?",
+      "choices": [
+        "6",
+        "14",
+        "8",
+        "7"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": 150,
+      "type": "mcq",
+      "q": "The longest chord of a circle is its ___.",
+      "choices": [
+        "diameter",
+        "arc",
+        "centre",
+        "radius"
+      ],
+      "answer": "diameter"
+    },
+    {
+      "id": 151,
+      "type": "mcq",
+      "q": "How many right angles does a square have?",
+      "choices": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 152,
+      "type": "mcq",
+      "q": "To draw a line segment of a given length, we use a ___.",
+      "choices": [
+        "thermometer",
+        "protractor only",
+        "ruler",
+        "set of weights"
+      ],
+      "answer": "ruler"
+    },
+    {
+      "id": 153,
+      "type": "mcq",
+      "q": "A circle has a radius of 5 cm. What is its diameter in cm?",
+      "choices": [
+        "15",
+        "10",
+        "11",
+        "5"
+      ],
+      "answer": "10"
+    },
+    {
+      "id": 154,
+      "type": "mcq",
+      "q": "How many diagonals does a rectangle have?",
+      "choices": [
+        "4",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 155,
+      "type": "mcq",
+      "q": "Which tool is used to draw a circle?",
+      "choices": [
+        "Divider scale",
+        "Ruler only",
+        "Protractor",
+        "Compass"
+      ],
+      "answer": "Compass"
+    },
+    {
+      "id": 156,
+      "type": "mcq",
+      "q": "A rectangle with all four sides equal is a ___.",
+      "choices": [
+        "triangle",
+        "pentagon",
+        "square",
+        "circle"
+      ],
+      "answer": "square"
+    },
+    {
+      "id": 157,
+      "type": "mcq",
+      "q": "All points on a circle are the same distance from its ___.",
+      "choices": [
+        "edge",
+        "diameter",
+        "chord",
+        "centre"
+      ],
+      "answer": "centre"
+    },
+    {
+      "id": 158,
+      "type": "mcq",
+      "q": "If the radius of a circle is 4 cm, its diameter is ___.",
+      "choices": [
+        "4 cm",
+        "8 cm",
+        "2 cm",
+        "16 cm"
+      ],
+      "answer": "8 cm"
+    },
+    {
+      "id": 159,
+      "type": "mcq",
+      "q": "A circle has a radius of 9 cm. What is its diameter in cm?",
+      "choices": [
+        "18",
+        "19",
+        "9",
+        "27"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": 160,
+      "type": "mcq",
+      "q": "A circle has a radius of 12 cm. What is its diameter in cm?",
+      "choices": [
+        "12",
+        "24",
+        "25",
+        "36"
+      ],
+      "answer": "24"
+    },
+    {
+      "id": 161,
+      "type": "mcq",
+      "q": "A figure turned through 360° always looks ___.",
+      "choices": [
+        "upside down",
+        "mirrored",
+        "smaller",
+        "the same as before"
+      ],
+      "answer": "the same as before"
+    },
+    {
+      "id": 162,
+      "type": "mcq",
+      "q": "How many lines of symmetry does a regular pentagon have?",
+      "choices": [
+        "2",
+        "4",
+        "10",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 163,
+      "type": "mcq",
+      "q": "The smallest angle of rotational symmetry of a square is ___.",
+      "choices": [
+        "180°",
+        "45°",
+        "360°",
+        "90°"
+      ],
+      "answer": "90°"
+    },
+    {
+      "id": 164,
+      "type": "mcq",
+      "q": "How many lines of symmetry does a regular hexagon have?",
+      "choices": [
+        "3",
+        "6",
+        "4",
+        "12"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 165,
+      "type": "mcq",
+      "q": "How many lines of symmetry does a square have?",
+      "choices": [
+        "4",
+        "8",
+        "1",
+        "2"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 166,
+      "type": "mcq",
+      "q": "Which capital letter has both vertical and horizontal symmetry?",
+      "choices": [
+        "B",
+        "L",
+        "H",
+        "A"
+      ],
+      "answer": "H"
+    },
+    {
+      "id": 167,
+      "type": "mcq",
+      "q": "How many lines of symmetry does an equilateral triangle have?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": 168,
+      "type": "mcq",
+      "q": "How many lines of symmetry does a rectangle that is not a square have?",
+      "choices": [
+        "2",
+        "1",
+        "4",
+        "0"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 169,
+      "type": "mcq",
+      "q": "The smallest angle of rotational symmetry of an equilateral triangle is ___.",
+      "choices": [
+        "180°",
+        "90°",
+        "60°",
+        "120°"
+      ],
+      "answer": "120°"
+    },
+    {
+      "id": 170,
+      "type": "mcq",
+      "q": "Which capital letter has a horizontal line of symmetry?",
+      "choices": [
+        "B",
+        "A",
+        "J",
+        "F"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 171,
+      "type": "mcq",
+      "q": "Which capital letter has a vertical line of symmetry?",
+      "choices": [
+        "F",
+        "B",
+        "A",
+        "G"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 172,
+      "type": "mcq",
+      "q": "The fixed point about which a figure is rotated is the centre of ___.",
+      "choices": [
+        "mass of data",
+        "reflection line",
+        "rotation",
+        "the ruler"
+      ],
+      "answer": "rotation"
+    },
+    {
+      "id": 173,
+      "type": "mcq",
+      "q": "A mirror image of a left hand looks like a ___.",
+      "choices": [
+        "right hand",
+        "circle",
+        "left hand",
+        "foot"
+      ],
+      "answer": "right hand"
+    },
+    {
+      "id": 174,
+      "type": "mcq",
+      "q": "A scalene triangle has ___ lines of symmetry.",
       "choices": [
         "0",
         "3",
         "2",
         "1"
       ],
-      "answer": "1"
-    },
-    {
-      "id": 41,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:9. If the smaller is 25, what is the larger?",
-      "choices": [
-        "50",
-        "45",
-        "48",
-        "41"
-      ],
-      "answer": "45"
-    },
-    {
-      "id": 42,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:9. If the smaller is 21, what is the larger?",
-      "choices": [
-        "63",
-        "60",
-        "62",
-        "66"
-      ],
-      "answer": "63"
-    },
-    {
-      "id": 43,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:8. If the smaller is 27, what is the larger?",
-      "choices": [
-        "65",
-        "72",
-        "78",
-        "70"
-      ],
-      "answer": "72"
-    },
-    {
-      "id": 44,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:6. If the smaller is 30, what is the larger?",
-      "choices": [
-        "36",
-        "39",
-        "34",
-        "38"
-      ],
-      "answer": "36"
-    },
-    {
-      "id": 45,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:5. If the smaller is 8, what is the larger?",
-      "choices": [
-        "7",
-        "10",
-        "12",
-        "8"
-      ],
-      "answer": "10"
-    },
-    {
-      "id": 46,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:6. If the smaller is 45, what is the larger?",
-      "choices": [
-        "59",
-        "52",
-        "54",
-        "53"
-      ],
-      "answer": "54"
-    },
-    {
-      "id": 47,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:9. If the smaller is 20, what is the larger?",
-      "choices": [
-        "40",
-        "37",
-        "38",
-        "36"
-      ],
-      "answer": "36"
-    },
-    {
-      "id": 48,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 2:6. If the smaller is 16, what is the larger?",
-      "choices": [
-        "44",
-        "49",
-        "53",
-        "48"
-      ],
-      "answer": "48"
-    },
-    {
-      "id": 49,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:7. If the smaller is 30, what is the larger?",
-      "choices": [
-        "39",
-        "43",
-        "42",
-        "38"
-      ],
-      "answer": "42"
-    },
-    {
-      "id": 50,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:9. If the smaller is 42, what is the larger?",
-      "choices": [
-        "69",
-        "65",
-        "61",
-        "63"
-      ],
-      "answer": "63"
-    },
-    {
-      "id": 51,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:8. If the smaller is 45, what is the larger?",
-      "choices": [
-        "72",
-        "75",
-        "65",
-        "70"
-      ],
-      "answer": "72"
-    },
-    {
-      "id": 52,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:10. If the smaller is 42, what is the larger?",
-      "choices": [
-        "66",
-        "77",
-        "70",
-        "72"
-      ],
-      "answer": "70"
-    },
-    {
-      "id": 53,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:7. If the smaller is 27, what is the larger?",
-      "choices": [
-        "60",
-        "57",
-        "63",
-        "67"
-      ],
-      "answer": "63"
-    },
-    {
-      "id": 54,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:6. If the smaller is 24, what is the larger?",
-      "choices": [
-        "38",
-        "39",
-        "33",
-        "36"
-      ],
-      "answer": "36"
-    },
-    {
-      "id": 55,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:8. If the smaller is 24, what is the larger?",
-      "choices": [
-        "35",
-        "32",
-        "33",
-        "30"
-      ],
-      "answer": "32"
-    },
-    {
-      "id": 56,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:10. If the smaller is 25, what is the larger?",
-      "choices": [
-        "52",
-        "50",
-        "46",
-        "49"
-      ],
-      "answer": "50"
-    },
-    {
-      "id": 57,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:12. If the smaller is 42, what is the larger?",
-      "choices": [
-        "84",
-        "87",
-        "80",
-        "90"
-      ],
-      "answer": "84"
-    },
-    {
-      "id": 58,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:4. If the smaller is 12, what is the larger?",
-      "choices": [
-        "13",
-        "14",
-        "16",
-        "18"
-      ],
-      "answer": "16"
-    },
-    {
-      "id": 59,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:5. If the smaller is 6, what is the larger?",
-      "choices": [
-        "9",
-        "12",
-        "10",
-        "7"
-      ],
-      "answer": "10"
-    },
-    {
-      "id": 60,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:9. If the smaller is 20, what is the larger?",
-      "choices": [
-        "45",
-        "41",
-        "42",
-        "50"
-      ],
-      "answer": "45"
-    },
-    {
-      "id": 61,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 2:5. If the smaller is 16, what is the larger?",
-      "choices": [
-        "37",
-        "42",
-        "43",
-        "40"
-      ],
-      "answer": "40"
-    },
-    {
-      "id": 62,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 2:4. If the smaller is 12, what is the larger?",
-      "choices": [
-        "23",
-        "21",
-        "26",
-        "24"
-      ],
-      "answer": "24"
-    },
-    {
-      "id": 63,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:8. If the smaller is 30, what is the larger?",
-      "choices": [
-        "38",
-        "37",
-        "40",
-        "42"
-      ],
-      "answer": "40"
-    },
-    {
-      "id": 64,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:8. If the smaller is 32, what is the larger?",
-      "choices": [
-        "68",
-        "64",
-        "69",
-        "66"
-      ],
-      "answer": "64"
-    },
-    {
-      "id": 65,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 1:4. If the smaller is 4, what is the larger?",
-      "choices": [
-        "19",
-        "14",
-        "15",
-        "16"
-      ],
-      "answer": "16"
-    },
-    {
-      "id": 66,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:8. If the smaller is 18, what is the larger?",
-      "choices": [
-        "48",
-        "46",
-        "51",
-        "45"
-      ],
-      "answer": "48"
-    },
-    {
-      "id": 67,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:6. If the smaller is 15, what is the larger?",
-      "choices": [
-        "33",
-        "30",
-        "29",
-        "31"
-      ],
-      "answer": "30"
-    },
-    {
-      "id": 68,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:7. If the smaller is 18, what is the larger?",
-      "choices": [
-        "42",
-        "41",
-        "43",
-        "46"
-      ],
-      "answer": "42"
-    },
-    {
-      "id": 69,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:9. If the smaller is 36, what is the larger?",
-      "choices": [
-        "51",
-        "56",
-        "52",
-        "54"
-      ],
-      "answer": "54"
-    },
-    {
-      "id": 70,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:8. If the smaller is 40, what is the larger?",
-      "choices": [
-        "64",
-        "58",
-        "68",
-        "61"
-      ],
-      "answer": "64"
-    },
-    {
-      "id": 71,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 2:7. If the smaller is 8, what is the larger?",
-      "choices": [
-        "28",
-        "25",
-        "29",
-        "30"
-      ],
-      "answer": "28"
-    },
-    {
-      "id": 72,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 1:2. If the smaller is 7, what is the larger?",
-      "choices": [
-        "15",
-        "14",
-        "12",
-        "17"
-      ],
-      "answer": "14"
-    },
-    {
-      "id": 73,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:9. If the smaller is 35, what is the larger?",
-      "choices": [
-        "61",
-        "65",
-        "59",
-        "63"
-      ],
-      "answer": "63"
-    },
-    {
-      "id": 74,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 1:2. If the smaller is 9, what is the larger?",
-      "choices": [
-        "18",
-        "17",
-        "15",
-        "19"
-      ],
-      "answer": "18"
-    },
-    {
-      "id": 75,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:10. If the smaller is 16, what is the larger?",
-      "choices": [
-        "39",
-        "41",
-        "42",
-        "40"
-      ],
-      "answer": "40"
-    },
-    {
-      "id": 76,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 1:5. If the smaller is 9, what is the larger?",
-      "choices": [
-        "40",
-        "45",
-        "48",
-        "50"
-      ],
-      "answer": "45"
-    },
-    {
-      "id": 77,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 6:7. If the smaller is 42, what is the larger?",
-      "choices": [
-        "50",
-        "45",
-        "49",
-        "52"
-      ],
-      "answer": "49"
-    },
-    {
-      "id": 78,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 5:11. If the smaller is 25, what is the larger?",
-      "choices": [
-        "51",
-        "60",
-        "57",
-        "55"
-      ],
-      "answer": "55"
-    },
-    {
-      "id": 79,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 4:5. If the smaller is 16, what is the larger?",
-      "choices": [
-        "19",
-        "17",
-        "20",
-        "23"
-      ],
-      "answer": "20"
-    },
-    {
-      "id": 80,
-      "type": "mcq",
-      "q": "Two numbers are in the ratio 3:5. If the smaller is 18, what is the larger?",
-      "choices": [
-        "29",
-        "33",
-        "31",
-        "30"
-      ],
-      "answer": "30"
-    },
-    {
-      "id": 81,
-      "type": "mcq",
-      "q": "What is (10) - 12?",
-      "choices": [
-        "1",
-        "-4",
-        "-3",
-        "-2"
-      ],
-      "answer": "-2"
-    },
-    {
-      "id": 82,
-      "type": "mcq",
-      "q": "What is (14) - 19?",
-      "choices": [
-        "-4",
-        "-3",
-        "-6",
-        "-5"
-      ],
-      "answer": "-5"
-    },
-    {
-      "id": 83,
-      "type": "mcq",
-      "q": "What is (-12) - 20?",
-      "choices": [
-        "-34",
-        "-31",
-        "-32",
-        "-33"
-      ],
-      "answer": "-32"
-    },
-    {
-      "id": 84,
-      "type": "mcq",
-      "q": "What is (-10) - 12?",
-      "choices": [
-        "-20",
-        "-22",
-        "-24",
-        "-23"
-      ],
-      "answer": "-22"
-    },
-    {
-      "id": 85,
-      "type": "mcq",
-      "q": "What is (-13) - 2?",
-      "choices": [
-        "-14",
-        "-15",
-        "-18",
-        "-13"
-      ],
-      "answer": "-15"
-    },
-    {
-      "id": 86,
-      "type": "mcq",
-      "q": "What is (7) - 4?",
-      "choices": [
-        "5",
-        "6",
-        "2",
-        "3"
-      ],
-      "answer": "3"
-    },
-    {
-      "id": 87,
-      "type": "mcq",
-      "q": "What is (9) - 18?",
-      "choices": [
-        "-11",
-        "-8",
-        "-9",
-        "-7"
-      ],
-      "answer": "-9"
-    },
-    {
-      "id": 88,
-      "type": "mcq",
-      "q": "What is (2) - 19?",
-      "choices": [
-        "-19",
-        "-17",
-        "-14",
-        "-20"
-      ],
-      "answer": "-17"
-    },
-    {
-      "id": 89,
-      "type": "mcq",
-      "q": "What is (14) - 14?",
-      "choices": [
-        "2",
-        "0",
-        "1",
-        "3"
-      ],
       "answer": "0"
     },
     {
-      "id": 90,
+      "id": 175,
       "type": "mcq",
-      "q": "What is (10) - 20?",
+      "q": "The smallest angle of rotational symmetry of a regular hexagon is ___.",
       "choices": [
-        "-10",
-        "-12",
-        "-9",
-        "-7"
+        "30°",
+        "120°",
+        "60°",
+        "90°"
       ],
-      "answer": "-10"
+      "answer": "60°"
     },
     {
-      "id": 91,
+      "id": 176,
       "type": "mcq",
-      "q": "What is (-10) - 3?",
+      "q": "A windmill with four equal blades looks the same after a turn of ___.",
       "choices": [
-        "-13",
-        "-11",
-        "-14",
-        "-16"
+        "100°",
+        "45°",
+        "60°",
+        "90°"
       ],
-      "answer": "-13"
+      "answer": "90°"
     },
     {
-      "id": 92,
+      "id": 177,
       "type": "mcq",
-      "q": "What is (15) - 3?",
+      "q": "A line that divides a figure into two matching mirror halves is a line of ___.",
       "choices": [
-        "15",
-        "14",
-        "11",
-        "12"
+        "symmetry",
+        "measurement",
+        "rotation",
+        "data"
       ],
-      "answer": "12"
+      "answer": "symmetry"
     },
     {
-      "id": 93,
+      "id": 178,
       "type": "mcq",
-      "q": "What is (-3) - 14?",
+      "q": "Which capital letter has no line of symmetry?",
       "choices": [
-        "-15",
-        "-18",
-        "-14",
-        "-17"
+        "A",
+        "T",
+        "F",
+        "M"
       ],
-      "answer": "-17"
+      "answer": "F"
     },
     {
-      "id": 94,
+      "id": 179,
       "type": "mcq",
-      "q": "What is (-6) - 5?",
+      "q": "An isosceles triangle that is not equilateral has ___ line(s) of symmetry.",
       "choices": [
-        "-8",
-        "-11",
-        "-10",
-        "-13"
-      ],
-      "answer": "-11"
-    },
-    {
-      "id": 95,
-      "type": "mcq",
-      "q": "What is (-11) - 20?",
-      "choices": [
-        "-33",
-        "-31",
-        "-29",
-        "-34"
-      ],
-      "answer": "-31"
-    },
-    {
-      "id": 96,
-      "type": "mcq",
-      "q": "What is (-14) - 15?",
-      "choices": [
-        "-29",
-        "-27",
-        "-31",
-        "-28"
-      ],
-      "answer": "-29"
-    },
-    {
-      "id": 97,
-      "type": "mcq",
-      "q": "What is (-8) - 17?",
-      "choices": [
-        "-25",
-        "-28",
-        "-23",
-        "-24"
-      ],
-      "answer": "-25"
-    },
-    {
-      "id": 98,
-      "type": "mcq",
-      "q": "What is (1) - 18?",
-      "choices": [
-        "-17",
-        "-18",
-        "-16",
-        "-15"
-      ],
-      "answer": "-17"
-    },
-    {
-      "id": 99,
-      "type": "mcq",
-      "q": "What is (-10) - 8?",
-      "choices": [
-        "-18",
-        "-17",
-        "-16",
-        "-20"
-      ],
-      "answer": "-18"
-    },
-    {
-      "id": 100,
-      "type": "mcq",
-      "q": "What is (9) - 20?",
-      "choices": [
-        "-10",
-        "-14",
-        "-9",
-        "-11"
-      ],
-      "answer": "-11"
-    },
-    {
-      "id": 101,
-      "type": "mcq",
-      "q": "What is (-7) - 4?",
-      "choices": [
-        "-11",
-        "-9",
-        "-10",
-        "-13"
-      ],
-      "answer": "-11"
-    },
-    {
-      "id": 102,
-      "type": "mcq",
-      "q": "What is (0) - 7?",
-      "choices": [
-        "-7",
-        "-4",
-        "-10",
-        "-5"
-      ],
-      "answer": "-7"
-    },
-    {
-      "id": 103,
-      "type": "mcq",
-      "q": "What is (6) - 14?",
-      "choices": [
-        "-6",
-        "-10",
-        "-8",
-        "-5"
-      ],
-      "answer": "-8"
-    },
-    {
-      "id": 104,
-      "type": "mcq",
-      "q": "What is (13) - 18?",
-      "choices": [
-        "-4",
-        "-7",
-        "-5",
-        "-8"
-      ],
-      "answer": "-5"
-    },
-    {
-      "id": 105,
-      "type": "mcq",
-      "q": "What is (4) - 3?",
-      "choices": [
-        "4",
         "1",
+        "3",
         "0",
         "2"
       ],
       "answer": "1"
     },
     {
-      "id": 106,
+      "id": 180,
       "type": "mcq",
-      "q": "What is (-2) - 5?",
+      "q": "How many lines of symmetry does a circle have?",
       "choices": [
-        "-7",
-        "-8",
-        "-4",
-        "-6"
+        "None",
+        "One",
+        "Four",
+        "Countless"
       ],
-      "answer": "-7"
+      "answer": "Countless"
     },
     {
-      "id": 107,
+      "id": 181,
       "type": "mcq",
-      "q": "What is (3) - 6?",
-      "choices": [
-        "-4",
-        "-6",
-        "-3",
-        "-5"
-      ],
-      "answer": "-3"
-    },
-    {
-      "id": 108,
-      "type": "mcq",
-      "q": "What is (-9) - 15?",
-      "choices": [
-        "-24",
-        "-23",
-        "-26",
-        "-25"
-      ],
-      "answer": "-24"
-    },
-    {
-      "id": 109,
-      "type": "mcq",
-      "q": "What is (0) - 1?",
-      "choices": [
-        "-4",
-        "-1",
-        "2",
-        "0"
-      ],
-      "answer": "-1"
-    },
-    {
-      "id": 110,
-      "type": "mcq",
-      "q": "What is (-11) - 12?",
-      "choices": [
-        "-20",
-        "-25",
-        "-22",
-        "-23"
-      ],
-      "answer": "-23"
-    },
-    {
-      "id": 111,
-      "type": "mcq",
-      "q": "What is (15) - 6?",
-      "choices": [
-        "9",
-        "6",
-        "8",
-        "10"
-      ],
-      "answer": "9"
-    },
-    {
-      "id": 112,
-      "type": "mcq",
-      "q": "What is (8) - 6?",
-      "choices": [
-        "2",
-        "1",
-        "4",
-        "3"
-      ],
-      "answer": "2"
-    },
-    {
-      "id": 113,
-      "type": "mcq",
-      "q": "What is (-5) - 3?",
+      "q": "What is the additive inverse of 8?",
       "choices": [
         "-8",
-        "-11",
-        "-6",
-        "-10"
+        "0",
+        "1/8",
+        "8"
       ],
       "answer": "-8"
     },
     {
-      "id": 114,
+      "id": 182,
       "type": "mcq",
-      "q": "What is (-7) - 2?",
+      "q": "What is (20) + (-20)?",
       "choices": [
-        "-7",
-        "-9",
-        "-6",
-        "-12"
-      ],
-      "answer": "-9"
-    },
-    {
-      "id": 115,
-      "type": "mcq",
-      "q": "What is (-9) - 11?",
-      "choices": [
-        "-20",
-        "-23",
-        "-17",
-        "-21"
-      ],
-      "answer": "-20"
-    },
-    {
-      "id": 116,
-      "type": "mcq",
-      "q": "What is (1) - 3?",
-      "choices": [
-        "-2",
-        "1",
+        "2",
         "0",
-        "-3"
+        "-1",
+        "1"
       ],
-      "answer": "-2"
+      "answer": "0"
     },
     {
-      "id": 117,
+      "id": 183,
       "type": "mcq",
-      "q": "What is (7) - 10?",
+      "q": "Which is the smallest?",
       "choices": [
         "0",
         "-3",
-        "-4",
-        "-1"
+        "-12",
+        "4"
+      ],
+      "answer": "-12"
+    },
+    {
+      "id": 184,
+      "type": "mcq",
+      "q": "A lift goes 3 floors below ground level 0. Its floor number is ___.",
+      "choices": [
+        "3",
+        "-30",
+        "0",
+        "-3"
       ],
       "answer": "-3"
     },
     {
-      "id": 118,
+      "id": 185,
       "type": "mcq",
-      "q": "What is (7) - 20?",
+      "q": "A temperature 5 degrees below zero is written as ___.",
       "choices": [
-        "-11",
-        "-10",
-        "-13",
-        "-12"
+        "-5°C",
+        "0°C",
+        "5°C",
+        "-0.5°C"
       ],
-      "answer": "-13"
+      "answer": "-5°C"
     },
     {
-      "id": 119,
+      "id": 186,
       "type": "mcq",
-      "q": "What is (-9) - 2?",
+      "q": "On a number line, negative numbers lie to the ___ of zero.",
       "choices": [
-        "-14",
-        "-10",
+        "top",
+        "left",
+        "right",
+        "centre"
+      ],
+      "answer": "left"
+    },
+    {
+      "id": 187,
+      "type": "mcq",
+      "q": "What is (-3) + 5?",
+      "choices": [
+        "8",
+        "-2",
+        "2",
+        "-8"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 188,
+      "type": "mcq",
+      "q": "What is (3) - (11)?",
+      "choices": [
+        "-6",
         "-8",
+        "-9",
+        "-7"
+      ],
+      "answer": "-8"
+    },
+    {
+      "id": 189,
+      "type": "mcq",
+      "q": "What is (-7) + (12)?",
+      "choices": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 190,
+      "type": "mcq",
+      "q": "Which is the greatest?",
+      "choices": [
+        "-2",
+        "-5",
+        "-7",
+        "-10"
+      ],
+      "answer": "-2"
+    },
+    {
+      "id": 191,
+      "type": "mcq",
+      "q": "What is the additive inverse of -15?",
+      "choices": [
+        "0",
+        "-15",
+        "15",
+        "1/15"
+      ],
+      "answer": "15"
+    },
+    {
+      "id": 192,
+      "type": "mcq",
+      "q": "The integer just before -6 is ___.",
+      "choices": [
+        "6",
+        "-7",
+        "-5",
+        "-8"
+      ],
+      "answer": "-7"
+    },
+    {
+      "id": 193,
+      "type": "mcq",
+      "q": "What is (-4) - (-10)?",
+      "choices": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": 194,
+      "type": "mcq",
+      "q": "What is 3 - (-2)?",
+      "choices": [
+        "1",
+        "-5",
+        "-1",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 195,
+      "type": "mcq",
+      "q": "What is 4 - 9?",
+      "choices": [
+        "-5",
+        "13",
+        "-13",
+        "5"
+      ],
+      "answer": "-5"
+    },
+    {
+      "id": 196,
+      "type": "mcq",
+      "q": "What is (-8) + (-9)?",
+      "choices": [
+        "-16",
+        "-15",
+        "-17",
+        "-18"
+      ],
+      "answer": "-17"
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "q": "Which integer is neither positive nor negative?",
+      "choices": [
+        "10",
+        "-1",
+        "0",
+        "1"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": 198,
+      "type": "mcq",
+      "q": "What is (-6) + (-4)?",
+      "choices": [
+        "10",
+        "2",
+        "-2",
+        "-10"
+      ],
+      "answer": "-10"
+    },
+    {
+      "id": 199,
+      "type": "mcq",
+      "q": "What is (9) + (-15)?",
+      "choices": [
+        "-7",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "answer": "-6"
+    },
+    {
+      "id": 200,
+      "type": "mcq",
+      "q": "What is (-5) - (6)?",
+      "choices": [
+        "-10",
+        "-12",
+        "-9",
         "-11"
       ],
       "answer": "-11"
-    },
-    {
-      "id": 120,
-      "type": "mcq",
-      "q": "What is (-9) - 12?",
-      "choices": [
-        "-24",
-        "-22",
-        "-20",
-        "-21"
-      ],
-      "answer": "-21"
     }
   ],
-  "chapterCount": 3,
+  "chapterCount": 10,
   "chapterNames": [
-    "HCF and LCM",
-    "Ratio",
-    "Integers"
+    "1. Patterns in Mathematics",
+    "2. Lines and Angles",
+    "3. Number Play",
+    "4. Data Handling and Presentation",
+    "5. Prime Time",
+    "6. Perimeter and Area",
+    "7. Fractions",
+    "8. Playing with Constructions",
+    "9. Symmetry",
+    "10. The Other Side of Zero"
   ],
   "chapterSizes": [
-    40,
-    40,
-    40
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
   ],
   "meta": {
     "subject": "math",

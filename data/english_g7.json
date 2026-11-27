@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "mischief"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What does \"put off\" mean?",
+      "choices": [
+        "postpone",
+        "stop trying",
+        "establish",
+        "refuse"
+      ],
+      "answer": "postpone"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What does \"bring up\" mean?",
+      "choices": [
+        "raise a child",
+        "cancel",
+        "establish",
+        "refuse"
+      ],
+      "answer": "raise a child"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What does \"call off\" mean?",
+      "choices": [
+        "stop trying",
+        "cancel",
+        "meet by chance",
+        "take care of"
+      ],
+      "answer": "cancel"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What does \"run into\" mean?",
+      "choices": [
+        "raise a child",
+        "meet by chance",
+        "cancel",
+        "take care of"
+      ],
+      "answer": "meet by chance"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What does \"look after\" mean?",
+      "choices": [
+        "meet by chance",
+        "establish",
+        "stop trying",
+        "take care of"
+      ],
+      "answer": "take care of"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What does \"set up\" mean?",
+      "choices": [
+        "refuse",
+        "stop trying",
+        "take care of",
+        "establish"
+      ],
+      "answer": "establish"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What does \"turn down\" mean?",
+      "choices": [
+        "cancel",
+        "postpone",
+        "refuse",
+        "stop trying"
+      ],
+      "answer": "refuse"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What does \"give up\" mean?",
+      "choices": [
+        "take care of",
+        "raise a child",
+        "stop trying",
+        "meet by chance"
+      ],
+      "answer": "stop trying"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "What does the root \"scrib\" mean?",
+      "choices": [
+        "say",
+        "write",
+        "foot",
+        "hear"
+      ],
+      "answer": "write"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "What does the root \"aud\" mean?",
+      "choices": [
+        "see",
+        "water",
+        "carry",
+        "hear"
+      ],
+      "answer": "hear"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "What does the root \"dict\" mean?",
+      "choices": [
+        "see",
+        "foot",
+        "say",
+        "write"
+      ],
+      "answer": "say"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "What does the root \"aqua\" mean?",
+      "choices": [
+        "say",
+        "water",
+        "carry",
+        "hear"
+      ],
+      "answer": "water"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "What does the root \"port\" mean?",
+      "choices": [
+        "carry",
+        "hear",
+        "foot",
+        "water"
+      ],
+      "answer": "carry"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "What does the root \"ped\" mean?",
+      "choices": [
+        "water",
+        "foot",
+        "write",
+        "hear"
+      ],
+      "answer": "foot"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "What does the root \"vis\" mean?",
+      "choices": [
+        "see",
+        "water",
+        "hear",
+        "foot"
+      ],
+      "answer": "see"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Voice and Speech",
     "Clauses and Connectors",
     "Vocabulary",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Phrasal Verbs",
+    "Word Roots"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

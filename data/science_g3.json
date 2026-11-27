@@ -311,20 +311,316 @@
         "soil"
       ],
       "answer": "soil"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which animal is known for its sharp quills?",
+      "choices": [
+        "Kangaroo",
+        "Porcupine",
+        "Peacock",
+        "Tortoise"
+      ],
+      "answer": "Porcupine"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which animal is known for its hard shell?",
+      "choices": [
+        "Zebra",
+        "Porcupine",
+        "Tortoise",
+        "Elephant"
+      ],
+      "answer": "Tortoise"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which animal is known for its long neck?",
+      "choices": [
+        "Zebra",
+        "Giraffe",
+        "Camel",
+        "Peacock"
+      ],
+      "answer": "Giraffe"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which animal is known for its black and white stripes?",
+      "choices": [
+        "Giraffe",
+        "Kangaroo",
+        "Camel",
+        "Zebra"
+      ],
+      "answer": "Zebra"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which animal is known for its pouch for its baby?",
+      "choices": [
+        "Giraffe",
+        "Tortoise",
+        "Kangaroo",
+        "Porcupine"
+      ],
+      "answer": "Kangaroo"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which animal is known for its trunk?",
+      "choices": [
+        "Zebra",
+        "Porcupine",
+        "Elephant",
+        "Peacock"
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which animal is known for its hump?",
+      "choices": [
+        "Zebra",
+        "Peacock",
+        "Camel",
+        "Kangaroo"
+      ],
+      "answer": "Camel"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which animal is known for its colourful tail feathers?",
+      "choices": [
+        "Camel",
+        "Kangaroo",
+        "Giraffe",
+        "Peacock"
+      ],
+      "answer": "Peacock"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which organ gives us the sense of taste?",
+      "choices": [
+        "Nose",
+        "Eye",
+        "Ear",
+        "Tongue"
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which organ gives us the sense of sight?",
+      "choices": [
+        "Ear",
+        "Eye",
+        "Tongue",
+        "Nose"
+      ],
+      "answer": "Eye"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which organ gives us the sense of hearing?",
+      "choices": [
+        "Ear",
+        "Tongue",
+        "Eye",
+        "Nose"
+      ],
+      "answer": "Ear"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which organ gives us the sense of smell?",
+      "choices": [
+        "Eye",
+        "Nose",
+        "Ear",
+        "Tongue"
+      ],
+      "answer": "Nose"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "What is ice turning into water called?",
+      "choices": [
+        "Freezing",
+        "Sedimentation",
+        "Melting",
+        "Condensation"
+      ],
+      "answer": "Melting"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "What is passing water through a cloth or paper called?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Filtration",
+        "Decantation"
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "What is water turning into vapour called?",
+      "choices": [
+        "Rainfall",
+        "Sedimentation",
+        "Evaporation",
+        "Condensation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "What is water turning into ice called?",
+      "choices": [
+        "Sedimentation",
+        "Freezing",
+        "Decantation",
+        "Melting"
+      ],
+      "answer": "Freezing"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is dirt settling at the bottom called?",
+      "choices": [
+        "Condensation",
+        "Melting",
+        "Rainfall",
+        "Sedimentation"
+      ],
+      "answer": "Sedimentation"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is water falling from clouds called?",
+      "choices": [
+        "Rainfall",
+        "Freezing",
+        "Filtration",
+        "Melting"
+      ],
+      "answer": "Rainfall"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is vapour turning into drops called?",
+      "choices": [
+        "Condensation",
+        "Melting",
+        "Freezing",
+        "Decantation"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is pouring off the clear water called?",
+      "choices": [
+        "Freezing",
+        "Decantation",
+        "Rainfall",
+        "Condensation"
+      ],
+      "answer": "Decantation"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is the star nearest to us?",
+      "choices": [
+        "Mars",
+        "The Sun",
+        "The Earth",
+        "The Moon"
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is the red planet next beyond us?",
+      "choices": [
+        "The Moon",
+        "Mars",
+        "The Sun",
+        "The Earth"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is the planet we live on?",
+      "choices": [
+        "The Sun",
+        "Mars",
+        "The Earth",
+        "The Moon"
+      ],
+      "answer": "The Earth"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is the Earth’s natural satellite?",
+      "choices": [
+        "The Earth",
+        "The Moon",
+        "Mars",
+        "The Sun"
+      ],
+      "answer": "The Moon"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 8,
   "chapterNames": [
     "Plants",
     "Animals",
     "Matter and Water",
-    "Sun, Soil and Air"
+    "Sun, Soil and Air",
+    "Animal Features",
+    "Sense Organs",
+    "Changes of Water",
+    "Day and Night Sky"
   ],
   "chapterSizes": [
     6,
     6,
     6,
-    8
+    8,
+    8,
+    4,
+    8,
+    4
   ],
   "meta": {
     "subject": "science",

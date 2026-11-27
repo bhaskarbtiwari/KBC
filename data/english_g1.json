@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "kite"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What is a baby duck called?",
+      "choices": [
+        "kid",
+        "kitten",
+        "duckling",
+        "lamb"
+      ],
+      "answer": "duckling"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What is a baby cow called?",
+      "choices": [
+        "calf",
+        "puppy",
+        "kid",
+        "lamb"
+      ],
+      "answer": "calf"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What is a baby hen called?",
+      "choices": [
+        "kid",
+        "chick",
+        "calf",
+        "lamb"
+      ],
+      "answer": "chick"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What is a baby goat called?",
+      "choices": [
+        "lamb",
+        "chick",
+        "kid",
+        "puppy"
+      ],
+      "answer": "kid"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What is a baby dog called?",
+      "choices": [
+        "kid",
+        "puppy",
+        "kitten",
+        "foal"
+      ],
+      "answer": "puppy"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What is a baby cat called?",
+      "choices": [
+        "calf",
+        "foal",
+        "lamb",
+        "kitten"
+      ],
+      "answer": "kitten"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What is a baby sheep called?",
+      "choices": [
+        "duckling",
+        "calf",
+        "foal",
+        "lamb"
+      ],
+      "answer": "lamb"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What is a baby horse called?",
+      "choices": [
+        "lamb",
+        "kid",
+        "calf",
+        "foal"
+      ],
+      "answer": "foal"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "What sound does a sheep make?",
+      "choices": [
+        "quack",
+        "neigh",
+        "bleat",
+        "moo"
+      ],
+      "answer": "bleat"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "What sound does a horse make?",
+      "choices": [
+        "roar",
+        "moo",
+        "neigh",
+        "bark"
+      ],
+      "answer": "neigh"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "What sound does a lion make?",
+      "choices": [
+        "neigh",
+        "roar",
+        "mew",
+        "moo"
+      ],
+      "answer": "roar"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "What sound does a cat make?",
+      "choices": [
+        "bark",
+        "mew",
+        "moo",
+        "quack"
+      ],
+      "answer": "mew"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "What sound does a cow make?",
+      "choices": [
+        "moo",
+        "quack",
+        "neigh",
+        "mew"
+      ],
+      "answer": "moo"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "What sound does a duck make?",
+      "choices": [
+        "quack",
+        "neigh",
+        "mew",
+        "bark"
+      ],
+      "answer": "quack"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "What sound does a dog make?",
+      "choices": [
+        "mew",
+        "roar",
+        "bark",
+        "moo"
+      ],
+      "answer": "bark"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Animals",
     "Colours and Things",
     "Letters and Words",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Baby Animals",
+    "Animal Sounds"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

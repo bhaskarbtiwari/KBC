@@ -311,19 +311,313 @@
         "Wool"
       ],
       "answer": "Honey"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What is a baby cow called?",
+      "choices": [
+        "Foal",
+        "Chick",
+        "Calf",
+        "Lamb"
+      ],
+      "answer": "Calf"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What is a baby dog called?",
+      "choices": [
+        "Lamb",
+        "Puppy",
+        "Foal",
+        "Duckling"
+      ],
+      "answer": "Puppy"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What is a baby sheep called?",
+      "choices": [
+        "Duckling",
+        "Kitten",
+        "Lamb",
+        "Foal"
+      ],
+      "answer": "Lamb"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What is a baby duck called?",
+      "choices": [
+        "Kitten",
+        "Puppy",
+        "Foal",
+        "Duckling"
+      ],
+      "answer": "Duckling"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What is a baby horse called?",
+      "choices": [
+        "Foal",
+        "Duckling",
+        "Chick",
+        "Puppy"
+      ],
+      "answer": "Foal"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What is a baby frog called?",
+      "choices": [
+        "Puppy",
+        "Foal",
+        "Kitten",
+        "Tadpole"
+      ],
+      "answer": "Tadpole"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What is a baby hen called?",
+      "choices": [
+        "Foal",
+        "Lamb",
+        "Tadpole",
+        "Chick"
+      ],
+      "answer": "Chick"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What is a baby cat called?",
+      "choices": [
+        "Chick",
+        "Kitten",
+        "Duckling",
+        "Lamb"
+      ],
+      "answer": "Kitten"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to see?",
+      "choices": [
+        "Eyes",
+        "Tongue",
+        "Teeth",
+        "Brain"
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to smell?",
+      "choices": [
+        "Teeth",
+        "Legs",
+        "Hands",
+        "Nose"
+      ],
+      "answer": "Nose"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to hear?",
+      "choices": [
+        "Ears",
+        "Hands",
+        "Teeth",
+        "Legs"
+      ],
+      "answer": "Ears"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to hold a pencil?",
+      "choices": [
+        "Brain",
+        "Eyes",
+        "Hands",
+        "Teeth"
+      ],
+      "answer": "Hands"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to walk?",
+      "choices": [
+        "Tongue",
+        "Legs",
+        "Brain",
+        "Eyes"
+      ],
+      "answer": "Legs"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to think?",
+      "choices": [
+        "Tongue",
+        "Brain",
+        "Ears",
+        "Hands"
+      ],
+      "answer": "Brain"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to taste?",
+      "choices": [
+        "Ears",
+        "Tongue",
+        "Eyes",
+        "Nose"
+      ],
+      "answer": "Tongue"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which body part do we mainly use to bite food?",
+      "choices": [
+        "Nose",
+        "Teeth",
+        "Hands",
+        "Eyes"
+      ],
+      "answer": "Teeth"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What do we get eggs from?",
+      "choices": [
+        "Hen",
+        "Apple tree",
+        "Silkworm",
+        "Coconut palm"
+      ],
+      "answer": "Hen"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What do we get coconuts from?",
+      "choices": [
+        "Apple tree",
+        "Silkworm",
+        "Hen",
+        "Coconut palm"
+      ],
+      "answer": "Coconut palm"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What do we get honey from?",
+      "choices": [
+        "Sheep",
+        "Apple tree",
+        "Silkworm",
+        "Bee"
+      ],
+      "answer": "Bee"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What do we get apples from?",
+      "choices": [
+        "Silkworm",
+        "Cotton plant",
+        "Coconut palm",
+        "Apple tree"
+      ],
+      "answer": "Apple tree"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What do we get milk from?",
+      "choices": [
+        "Sheep",
+        "Bee",
+        "Cow",
+        "Silkworm"
+      ],
+      "answer": "Cow"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What do we get wool from?",
+      "choices": [
+        "Sheep",
+        "Bee",
+        "Silkworm",
+        "Cow"
+      ],
+      "answer": "Sheep"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What do we get silk from?",
+      "choices": [
+        "Cow",
+        "Silkworm",
+        "Sheep",
+        "Cotton plant"
+      ],
+      "answer": "Silkworm"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What do we get cotton from?",
+      "choices": [
+        "Sheep",
+        "Cow",
+        "Cotton plant",
+        "Apple tree"
+      ],
+      "answer": "Cotton plant"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "My Body",
     "Plants and Animals",
     "Weather and Surroundings",
-    "Everyday Science"
+    "Everyday Science",
+    "Baby Animals",
+    "Body Parts at Work",
+    "What Gives Us This"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

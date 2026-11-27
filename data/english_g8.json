@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "mosquito"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What does the prefix \"sub-\" usually mean?",
+      "choices": [
+        "before",
+        "between",
+        "wrongly",
+        "under"
+      ],
+      "answer": "under"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What does the prefix \"multi-\" usually mean?",
+      "choices": [
+        "wrongly",
+        "many",
+        "under",
+        "against"
+      ],
+      "answer": "many"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What does the prefix \"anti-\" usually mean?",
+      "choices": [
+        "under",
+        "against",
+        "between",
+        "before"
+      ],
+      "answer": "against"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What does the prefix \"pre-\" usually mean?",
+      "choices": [
+        "wrongly",
+        "against",
+        "before",
+        "many"
+      ],
+      "answer": "before"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What does the prefix \"inter-\" usually mean?",
+      "choices": [
+        "wrongly",
+        "half",
+        "before",
+        "between"
+      ],
+      "answer": "between"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What does the prefix \"post-\" usually mean?",
+      "choices": [
+        "wrongly",
+        "before",
+        "many",
+        "after"
+      ],
+      "answer": "after"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What does the prefix \"semi-\" usually mean?",
+      "choices": [
+        "many",
+        "against",
+        "wrongly",
+        "half"
+      ],
+      "answer": "half"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What does the prefix \"mis-\" usually mean?",
+      "choices": [
+        "half",
+        "under",
+        "wrongly",
+        "against"
+      ],
+      "answer": "wrongly"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "What is the study of the mind called?",
+      "choices": [
+        "ornithology",
+        "sociology",
+        "psychology",
+        "linguistics"
+      ],
+      "answer": "psychology"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "What is the study of earthquakes called?",
+      "choices": [
+        "seismology",
+        "sociology",
+        "entomology",
+        "linguistics"
+      ],
+      "answer": "seismology"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "What is the study of insects called?",
+      "choices": [
+        "psychology",
+        "sociology",
+        "entomology",
+        "ornithology"
+      ],
+      "answer": "entomology"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "What is the study of society called?",
+      "choices": [
+        "anthropology",
+        "sociology",
+        "linguistics",
+        "psychology"
+      ],
+      "answer": "sociology"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "What is the study of humankind called?",
+      "choices": [
+        "anthropology",
+        "seismology",
+        "ornithology",
+        "psychology"
+      ],
+      "answer": "anthropology"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "What is the study of birds called?",
+      "choices": [
+        "entomology",
+        "sociology",
+        "psychology",
+        "ornithology"
+      ],
+      "answer": "ornithology"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "What is the study of language called?",
+      "choices": [
+        "entomology",
+        "linguistics",
+        "anthropology",
+        "psychology"
+      ],
+      "answer": "linguistics"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Advanced Grammar",
     "Words and Roots",
     "Idioms and Proverbs",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Prefixes",
+    "Fields of Study"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

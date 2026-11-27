@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "umbrella"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What do we call a person who writes poems?",
+      "choices": [
+        "poet",
+        "photographer",
+        "architect",
+        "potter"
+      ],
+      "answer": "poet"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What do we call a person who sells medicines?",
+      "choices": [
+        "potter",
+        "butcher",
+        "photographer",
+        "chemist"
+      ],
+      "answer": "chemist"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What do we call a person who takes photographs?",
+      "choices": [
+        "poet",
+        "potter",
+        "chemist",
+        "photographer"
+      ],
+      "answer": "photographer"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What do we call a person who sells meat?",
+      "choices": [
+        "photographer",
+        "potter",
+        "architect",
+        "butcher"
+      ],
+      "answer": "butcher"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What do we call a person who sells flowers?",
+      "choices": [
+        "florist",
+        "poet",
+        "blacksmith",
+        "architect"
+      ],
+      "answer": "florist"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What do we call a person who works with iron?",
+      "choices": [
+        "butcher",
+        "architect",
+        "blacksmith",
+        "florist"
+      ],
+      "answer": "blacksmith"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What do we call a person who designs buildings?",
+      "choices": [
+        "potter",
+        "architect",
+        "poet",
+        "florist"
+      ],
+      "answer": "architect"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What do we call a person who makes things from clay?",
+      "choices": [
+        "poet",
+        "butcher",
+        "blacksmith",
+        "potter"
+      ],
+      "answer": "potter"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "What is the place where animals are kept for visitors?",
+      "choices": [
+        "aviary",
+        "zoo",
+        "orchard",
+        "apiary"
+      ],
+      "answer": "zoo"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "What is the place where fish are kept in tanks?",
+      "choices": [
+        "aviary",
+        "aquarium",
+        "laundry",
+        "airport"
+      ],
+      "answer": "aquarium"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "What is the place where bees are kept?",
+      "choices": [
+        "laundry",
+        "apiary",
+        "orchard",
+        "aquarium"
+      ],
+      "answer": "apiary"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "What is the place where birds are kept?",
+      "choices": [
+        "airport",
+        "aviary",
+        "orchard",
+        "laundry"
+      ],
+      "answer": "aviary"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "What is the place where aeroplanes land?",
+      "choices": [
+        "apiary",
+        "zoo",
+        "airport",
+        "aviary"
+      ],
+      "answer": "airport"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "What is the place where fruit trees grow?",
+      "choices": [
+        "airport",
+        "zoo",
+        "orchard",
+        "aviary"
+      ],
+      "answer": "orchard"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "What is the place where clothes are washed for payment?",
+      "choices": [
+        "aviary",
+        "laundry",
+        "aquarium",
+        "zoo"
+      ],
+      "answer": "laundry"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Grammar Basics",
     "Word Meanings",
     "Sentences",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "One Word",
+    "Places"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

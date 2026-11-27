@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "supersede"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What does \"the last straw\" mean?",
+      "choices": [
+        "make return impossible",
+        "face something difficult bravely",
+        "avoid the main point",
+        "the final problem that breaks patience"
+      ],
+      "answer": "the final problem that breaks patience"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What does \"a blessing in disguise\" mean?",
+      "choices": [
+        "do something carelessly to save effort",
+        "good that first seemed bad",
+        "not believe completely",
+        "make return impossible"
+      ],
+      "answer": "good that first seemed bad"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What does \"cut corners\" mean?",
+      "choices": [
+        "do something carelessly to save effort",
+        "the final problem that breaks patience",
+        "make return impossible",
+        "face something difficult bravely"
+      ],
+      "answer": "do something carelessly to save effort"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What does \"take with a pinch of salt\" mean?",
+      "choices": [
+        "not believe completely",
+        "face something difficult bravely",
+        "avoid taking sides",
+        "make return impossible"
+      ],
+      "answer": "not believe completely"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What does \"burn one’s bridges\" mean?",
+      "choices": [
+        "avoid the main point",
+        "face something difficult bravely",
+        "avoid taking sides",
+        "make return impossible"
+      ],
+      "answer": "make return impossible"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What does \"sit on the fence\" mean?",
+      "choices": [
+        "not believe completely",
+        "avoid taking sides",
+        "good that first seemed bad",
+        "do something carelessly to save effort"
+      ],
+      "answer": "avoid taking sides"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What does \"beat around the bush\" mean?",
+      "choices": [
+        "avoid the main point",
+        "the final problem that breaks patience",
+        "do something carelessly to save effort",
+        "make return impossible"
+      ],
+      "answer": "avoid the main point"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What does \"bite the bullet\" mean?",
+      "choices": [
+        "do something carelessly to save effort",
+        "make return impossible",
+        "avoid taking sides",
+        "face something difficult bravely"
+      ],
+      "answer": "face something difficult bravely"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Which word means \"government by the wealthy\"?",
+      "choices": [
+        "democracy",
+        "theocracy",
+        "bureaucracy",
+        "plutocracy"
+      ],
+      "answer": "plutocracy"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "Which word means \"government by officials\"?",
+      "choices": [
+        "bureaucracy",
+        "democracy",
+        "oligarchy",
+        "theocracy"
+      ],
+      "answer": "bureaucracy"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Which word means \"government by one absolute ruler\"?",
+      "choices": [
+        "plutocracy",
+        "autocracy",
+        "anarchy",
+        "oligarchy"
+      ],
+      "answer": "autocracy"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "Which word means \"government by religious leaders\"?",
+      "choices": [
+        "autocracy",
+        "plutocracy",
+        "bureaucracy",
+        "theocracy"
+      ],
+      "answer": "theocracy"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Which word means \"absence of government\"?",
+      "choices": [
+        "anarchy",
+        "oligarchy",
+        "autocracy",
+        "theocracy"
+      ],
+      "answer": "anarchy"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Which word means \"government by the people\"?",
+      "choices": [
+        "democracy",
+        "autocracy",
+        "oligarchy",
+        "bureaucracy"
+      ],
+      "answer": "democracy"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "Which word means \"government by a few\"?",
+      "choices": [
+        "bureaucracy",
+        "oligarchy",
+        "theocracy",
+        "democracy"
+      ],
+      "answer": "oligarchy"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Grammar",
     "Literary Devices",
     "Vocabulary",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Idioms",
+    "One Word"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

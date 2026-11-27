@@ -311,19 +311,313 @@
         "President"
       ],
       "answer": "Speaker"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Who founded the Arya Samaj?",
+      "choices": [
+        "B. R. Ambedkar",
+        "Dayananda Saraswati",
+        "Syed Ahmed Khan",
+        "Jyotirao Phule"
+      ],
+      "answer": "Dayananda Saraswati"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Who founded the Satyashodhak Samaj?",
+      "choices": [
+        "Jyotirao Phule",
+        "B. R. Ambedkar",
+        "Dayananda Saraswati",
+        "Swami Vivekananda"
+      ],
+      "answer": "Jyotirao Phule"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Who founded the Brahmo Samaj?",
+      "choices": [
+        "Raja Ram Mohan Roy",
+        "Syed Ahmed Khan",
+        "Dayananda Saraswati",
+        "Atmaram Pandurang"
+      ],
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Who founded the Aligarh college (Muhammadan Anglo-Oriental)?",
+      "choices": [
+        "Syed Ahmed Khan",
+        "Dayananda Saraswati",
+        "Gopal Krishna Gokhale",
+        "B. R. Ambedkar"
+      ],
+      "answer": "Syed Ahmed Khan"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Who founded the Bahishkrit Hitakarini Sabha?",
+      "choices": [
+        "B. R. Ambedkar",
+        "Jyotirao Phule",
+        "Raja Ram Mohan Roy",
+        "Atmaram Pandurang"
+      ],
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Who founded the Ramakrishna Mission?",
+      "choices": [
+        "Gopal Krishna Gokhale",
+        "B. R. Ambedkar",
+        "Jyotirao Phule",
+        "Swami Vivekananda"
+      ],
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Who founded the Prarthana Samaj?",
+      "choices": [
+        "Swami Vivekananda",
+        "Syed Ahmed Khan",
+        "Atmaram Pandurang",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Atmaram Pandurang"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Who founded the Servants of India Society?",
+      "choices": [
+        "B. R. Ambedkar",
+        "Gopal Krishna Gokhale",
+        "Dayananda Saraswati",
+        "Atmaram Pandurang"
+      ],
+      "answer": "Gopal Krishna Gokhale"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which place is famous for offshore oil?",
+      "choices": [
+        "Ahmedabad",
+        "Mumbai High",
+        "Khetri",
+        "Kolkata region"
+      ],
+      "answer": "Mumbai High"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which place is famous for Tata’s first steel plant?",
+      "choices": [
+        "Mumbai High",
+        "Panna",
+        "Digboi",
+        "Jamshedpur"
+      ],
+      "answer": "Jamshedpur"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which place is famous for the oldest oil field in Assam?",
+      "choices": [
+        "Khetri",
+        "Ahmedabad",
+        "Digboi",
+        "Jamshedpur"
+      ],
+      "answer": "Digboi"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which place is famous for gold mines in Karnataka?",
+      "choices": [
+        "Jamshedpur",
+        "Kolar",
+        "Panna",
+        "Khetri"
+      ],
+      "answer": "Kolar"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which place is famous for cotton textiles, once called Manchester of India?",
+      "choices": [
+        "Digboi",
+        "Ahmedabad",
+        "Panna",
+        "Khetri"
+      ],
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which place is famous for diamond mines in Madhya Pradesh?",
+      "choices": [
+        "Panna",
+        "Digboi",
+        "Ahmedabad",
+        "Mumbai High"
+      ],
+      "answer": "Panna"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which place is famous for jute mills along the Hooghly?",
+      "choices": [
+        "Mumbai High",
+        "Jamshedpur",
+        "Kolkata region",
+        "Panna"
+      ],
+      "answer": "Kolkata region"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which place is famous for copper mines in Rajasthan?",
+      "choices": [
+        "Kolar",
+        "Panna",
+        "Kolkata region",
+        "Khetri"
+      ],
+      "answer": "Khetri"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with abolition of untouchability?",
+      "choices": [
+        "Article 40",
+        "Article 32",
+        "Article 21",
+        "Article 17"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with the right to education?",
+      "choices": [
+        "Article 32",
+        "Article 17",
+        "Article 21A",
+        "Article 21"
+      ],
+      "answer": "Article 21A"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with amendment of the Constitution?",
+      "choices": [
+        "Article 21",
+        "Article 51A",
+        "Article 14",
+        "Article 368"
+      ],
+      "answer": "Article 368"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with protection of life and personal liberty?",
+      "choices": [
+        "Article 21",
+        "Article 32",
+        "Article 368",
+        "Article 21A"
+      ],
+      "answer": "Article 21"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with equality before law?",
+      "choices": [
+        "Article 17",
+        "Article 40",
+        "Article 14",
+        "Article 21A"
+      ],
+      "answer": "Article 14"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with Fundamental Duties?",
+      "choices": [
+        "Article 17",
+        "Article 51A",
+        "Article 21",
+        "Article 368"
+      ],
+      "answer": "Article 51A"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with village panchayats as a Directive Principle?",
+      "choices": [
+        "Article 40",
+        "Article 21A",
+        "Article 17",
+        "Article 14"
+      ],
+      "answer": "Article 40"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which Article of the Constitution deals with constitutional remedies?",
+      "choices": [
+        "Article 368",
+        "Article 14",
+        "Article 17",
+        "Article 32"
+      ],
+      "answer": "Article 32"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Modern India",
     "Constitution and Law",
     "Resources",
-    "Institutions and People"
+    "Institutions and People",
+    "Reformers",
+    "Minerals and Industry",
+    "Parts of the Constitution"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

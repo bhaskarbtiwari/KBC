@@ -311,19 +311,313 @@
         "Kathmandu"
       ],
       "answer": "Kathmandu"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What is the capital of Italy?",
+      "choices": [
+        "Berlin",
+        "Moscow",
+        "Bangkok",
+        "Rome"
+      ],
+      "answer": "Rome"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What is the capital of Germany?",
+      "choices": [
+        "Madrid",
+        "Sri Jayawardenepura Kotte",
+        "Berlin",
+        "Beijing"
+      ],
+      "answer": "Berlin"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What is the capital of Russia?",
+      "choices": [
+        "Madrid",
+        "London",
+        "Berlin",
+        "Moscow"
+      ],
+      "answer": "Moscow"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What is the capital of Thailand?",
+      "choices": [
+        "Rome",
+        "Bangkok",
+        "Madrid",
+        "Moscow"
+      ],
+      "answer": "Bangkok"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What is the capital of the United Kingdom?",
+      "choices": [
+        "Beijing",
+        "Madrid",
+        "Sri Jayawardenepura Kotte",
+        "London"
+      ],
+      "answer": "London"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What is the capital of China?",
+      "choices": [
+        "Rome",
+        "London",
+        "Beijing",
+        "Bangkok"
+      ],
+      "answer": "Beijing"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What is the capital of Sri Lanka?",
+      "choices": [
+        "Berlin",
+        "Sri Jayawardenepura Kotte",
+        "Beijing",
+        "Moscow"
+      ],
+      "answer": "Sri Jayawardenepura Kotte"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What is the capital of Spain?",
+      "choices": [
+        "Bangkok",
+        "Berlin",
+        "Madrid",
+        "London"
+      ],
+      "answer": "Madrid"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Who is known as Frontier Gandhi?",
+      "choices": [
+        "Lala Lajpat Rai",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Khan Abdul Ghaffar Khan"
+      ],
+      "answer": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Who is known as Punjab Kesari?",
+      "choices": [
+        "Lala Lajpat Rai",
+        "Khan Abdul Ghaffar Khan",
+        "Dadabhai Naoroji",
+        "Sarojini Naidu"
+      ],
+      "answer": "Lala Lajpat Rai"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Who is known as the Father of the Nation?",
+      "choices": [
+        "Khan Abdul Ghaffar Khan",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Lala Lajpat Rai"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Who is known as Lokmanya?",
+      "choices": [
+        "Lala Lajpat Rai",
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak",
+        "Khan Abdul Ghaffar Khan"
+      ],
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Who is known as the Nightingale of India?",
+      "choices": [
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Sarojini Naidu",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Who is known as Netaji?",
+      "choices": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Sarojini Naidu",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Who is known as the Grand Old Man of India?",
+      "choices": [
+        "Bal Gangadhar Tilak",
+        "Dadabhai Naoroji",
+        "Sarojini Naidu",
+        "Lala Lajpat Rai"
+      ],
+      "answer": "Dadabhai Naoroji"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Who is known as Chacha Nehru?",
+      "choices": [
+        "Khan Abdul Ghaffar Khan",
+        "Bal Gangadhar Tilak",
+        "Jawaharlal Nehru",
+        "Dadabhai Naoroji"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is the currency of India?",
+      "choices": [
+        "Rupee",
+        "Yuan",
+        "Yen",
+        "Pound sterling"
+      ],
+      "answer": "Rupee"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is the currency of Bangladesh?",
+      "choices": [
+        "Taka",
+        "Rouble",
+        "Baht",
+        "Pound sterling"
+      ],
+      "answer": "Taka"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is the currency of Russia?",
+      "choices": [
+        "Pound sterling",
+        "Yen",
+        "Dollar",
+        "Rouble"
+      ],
+      "answer": "Rouble"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is the currency of the United Kingdom?",
+      "choices": [
+        "Rupee",
+        "Pound sterling",
+        "Yuan",
+        "Rouble"
+      ],
+      "answer": "Pound sterling"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is the currency of Thailand?",
+      "choices": [
+        "Pound sterling",
+        "Rouble",
+        "Baht",
+        "Rupee"
+      ],
+      "answer": "Baht"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is the currency of Japan?",
+      "choices": [
+        "Rupee",
+        "Yen",
+        "Baht",
+        "Yuan"
+      ],
+      "answer": "Yen"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is the currency of China?",
+      "choices": [
+        "Baht",
+        "Dollar",
+        "Yuan",
+        "Pound sterling"
+      ],
+      "answer": "Yuan"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is the currency of the United States?",
+      "choices": [
+        "Rouble",
+        "Dollar",
+        "Taka",
+        "Yen"
+      ],
+      "answer": "Dollar"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Maps and Globe",
     "Freedom Struggle",
     "World Around Us",
-    "World Capitals"
+    "World Capitals",
+    "Countries and Capitals",
+    "Freedom Fighters",
+    "Currencies"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

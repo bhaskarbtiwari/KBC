@@ -3,328 +3,3396 @@
     {
       "id": 1,
       "type": "mcq",
-      "q": "The Great Bath was found at ___.",
+      "q": "Latitude and longitude together give a place’s ___.",
       "choices": [
-        "Harappa",
-        "Kalibangan",
-        "Lothal",
-        "Mohenjo-daro"
+        "population",
+        "climate record",
+        "height",
+        "coordinates"
       ],
-      "answer": "Mohenjo-daro"
+      "answer": "coordinates"
     },
     {
       "id": 2,
       "type": "mcq",
-      "q": "Which war led Ashoka to give up conquest?",
+      "q": "The longitude of the Prime Meridian is ___.",
       "choices": [
-        "Battle of Haldighati",
-        "Kalinga War",
-        "Battle of Panipat",
-        "Battle of Plassey"
+        "360° E",
+        "180°",
+        "0°",
+        "90°"
       ],
-      "answer": "Kalinga War"
+      "answer": "0°"
     },
     {
       "id": 3,
       "type": "mcq",
-      "q": "Who founded the Maurya dynasty?",
+      "q": "A model of the Earth shaped like a ball is a ___.",
       "choices": [
-        "Bindusara",
-        "Chandragupta Maurya",
-        "Samudragupta",
-        "Ashoka"
+        "map",
+        "compass",
+        "globe",
+        "scale"
       ],
-      "answer": "Chandragupta Maurya"
+      "answer": "globe"
     },
     {
       "id": 4,
       "type": "mcq",
-      "q": "Which is the oldest of the four Vedas?",
+      "q": "How many cardinal directions are there?",
       "choices": [
-        "Yajurveda",
-        "Samaveda",
-        "Rigveda",
-        "Atharvaveda"
+        "4",
+        "6",
+        "2",
+        "8"
       ],
-      "answer": "Rigveda"
+      "answer": "4"
     },
     {
       "id": 5,
       "type": "mcq",
-      "q": "Who was the founder of Buddhism?",
+      "q": "Small pictures or signs used on maps are ___.",
       "choices": [
-        "Gautama Buddha",
-        "Mahavira",
-        "Guru Nanak",
-        "Adi Shankara"
+        "titles",
+        "longitudes",
+        "scales",
+        "symbols"
       ],
-      "answer": "Gautama Buddha"
+      "answer": "symbols"
     },
     {
       "id": 6,
       "type": "mcq",
-      "q": "Which was an important city of the Harappan civilisation?",
+      "q": "The direction between north and east is ___.",
       "choices": [
-        "Madurai",
-        "Ujjain",
-        "Pataliputra",
-        "Mohenjo-daro"
+        "north-east",
+        "south-east",
+        "north-west",
+        "south-west"
       ],
-      "answer": "Mohenjo-daro"
+      "answer": "north-east"
     },
     {
       "id": 7,
       "type": "mcq",
-      "q": "Day and night are caused by the Earth’s ___.",
+      "q": "The latitude of the North Pole is ___.",
       "choices": [
-        "size",
-        "revolution",
-        "distance from the Moon",
-        "rotation"
+        "0°",
+        "90° N",
+        "23½° N",
+        "180° N"
       ],
-      "answer": "rotation"
+      "answer": "90° N"
     },
     {
       "id": 8,
       "type": "mcq",
-      "q": "Which is the largest planet in the solar system?",
+      "q": "Horizontal lines measuring distance north or south of the Equator are ___.",
       "choices": [
-        "Earth",
-        "Neptune",
-        "Jupiter",
-        "Saturn"
+        "contours",
+        "latitudes",
+        "borders",
+        "longitudes"
       ],
-      "answer": "Jupiter"
+      "answer": "latitudes"
     },
     {
       "id": 9,
       "type": "mcq",
-      "q": "How many planets are there in the solar system?",
+      "q": "The latitude of the Equator is ___.",
       "choices": [
-        "Eight",
-        "Ten",
-        "Seven",
-        "Nine"
+        "180°",
+        "0°",
+        "90°",
+        "23½°"
       ],
-      "answer": "Eight"
+      "answer": "0°"
     },
     {
       "id": 10,
       "type": "mcq",
-      "q": "Our solar system is part of which galaxy?",
+      "q": "The part of a map showing how distance on it relates to real distance is the ___.",
       "choices": [
-        "Sombrero",
-        "Whirlpool",
-        "Milky Way",
-        "Andromeda"
+        "symbol",
+        "title",
+        "colour",
+        "scale"
       ],
-      "answer": "Milky Way"
+      "answer": "scale"
     },
     {
       "id": 11,
       "type": "mcq",
-      "q": "The movement of the Earth around the Sun is called ___.",
+      "q": "The meridian roughly opposite the Prime Meridian is ___.",
       "choices": [
-        "revolution",
-        "reflection",
-        "inclination",
-        "rotation"
+        "90° E",
+        "45° W",
+        "23½°",
+        "180°"
       ],
-      "answer": "revolution"
+      "answer": "180°"
     },
     {
       "id": 12,
       "type": "mcq",
-      "q": "A group of stars forming a pattern is a ___.",
+      "q": "Parallels of latitude become ___ towards the poles.",
       "choices": [
-        "constellation",
-        "meteor",
-        "comet",
-        "galaxy cluster map"
+        "straight north-south",
+        "equal to the Equator",
+        "smaller",
+        "larger"
       ],
-      "answer": "constellation"
+      "answer": "smaller"
     },
     {
       "id": 13,
       "type": "mcq",
-      "q": "Treating people unfairly because of who they are is called ___.",
+      "q": "A drawing of an area, as seen from above, on a flat surface is a ___.",
       "choices": [
-        "representation",
-        "cooperation",
-        "discrimination",
-        "participation"
+        "globe",
+        "map",
+        "photo album",
+        "timeline"
       ],
-      "answer": "discrimination"
+      "answer": "map"
     },
     {
       "id": 14,
       "type": "mcq",
-      "q": "A system where people choose their representatives is called ___.",
+      "q": "The Prime Meridian passes through ___.",
       "choices": [
-        "monarchy",
-        "democracy",
-        "colonialism",
-        "dictatorship"
+        "Delhi",
+        "Tokyo",
+        "New York",
+        "Greenwich"
       ],
-      "answer": "democracy"
+      "answer": "Greenwich"
     },
     {
       "id": 15,
       "type": "mcq",
-      "q": "Which body is responsible for local administration in villages?",
+      "q": "Indian Standard Time is ahead of Greenwich time by ___.",
       "choices": [
-        "Parliament",
-        "State Assembly",
-        "Gram Panchayat",
-        "Supreme Court"
+        "3 hours",
+        "5 hours 30 minutes",
+        "12 hours",
+        "8 hours"
       ],
-      "answer": "Gram Panchayat"
+      "answer": "5 hours 30 minutes"
     },
     {
       "id": 16,
       "type": "mcq",
-      "q": "Which official keeps law and order in a police station area?",
+      "q": "The International Date Line roughly follows the ___ meridian.",
       "choices": [
-        "Bank manager",
-        "Station master",
-        "Block teacher",
-        "Station House Officer"
+        "180°",
+        "82½° E",
+        "90° W",
+        "0°"
       ],
-      "answer": "Station House Officer"
+      "answer": "180°"
     },
     {
       "id": 17,
       "type": "mcq",
-      "q": "The record of land in a village is maintained by the ___.",
+      "q": "The Equator divides the Earth into Northern and Southern ___.",
       "choices": [
-        "Headmaster",
-        "Patwari",
-        "Doctor",
-        "Postmaster"
+        "oceans",
+        "time zones only",
+        "hemispheres",
+        "continents"
       ],
-      "answer": "Patwari"
+      "answer": "hemispheres"
     },
     {
       "id": 18,
       "type": "mcq",
-      "q": "Elections to the Lok Sabha are normally held every ___ years.",
+      "q": "The Earth turns 360° in about 24 hours, so in 1 hour it turns ___.",
       "choices": [
-        "four",
-        "five",
-        "six",
-        "three"
+        "10°",
+        "24°",
+        "30°",
+        "15°"
       ],
-      "answer": "five"
+      "answer": "15°"
     },
     {
       "id": 19,
       "type": "mcq",
-      "q": "Ashoka’s Lion Capital from Sarnath is India’s ___.",
+      "q": "Places to the east have local time ___ places to the west.",
       "choices": [
-        "national fruit",
-        "national emblem",
-        "national river",
-        "national anthem"
+        "ahead of",
+        "always equal to",
+        "unrelated to",
+        "behind"
       ],
-      "answer": "national emblem"
+      "answer": "ahead of"
     },
     {
       "id": 20,
       "type": "mcq",
-      "q": "A small, detailed drawing of a small area made to scale is a ___.",
+      "q": "Lines joining the North and South Poles are ___.",
       "choices": [
-        "plan",
-        "continent",
-        "photograph",
-        "globe"
+        "scales",
+        "tropics",
+        "parallels of latitude",
+        "meridians of longitude"
       ],
-      "answer": "plan"
+      "answer": "meridians of longitude"
     },
     {
       "id": 21,
       "type": "mcq",
-      "q": "The urban local body for a very large city is a ___.",
+      "q": "Which ocean surrounds Antarctica?",
       "choices": [
-        "Gram Panchayat",
-        "Zila Parishad",
-        "Block Samiti",
-        "Municipal Corporation"
+        "Arctic Ocean",
+        "Mediterranean Sea",
+        "Red Sea",
+        "Southern Ocean"
       ],
-      "answer": "Municipal Corporation"
+      "answer": "Southern Ocean"
     },
     {
       "id": 22,
       "type": "mcq",
-      "q": "A book of maps is called an ___.",
+      "q": "Which ocean lies to the south of India?",
       "choices": [
-        "atlas",
-        "album",
-        "almanac",
-        "anthology"
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
       ],
-      "answer": "atlas"
+      "answer": "Indian Ocean"
     },
     {
       "id": 23,
       "type": "mcq",
-      "q": "Lines of latitude are also called ___.",
+      "q": "How many continents are usually counted?",
       "choices": [
-        "contours",
-        "meridians",
-        "diagonals",
-        "parallels"
+        "5",
+        "6",
+        "8",
+        "7"
       ],
-      "answer": "parallels"
+      "answer": "7"
     },
     {
       "id": 24,
       "type": "mcq",
-      "q": "The Earth is divided into how many main heat zones?",
+      "q": "India lies in which continent?",
       "choices": [
-        "Three",
-        "Eight",
-        "Ten",
-        "Two"
+        "Europe",
+        "Australia",
+        "Africa",
+        "Asia"
       ],
-      "answer": "Three"
+      "answer": "Asia"
     },
     {
       "id": 25,
       "type": "mcq",
-      "q": "All adult voters of a village form the ___.",
+      "q": "How many oceans are commonly counted?",
       "choices": [
-        "Rajya Sabha",
-        "Cabinet",
-        "Vidhan Parishad",
-        "Gram Sabha"
+        "3",
+        "5",
+        "7",
+        "9"
       ],
-      "answer": "Gram Sabha"
+      "answer": "5"
     },
     {
       "id": 26,
       "type": "mcq",
-      "q": "The district-level rural local body is the ___.",
+      "q": "Which living things in the ocean produce a large share of Earth’s oxygen?",
       "choices": [
-        "Lok Sabha",
+        "Rocks",
+        "Sea sand",
+        "Salt crystals",
+        "Tiny ocean plants (phytoplankton)"
+      ],
+      "answer": "Tiny ocean plants (phytoplankton)"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which is the smallest continent?",
+      "choices": [
+        "Antarctica",
+        "South America",
+        "Australia",
+        "Europe"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "The Sahara Desert is in ___.",
+      "choices": [
+        "Europe",
+        "Australia",
+        "Asia",
+        "Africa"
+      ],
+      "answer": "Africa"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "The Amazon River flows mainly through ___.",
+      "choices": [
+        "Asia",
+        "Africa",
+        "South America",
+        "Europe"
+      ],
+      "answer": "South America"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which hemisphere has more land?",
+      "choices": [
+        "Southern",
+        "Both exactly equal",
+        "Northern",
+        "Neither has land"
+      ],
+      "answer": "Northern"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which continent is also a single country?",
+      "choices": [
+        "Europe",
+        "Australia",
+        "Asia",
+        "Africa"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which is the largest ocean?",
+      "choices": [
+        "Indian",
+        "Atlantic",
+        "Arctic",
+        "Pacific"
+      ],
+      "answer": "Pacific"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which is the smallest ocean?",
+      "choices": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Southern"
+      ],
+      "answer": "Arctic"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "The ocean between Africa and the Americas is the ___.",
+      "choices": [
+        "Pacific",
+        "Arctic",
+        "Atlantic",
+        "Indian"
+      ],
+      "answer": "Atlantic"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Land surrounded by water on all sides is an ___.",
+      "choices": [
+        "isthmus",
+        "peninsula",
+        "island",
+        "continent shelf"
+      ],
+      "answer": "island"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "About how much of the Earth’s surface is covered by water?",
+      "choices": [
+        "About three-quarters",
+        "All of it",
+        "About one-tenth",
+        "About one-quarter"
+      ],
+      "answer": "About three-quarters"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "A large part of the sea partly enclosed by land, like that of Bengal, is a ___.",
+      "choices": [
+        "peak",
+        "bay",
+        "plateau",
+        "delta"
+      ],
+      "answer": "bay"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Huge ocean waves caused by undersea earthquakes are ___.",
+      "choices": [
+        "tsunamis",
+        "tides of the Moon only",
+        "glaciers",
+        "monsoons"
+      ],
+      "answer": "tsunamis"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which continent is the coldest?",
+      "choices": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Antarctica"
+      ],
+      "answer": "Antarctica"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which is the largest continent?",
+      "choices": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "Antarctica"
+      ],
+      "answer": "Asia"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "The Ganga plain is known for its ___ soil.",
+      "choices": [
+        "rocky volcanic",
+        "frozen",
+        "salty desert",
+        "fertile alluvial"
+      ],
+      "answer": "fertile alluvial"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which activity is common on mountain slopes?",
+      "choices": [
+        "Tourism and trekking",
+        "Salt-pan farming",
+        "Deep-sea fishing",
+        "Large ports"
+      ],
+      "answer": "Tourism and trekking"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "A long line of connected mountains is a ___.",
+      "choices": [
+        "strait",
+        "basin",
+        "range",
+        "delta"
+      ],
+      "answer": "range"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Growing crops on step-like fields on slopes is ___ farming.",
+      "choices": [
+        "desert",
+        "terrace",
+        "ocean",
+        "shifting sand"
+      ],
+      "answer": "terrace"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which landform is usually best for farming?",
+      "choices": [
+        "Plain",
+        "Glacier",
+        "Sandy desert",
+        "Mountain peak"
+      ],
+      "answer": "Plain"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "The three major landforms are mountains, plateaus and ___.",
+      "choices": [
+        "oceans of air",
+        "plains",
+        "clouds",
+        "meridians"
+      ],
+      "answer": "plains"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which is the highest mountain above sea level?",
+      "choices": [
+        "Mount Everest",
+        "Kangchenjunga",
+        "K2",
+        "Nanda Devi"
+      ],
+      "answer": "Mount Everest"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "A major risk in steep mountain areas is ___.",
+      "choices": [
+        "tsunamis",
+        "landslides",
+        "sandstorms at sea",
+        "ocean tides"
+      ],
+      "answer": "landslides"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Plateaus are often rich in ___.",
+      "choices": [
+        "minerals",
+        "icebergs",
+        "coral reefs",
+        "ocean salt"
+      ],
+      "answer": "minerals"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which plateau is called the \"Roof of the World\"?",
+      "choices": [
+        "Malwa Plateau",
+        "Tibetan Plateau",
+        "Deccan Plateau",
+        "Chota Nagpur Plateau"
+      ],
+      "answer": "Tibetan Plateau"
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "q": "The Deccan region is mainly a ___.",
+      "choices": [
+        "plain",
+        "plateau",
+        "coral island",
+        "glacier"
+      ],
+      "answer": "plateau"
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "q": "Why do many people live in plains?",
+      "choices": [
+        "They have no water",
+        "Farming and transport are easier",
+        "They are always frozen",
+        "They are very steep"
+      ],
+      "answer": "Farming and transport are easier"
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "q": "Low land between hills or mountains is a ___.",
+      "choices": [
+        "valley",
+        "summit",
+        "ridge",
+        "plateau"
+      ],
+      "answer": "valley"
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "q": "A raised landform with a fairly flat top is a ___.",
+      "choices": [
+        "plain",
+        "valley",
+        "peak",
+        "plateau"
+      ],
+      "answer": "plateau"
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "q": "A high landform with a peak and steep slopes is a ___.",
+      "choices": [
+        "plain",
+        "mountain",
+        "delta",
+        "plateau"
+      ],
+      "answer": "mountain"
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "q": "The hot desert in western India is the ___ Desert.",
+      "choices": [
+        "Sahara",
+        "Thar",
+        "Gobi",
+        "Atacama"
+      ],
+      "answer": "Thar"
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "q": "Which range is among the oldest in India?",
+      "choices": [
+        "Himalaya",
+        "Karakoram",
+        "Ladakh",
+        "Aravalli"
+      ],
+      "answer": "Aravalli"
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "q": "A large moving body of ice found in mountains is a ___.",
+      "choices": [
+        "geyser",
+        "delta",
+        "glacier",
+        "dune"
+      ],
+      "answer": "glacier"
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "q": "Land formed at a river mouth by deposited soil is a ___.",
+      "choices": [
+        "crater",
+        "delta",
+        "plateau",
+        "peak"
+      ],
+      "answer": "delta"
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "q": "Plains are usually formed by soil deposited by ___.",
+      "choices": [
+        "earth’s rotation",
+        "moonlight",
+        "clouds alone",
+        "rivers"
+      ],
+      "answer": "rivers"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "BCE stands for ___.",
+      "choices": [
+        "Basic Calendar Era",
+        "British Central Empire",
+        "Before Christian Events only",
+        "Before Common Era"
+      ],
+      "answer": "Before Common Era"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "Early humans got food mainly by hunting and ___.",
+      "choices": [
+        "shopping",
+        "banking",
+        "gathering",
+        "factory work"
+      ],
+      "answer": "gathering"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "Scientists who study fossils are ___.",
+      "choices": [
+        "economists",
+        "palaeontologists",
+        "geographers of maps only",
+        "astronomers"
+      ],
+      "answer": "palaeontologists"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "A person who studies and writes about the past is a ___.",
+      "choices": [
+        "pilot",
+        "historian",
+        "botanist",
+        "chemist"
+      ],
+      "answer": "historian"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "Stories passed down by word of mouth form ___ tradition.",
+      "choices": [
+        "printed",
+        "carved",
+        "oral",
+        "written"
+      ],
+      "answer": "oral"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "A handwritten old book or document is a ___.",
+      "choices": [
+        "manuscript",
+        "coin",
+        "monument",
+        "inscription on stone"
+      ],
+      "answer": "manuscript"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "A period of 1000 years is called a ___.",
+      "choices": [
+        "millennium",
+        "generation",
+        "century",
+        "decade"
+      ],
+      "answer": "millennium"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "CE in dates stands for ___.",
+      "choices": [
+        "Common Era",
+        "Central Empire",
+        "Current Epoch",
+        "Civil Event"
+      ],
+      "answer": "Common Era"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "A line that shows events in the order they happened is a ___.",
+      "choices": [
+        "scale of a map",
+        "latitude",
+        "timeline",
+        "boundary"
+      ],
+      "answer": "timeline"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "A period of 10 years is a ___.",
+      "choices": [
+        "fortnight",
+        "millennium",
+        "century",
+        "decade"
+      ],
+      "answer": "decade"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Which is an archaeological source?",
+      "choices": [
+        "A folk song",
+        "A story book written today",
+        "Excavated pottery",
+        "A poem"
+      ],
+      "answer": "Excavated pottery"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "The 21st century began in the year ___.",
+      "choices": [
+        "2001",
+        "2101",
+        "1991",
+        "1901"
+      ],
+      "answer": "2001"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Coins can tell us about ___.",
+      "choices": [
+        "ocean depth",
+        "rulers and trade",
+        "the number of stars",
+        "tomorrow’s weather"
+      ],
+      "answer": "rulers and trade"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Writing carved on stone or metal is an ___.",
+      "choices": [
+        "oral story",
+        "photograph",
+        "atlas",
+        "inscription"
+      ],
+      "answer": "inscription"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "A big change in early human life was the start of ___.",
+      "choices": [
+        "television",
+        "farming",
+        "printing",
+        "railways"
+      ],
+      "answer": "farming"
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "q": "Which year came first?",
+      "choices": [
+        "500 CE",
+        "100 BCE",
+        "500 BCE",
+        "1 CE"
+      ],
+      "answer": "500 BCE"
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "q": "Remains of plants and animals preserved in rock are ___.",
+      "choices": [
+        "maps",
+        "inscriptions",
+        "fossils",
+        "manuscripts"
+      ],
+      "answer": "fossils"
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "q": "Which is a literary source?",
+      "choices": [
+        "Ancient text",
+        "Old coin",
+        "Fort wall",
+        "Pottery"
+      ],
+      "answer": "Ancient text"
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "q": "A period of 100 years is called a ___.",
+      "choices": [
+        "millennium",
+        "era of ten",
+        "decade",
+        "century"
+      ],
+      "answer": "century"
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "q": "Experts who dig up and study old remains are ___.",
+      "choices": [
+        "botanists",
+        "archaeologists",
+        "economists",
+        "astronomers"
+      ],
+      "answer": "archaeologists"
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "q": "The Vishnu Purana describes Bharata as lying north of the ___.",
+      "choices": [
+        "Gobi",
+        "ocean",
+        "Himalayas",
+        "North Pole"
+      ],
+      "answer": "ocean"
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "q": "The name \"India\" comes from the name of which river?",
+      "choices": [
+        "Ganga",
+        "Yamuna",
+        "Godavari",
+        "Sindhu (Indus)"
+      ],
+      "answer": "Sindhu (Indus)"
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "q": "The Chinese traveller who came to India in the 7th century was ___.",
+      "choices": [
+        "Marco Polo",
+        "Ibn Battuta",
+        "Megasthenes",
+        "Xuanzang"
+      ],
+      "answer": "Xuanzang"
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "q": "The Mahabharata mentions many regions of the ___.",
+      "choices": [
+        "Arctic",
+        "Americas",
+        "Australian desert",
+        "Indian subcontinent"
+      ],
+      "answer": "Indian subcontinent"
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "q": "Which ancient name for India appears in the Constitution along with \"India\"?",
+      "choices": [
+        "Hind Sagar",
+        "Aryan Land",
+        "Bharat",
+        "Sindhustan"
+      ],
+      "answer": "Bharat"
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "q": "Which sea lies to the west of the Indian peninsula?",
+      "choices": [
+        "Bay of Bengal",
+        "Red Sea",
+        "Black Sea",
+        "Arabian Sea"
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "q": "The word \"Hindustan\" came into use through the ___ language.",
+      "choices": [
+        "Spanish",
+        "Persian",
+        "Latin",
+        "Japanese"
+      ],
+      "answer": "Persian"
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "q": "The Rigveda calls the north-western region \"Sapta Sindhava\", meaning land of ___.",
+      "choices": [
+        "seven seas",
+        "seven rivers",
+        "seven hills",
+        "seven cities"
+      ],
+      "answer": "seven rivers"
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "q": "The ancient Greeks used a form of the name ___.",
+      "choices": [
+        "Indoi or India",
+        "Siam",
+        "Cathay",
+        "Bharati Island"
+      ],
+      "answer": "Indoi or India"
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "q": "India is often called a ___ because of its large size and natural boundaries.",
+      "choices": [
+        "small island",
+        "strait",
+        "subcontinent",
+        "continent of ice"
+      ],
+      "answer": "subcontinent"
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "q": "Which neighbouring country lies to the north of India?",
+      "choices": [
+        "Indonesia",
+        "Sri Lanka",
+        "Maldives",
+        "Nepal"
+      ],
+      "answer": "Nepal"
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "q": "The term \"Jambudvipa\" was used in ancient times for a region including ___.",
+      "choices": [
+        "India",
+        "Iceland",
+        "Australia",
+        "Brazil"
+      ],
+      "answer": "India"
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "q": "The Constitution begins Article 1 with the words ___.",
+      "choices": [
+        "\"We, the kings\"",
+        "\"India, that is Bharat\"",
+        "\"Land of the five seas\"",
+        "\"Hind, that is Asia\""
+      ],
+      "answer": "\"India, that is Bharat\""
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "q": "Chinese texts used the name ___ for India.",
+      "choices": [
+        "Rum",
+        "Misr",
+        "Nippon",
+        "Yindu"
+      ],
+      "answer": "Yindu"
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "q": "The Persians pronounced Sindhu as ___.",
+      "choices": [
+        "Indus",
+        "Sindbad",
+        "Hindu",
+        "Sinai"
+      ],
+      "answer": "Hindu"
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "q": "Which mountains form India’s northern boundary?",
+      "choices": [
+        "Vindhyas",
+        "Aravallis",
+        "Western Ghats",
+        "Himalayas"
+      ],
+      "answer": "Himalayas"
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "q": "The name \"Bharata\" is found in ancient texts such as the ___.",
+      "choices": [
+        "Rihla",
+        "Magna Carta",
+        "Iliad",
+        "Rigveda"
+      ],
+      "answer": "Rigveda"
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "q": "Megasthenes was an ambassador from the ___.",
+      "choices": [
+        "Chinese",
+        "Greeks",
+        "Arabs",
+        "Romans of Britain"
+      ],
+      "answer": "Greeks"
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "q": "Which ancient text group includes the Vishnu Purana?",
+      "choices": [
+        "Epics of Europe",
+        "Jatakas of China",
+        "Puranas",
+        "Vedangas of Greece"
+      ],
+      "answer": "Puranas"
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "q": "Which water body lies to the east of the Indian peninsula?",
+      "choices": [
+        "Caspian Sea",
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Persian Gulf"
+      ],
+      "answer": "Bay of Bengal"
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "q": "The bronze figure often called the \"Dancing Girl\" was found at ___.",
+      "choices": [
+        "Ujjain",
+        "Mohenjo-daro",
+        "Sanchi",
+        "Pataliputra"
+      ],
+      "answer": "Mohenjo-daro"
+    },
+    {
+      "id": 102,
+      "type": "mcq",
+      "q": "Dholavira is located in the Indian state of ___.",
+      "choices": [
+        "Kerala",
+        "Assam",
+        "Gujarat",
+        "Bihar"
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "id": 103,
+      "type": "mcq",
+      "q": "Rakhigarhi, a large Harappan site, is in ___.",
+      "choices": [
+        "Tripura",
+        "Haryana",
+        "Odisha",
+        "Goa"
+      ],
+      "answer": "Haryana"
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "q": "The Harappan civilisation is also called the ___ civilisation.",
+      "choices": [
+        "Yellow River",
+        "Mesopotamian",
+        "Sindhu-Sarasvati",
+        "Nile"
+      ],
+      "answer": "Sindhu-Sarasvati"
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "q": "Harappan cities were known for their planned streets and ___.",
+      "choices": [
+        "iron bridges",
+        "drainage system",
+        "glass towers",
+        "railways"
+      ],
+      "answer": "drainage system"
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "q": "Which Harappan city is famous for its water reservoirs?",
+      "choices": [
+        "Pataliputra",
+        "Chanhudaro",
+        "Ropar",
+        "Dholavira"
+      ],
+      "answer": "Dholavira"
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "q": "A civilisation usually includes cities, crafts, trade and ___.",
+      "choices": [
+        "no homes",
+        "no farming",
+        "no communication",
+        "organised government"
+      ],
+      "answer": "organised government"
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "q": "Harappan seals often carried pictures of ___ and signs.",
+      "choices": [
+        "aeroplanes",
+        "computers",
+        "trains",
+        "animals"
+      ],
+      "answer": "animals"
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "q": "The Great Bath was found at ___.",
+      "choices": [
+        "Dholavira",
+        "Mohenjo-daro",
+        "Lothal",
+        "Kalibangan"
+      ],
+      "answer": "Mohenjo-daro"
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "q": "The Harappan civilisation grew around the Indus and ___ river systems.",
+      "choices": [
+        "Danube",
+        "Amazon",
+        "Nile",
+        "Sarasvati"
+      ],
+      "answer": "Sarasvati"
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "q": "Harappa is now located in ___.",
+      "choices": [
+        "Pakistan",
+        "Nepal",
+        "Myanmar",
+        "Sri Lanka"
+      ],
+      "answer": "Pakistan"
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "q": "A dockyard is used mainly for ___.",
+      "choices": [
+        "growing wheat",
+        "storing seals only",
+        "weaving cloth",
+        "ships and boats"
+      ],
+      "answer": "ships and boats"
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "q": "Harappan buildings were often made of ___.",
+      "choices": [
+        "baked and sun-dried bricks",
+        "steel and glass",
+        "plastic sheets",
+        "ice blocks"
+      ],
+      "answer": "baked and sun-dried bricks"
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "q": "Which metal did Harappans make from copper and tin?",
+      "choices": [
+        "Brass from zinc only",
+        "Aluminium",
+        "Bronze",
+        "Steel"
+      ],
+      "answer": "Bronze"
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "q": "Has the Harappan script been fully deciphered?",
+      "choices": [
+        "No",
+        "It had no signs",
+        "Yes, long ago",
+        "Yes, last century"
+      ],
+      "answer": "No"
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "q": "Which crop did Harappans grow?",
+      "choices": [
+        "Potato",
+        "Barley",
+        "Tomato",
+        "Chilli"
+      ],
+      "answer": "Barley"
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "q": "Large buildings for storing grain are called ___.",
+      "choices": [
+        "granaries",
+        "baths",
+        "stupas",
+        "dockyards"
+      ],
+      "answer": "granaries"
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "q": "Harappans were among the early users of ___ for cloth.",
+      "choices": [
+        "nylon",
+        "rayon",
+        "cotton",
+        "polyester"
+      ],
+      "answer": "cotton"
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "q": "Which Harappan site in Gujarat is known for its dockyard?",
+      "choices": [
+        "Harappa",
+        "Rakhigarhi",
+        "Banawali",
+        "Lothal"
+      ],
+      "answer": "Lothal"
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "q": "Harappan trade reached regions such as ___.",
+      "choices": [
+        "Brazil",
+        "Canada",
+        "Antarctica",
+        "Mesopotamia"
+      ],
+      "answer": "Mesopotamia"
+    },
+    {
+      "id": 121,
+      "type": "mcq",
+      "q": "The language of the Vedas is an early form of ___.",
+      "choices": [
+        "Persian",
+        "Sanskrit",
+        "Tamil script of coins",
+        "English"
+      ],
+      "answer": "Sanskrit"
+    },
+    {
+      "id": 122,
+      "type": "mcq",
+      "q": "The twenty-fourth Tirthankara of Jainism was ___.",
+      "choices": [
+        "Rishabhanatha",
+        "Parshvanatha",
+        "Ashoka",
+        "Mahavira"
+      ],
+      "answer": "Mahavira"
+    },
+    {
+      "id": 123,
+      "type": "mcq",
+      "q": "The Jain idea that truth has many sides is ___.",
+      "choices": [
+        "ahimsa only",
+        "anekantavada",
+        "monarchy",
+        "karma-kanda"
+      ],
+      "answer": "anekantavada"
+    },
+    {
+      "id": 124,
+      "type": "mcq",
+      "q": "Which is the oldest Veda?",
+      "choices": [
+        "Yajurveda",
+        "Rigveda",
+        "Atharvaveda",
+        "Samaveda"
+      ],
+      "answer": "Rigveda"
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "q": "The Buddha gave his first sermon at ___.",
+      "choices": [
+        "Ujjain",
+        "Puri",
+        "Lumbini",
+        "Sarnath"
+      ],
+      "answer": "Sarnath"
+    },
+    {
+      "id": 126,
+      "type": "mcq",
+      "q": "Mahavira belonged to which religious tradition?",
+      "choices": [
+        "Jainism",
+        "Christianity",
+        "Zoroastrianism",
+        "Sikhism"
+      ],
+      "answer": "Jainism"
+    },
+    {
+      "id": 127,
+      "type": "mcq",
+      "q": "The idea that actions have results is called ___.",
+      "choices": [
+        "karma",
+        "barter",
+        "census",
+        "latitude"
+      ],
+      "answer": "karma"
+    },
+    {
+      "id": 128,
+      "type": "mcq",
+      "q": "The word \"Veda\" means ___.",
+      "choices": [
+        "knowledge",
+        "river",
+        "city",
+        "battle"
+      ],
+      "answer": "knowledge"
+    },
+    {
+      "id": 129,
+      "type": "mcq",
+      "q": "The Vedas were first passed on mainly by ___.",
+      "choices": [
+        "stone maps",
+        "printed books",
+        "radio",
+        "oral recitation"
+      ],
+      "answer": "oral recitation"
+    },
+    {
+      "id": 130,
+      "type": "mcq",
+      "q": "The community of Buddhist monks and nuns is the ___.",
+      "choices": [
+        "sangha",
+        "samiti of traders",
+        "guild",
+        "sabha of kings"
+      ],
+      "answer": "sangha"
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "q": "The school of thought known for doubting the afterlife was ___.",
+      "choices": [
+        "Yoga",
+        "Vedanta",
+        "Bhakti",
+        "Charvaka"
+      ],
+      "answer": "Charvaka"
+    },
+    {
+      "id": 132,
+      "type": "mcq",
+      "q": "How many Vedas are there?",
+      "choices": [
+        "6",
+        "18",
+        "4",
+        "3"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 133,
+      "type": "mcq",
+      "q": "Gautama Buddha attained enlightenment at ___.",
+      "choices": [
+        "Bodh Gaya",
+        "Lumbini",
+        "Kushinagar",
+        "Sarnath"
+      ],
+      "answer": "Bodh Gaya"
+    },
+    {
+      "id": 134,
+      "type": "mcq",
+      "q": "Practices of tribal communities often show deep respect for ___.",
+      "choices": [
+        "coins",
+        "highways",
+        "nature",
+        "factories"
+      ],
+      "answer": "nature"
+    },
+    {
+      "id": 135,
+      "type": "mcq",
+      "q": "The Upanishads discuss ideas such as ___.",
+      "choices": [
+        "brahman and atman",
+        "map scales",
+        "steam engines",
+        "trade taxes of Rome"
+      ],
+      "answer": "brahman and atman"
+    },
+    {
+      "id": 136,
+      "type": "mcq",
+      "q": "Jain teaching of not possessing more than needed is ___.",
+      "choices": [
+        "conquest",
+        "aparigraha",
+        "dana of land only",
+        "yajna"
+      ],
+      "answer": "aparigraha"
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "q": "Which is NOT one of the four Vedas?",
+      "choices": [
+        "Ramayana",
+        "Rigveda",
+        "Yajurveda",
+        "Samaveda"
+      ],
+      "answer": "Ramayana"
+    },
+    {
+      "id": 138,
+      "type": "mcq",
+      "q": "Who founded Buddhism?",
+      "choices": [
+        "Chanakya",
+        "Siddhartha Gautama",
+        "Panini",
+        "Mahavira"
+      ],
+      "answer": "Siddhartha Gautama"
+    },
+    {
+      "id": 139,
+      "type": "mcq",
+      "q": "The idea of non-violence is called ___.",
+      "choices": [
+        "moksha",
+        "karma",
+        "yajna",
+        "ahimsa"
+      ],
+      "answer": "ahimsa"
+    },
+    {
+      "id": 140,
+      "type": "mcq",
+      "q": "The Buddha was born at ___.",
+      "choices": [
+        "Vaishali",
+        "Rajgir",
+        "Lumbini",
+        "Bodh Gaya"
+      ],
+      "answer": "Lumbini"
+    },
+    {
+      "id": 141,
+      "type": "mcq",
+      "q": "Classical dances such as Kathak and Odissi show ___.",
+      "choices": [
+        "map scale",
+        "economic sectors",
+        "time zones",
+        "cultural variety"
+      ],
+      "answer": "cultural variety"
+    },
+    {
+      "id": 142,
+      "type": "mcq",
+      "q": "A single story told differently in many regions shows ___.",
+      "choices": [
+        "no connection",
+        "many in the one",
+        "loss of culture",
+        "only one language"
+      ],
+      "answer": "many in the one"
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "q": "The harvest festival of Assam is ___.",
+      "choices": [
+        "Onam",
+        "Gudi Padwa",
+        "Ugadi",
+        "Bihu"
+      ],
+      "answer": "Bihu"
+    },
+    {
+      "id": 144,
+      "type": "mcq",
+      "q": "Which of these is made from grains and pulses and eaten widely in South India?",
+      "choices": [
+        "Pizza",
+        "Pasta",
+        "Burger",
+        "Idli"
+      ],
+      "answer": "Idli"
+    },
+    {
+      "id": 145,
+      "type": "mcq",
+      "q": "The Panchatantra is a collection of ___.",
+      "choices": [
+        "maps",
+        "mathematical tables",
+        "stories with lessons",
+        "tax records"
+      ],
+      "answer": "stories with lessons"
+    },
+    {
+      "id": 146,
+      "type": "mcq",
+      "q": "Which of these is a staple food in many parts of India?",
+      "choices": [
+        "Maple syrup",
+        "Cheese fondue",
+        "Olives",
+        "Rice"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "id": 147,
+      "type": "mcq",
+      "q": "Which two epics are retold in many forms across India?",
+      "choices": [
+        "Ramayana and Mahabharata",
+        "Iliad and Odyssey",
+        "Aeneid and Edda",
+        "Gilgamesh and Beowulf"
+      ],
+      "answer": "Ramayana and Mahabharata"
+    },
+    {
+      "id": 148,
+      "type": "mcq",
+      "q": "Makar Sankranti is mainly linked with the ___.",
+      "choices": [
+        "harvest season",
+        "school year",
+        "ocean tides",
+        "start of winter snow"
+      ],
+      "answer": "harvest season"
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "q": "Unity means ___.",
+      "choices": [
+        "everyone being identical",
+        "staying together despite differences",
+        "having one food only",
+        "avoiding others"
+      ],
+      "answer": "staying together despite differences"
+    },
+    {
+      "id": 150,
+      "type": "mcq",
+      "q": "Tribal stories about the epics show that the epics are ___.",
+      "choices": [
+        "shared and adapted widely",
+        "known in only one city",
+        "recent inventions",
+        "only written in English"
+      ],
+      "answer": "shared and adapted widely"
+    },
+    {
+      "id": 151,
+      "type": "mcq",
+      "q": "The Panchatantra is traditionally credited to ___.",
+      "choices": [
+        "Vishnu Sharma",
+        "Kalidasa",
+        "Aryabhata",
+        "Chanakya the poet of Bihu"
+      ],
+      "answer": "Vishnu Sharma"
+    },
+    {
+      "id": 152,
+      "type": "mcq",
+      "q": "A harvest festival celebrated in Tamil Nadu is ___.",
+      "choices": [
+        "Lohri",
+        "Bihu",
+        "Wangala",
+        "Pongal"
+      ],
+      "answer": "Pongal"
+    },
+    {
+      "id": 153,
+      "type": "mcq",
+      "q": "The Indian Constitution recognises many languages in its ___ Schedule.",
+      "choices": [
+        "Second",
+        "Twelfth",
+        "First",
+        "Eighth"
+      ],
+      "answer": "Eighth"
+    },
+    {
+      "id": 154,
+      "type": "mcq",
+      "q": "Which helps people from different regions understand each other?",
+      "choices": [
+        "Refusing to listen",
+        "Ignoring neighbours",
+        "Mocking customs",
+        "Mutual respect"
+      ],
+      "answer": "Mutual respect"
+    },
+    {
+      "id": 155,
+      "type": "mcq",
+      "q": "Which garment is draped in many regional styles?",
+      "choices": [
+        "Blazer",
+        "Raincoat",
+        "Saree",
+        "Apron"
+      ],
+      "answer": "Saree"
+    },
+    {
+      "id": 156,
+      "type": "mcq",
+      "q": "India’s many festivals, foods and dresses show its ___.",
+      "choices": [
+        "emptiness",
+        "diversity",
+        "isolation",
+        "sameness"
+      ],
+      "answer": "diversity"
+    },
+    {
+      "id": 157,
+      "type": "mcq",
+      "q": "People of India speaking many languages is an example of ___.",
+      "choices": [
+        "uniformity",
+        "monarchy",
+        "diversity",
+        "isolation"
+      ],
+      "answer": "diversity"
+    },
+    {
+      "id": 158,
+      "type": "mcq",
+      "q": "A mid-January festival celebrated widely in Punjab is ___.",
+      "choices": [
+        "Onam",
+        "Hornbill",
+        "Lohri",
+        "Pongal"
+      ],
+      "answer": "Lohri"
+    },
+    {
+      "id": 159,
+      "type": "mcq",
+      "q": "Respecting different customs helps people to ___.",
+      "choices": [
+        "forget their own culture",
+        "quarrel more",
+        "live together in harmony",
+        "stop celebrating"
+      ],
+      "answer": "live together in harmony"
+    },
+    {
+      "id": 160,
+      "type": "mcq",
+      "q": "The saree being worn in many different styles shows ___.",
+      "choices": [
+        "a lack of culture",
+        "foreign rule",
+        "that only one style exists",
+        "unity in diversity"
+      ],
+      "answer": "unity in diversity"
+    },
+    {
+      "id": 161,
+      "type": "mcq",
+      "q": "Grandparents, parents, uncles and children living together form a ___ family.",
+      "choices": [
+        "small",
+        "single-person",
+        "joint",
+        "nuclear"
+      ],
+      "answer": "joint"
+    },
+    {
+      "id": 162,
+      "type": "mcq",
+      "q": "People can belong to ___.",
+      "choices": [
+        "more than one community",
+        "no group at all by rule",
+        "only one group for life by law",
+        "only school"
+      ],
+      "answer": "more than one community"
+    },
+    {
+      "id": 163,
+      "type": "mcq",
+      "q": "A family with parents and their children only is a ___ family.",
+      "choices": [
+        "extended",
+        "joint",
+        "nuclear",
+        "village"
+      ],
+      "answer": "nuclear"
+    },
+    {
+      "id": 164,
+      "type": "mcq",
+      "q": "A group of people who live or work together and help one another is a ___.",
+      "choices": [
+        "timeline",
+        "continent",
+        "market price",
+        "community"
+      ],
+      "answer": "community"
+    },
+    {
+      "id": 165,
+      "type": "mcq",
+      "q": "Neighbours and others who support one another make up a ___.",
+      "choices": [
+        "latitude",
+        "climate",
+        "galaxy",
+        "community"
+      ],
+      "answer": "community"
+    },
+    {
+      "id": 166,
+      "type": "mcq",
+      "q": "Community members can work together to ___.",
+      "choices": [
+        "waste water",
+        "damage a park",
+        "block roads for fun",
+        "clean a shared water source"
+      ],
+      "answer": "clean a shared water source"
+    },
+    {
+      "id": 167,
+      "type": "mcq",
+      "q": "Villagers helping each other at harvest is an example of ___.",
+      "choices": [
+        "conflict",
+        "cooperation",
+        "taxation",
+        "isolation"
+      ],
+      "answer": "cooperation"
+    },
+    {
+      "id": 168,
+      "type": "mcq",
+      "q": "Which is a good way to help at home?",
+      "choices": [
+        "Leaving all work to one person",
+        "Sharing household tasks",
+        "Ignoring elders",
+        "Wasting food"
+      ],
+      "answer": "Sharing household tasks"
+    },
+    {
+      "id": 169,
+      "type": "mcq",
+      "q": "In disasters, communities often ___.",
+      "choices": [
+        "help with food and shelter",
+        "spread rumours only",
+        "stop talking",
+        "close all doors"
+      ],
+      "answer": "help with food and shelter"
+    },
+    {
+      "id": 170,
+      "type": "mcq",
+      "q": "A value that helps family life is ___.",
+      "choices": [
+        "selfishness",
+        "carelessness",
+        "mutual respect",
+        "dishonesty"
+      ],
+      "answer": "mutual respect"
+    },
+    {
+      "id": 171,
+      "type": "mcq",
+      "q": "Which relation is your father’s sister?",
+      "choices": [
+        "Maternal aunt",
+        "Cousin",
+        "Niece",
+        "Paternal aunt"
+      ],
+      "answer": "Paternal aunt"
+    },
+    {
+      "id": 172,
+      "type": "mcq",
+      "q": "Sharing household work among family members shows ___.",
+      "choices": [
+        "cooperation",
+        "discrimination",
+        "isolation",
+        "competition"
+      ],
+      "answer": "cooperation"
+    },
+    {
+      "id": 173,
+      "type": "mcq",
+      "q": "Family members share ___.",
+      "choices": [
+        "care and responsibilities",
+        "only quarrels",
+        "nothing",
+        "only money debts"
+      ],
+      "answer": "care and responsibilities"
+    },
+    {
+      "id": 174,
+      "type": "mcq",
+      "q": "The first group a child usually belongs to is the ___.",
+      "choices": [
+        "family",
+        "factory",
+        "parliament",
+        "port"
+      ],
+      "answer": "family"
+    },
+    {
+      "id": 175,
+      "type": "mcq",
+      "q": "Rules in a community help people to ___.",
+      "choices": [
+        "quarrel",
+        "break promises",
+        "avoid each other",
+        "live together smoothly"
+      ],
+      "answer": "live together smoothly"
+    },
+    {
+      "id": 176,
+      "type": "mcq",
+      "q": "The tradition of the community kitchen in gurdwaras is ___.",
+      "choices": [
+        "panchayat",
+        "mandi",
+        "langar",
+        "haat"
+      ],
+      "answer": "langar"
+    },
+    {
+      "id": 177,
+      "type": "mcq",
+      "q": "Voluntary service done for others without expecting reward is called ___.",
+      "choices": [
+        "rent",
+        "taxation",
+        "trade",
+        "seva"
+      ],
+      "answer": "seva"
+    },
+    {
+      "id": 178,
+      "type": "mcq",
+      "q": "Treating boys and girls fairly means giving them ___.",
+      "choices": [
+        "unequal food",
+        "different respect",
+        "no choices",
+        "equal opportunities"
+      ],
+      "answer": "equal opportunities"
+    },
+    {
+      "id": 179,
+      "type": "mcq",
+      "q": "Caring for elderly family members shows ___.",
+      "choices": [
+        "trade",
+        "competition",
+        "neglect",
+        "responsibility"
+      ],
+      "answer": "responsibility"
+    },
+    {
+      "id": 180,
+      "type": "mcq",
+      "q": "A family where several generations live together is a ___ family.",
+      "choices": [
+        "single",
+        "nuclear",
+        "joint",
+        "foster"
+      ],
+      "answer": "joint"
+    },
+    {
+      "id": 181,
+      "type": "mcq",
+      "q": "The three levels of government in India are central, state and ___.",
+      "choices": [
+        "foreign",
+        "private",
+        "local",
+        "continental"
+      ],
+      "answer": "local"
+    },
+    {
+      "id": 182,
+      "type": "mcq",
+      "q": "Parliament has two houses: Lok Sabha and ___.",
+      "choices": [
+        "Vidhan Court",
         "Gram Sabha",
-        "Nagar Panchayat",
-        "Zila Parishad"
+        "Rajya Sabha",
+        "Nyaya Sabha"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "id": 183,
+      "type": "mcq",
+      "q": "The group of people who run a country is the ___.",
+      "choices": [
+        "club of tourists",
+        "market",
+        "government",
+        "family"
+      ],
+      "answer": "government"
+    },
+    {
+      "id": 184,
+      "type": "mcq",
+      "q": "Which organ of government carries out laws?",
+      "choices": [
+        "Legislature",
+        "Judiciary",
+        "Press",
+        "Executive"
+      ],
+      "answer": "Executive"
+    },
+    {
+      "id": 185,
+      "type": "mcq",
+      "q": "The system by which a country takes decisions and runs its affairs is ___.",
+      "choices": [
+        "agriculture",
+        "governance",
+        "geography",
+        "astronomy"
+      ],
+      "answer": "governance"
+    },
+    {
+      "id": 186,
+      "type": "mcq",
+      "q": "The word \"democracy\" comes from words meaning rule by the ___.",
+      "choices": [
+        "rich",
+        "priests",
+        "army",
+        "people"
+      ],
+      "answer": "people"
+    },
+    {
+      "id": 187,
+      "type": "mcq",
+      "q": "The head of the Indian state is the ___.",
+      "choices": [
+        "Speaker",
+        "President",
+        "Prime Minister",
+        "Governor of a state"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": 188,
+      "type": "mcq",
+      "q": "Which organ of government makes laws?",
+      "choices": [
+        "Media",
+        "Executive",
+        "Judiciary",
+        "Legislature"
+      ],
+      "answer": "Legislature"
+    },
+    {
+      "id": 189,
+      "type": "mcq",
+      "q": "India’s law-making body at the national level is the ___.",
+      "choices": [
+        "Supreme Court",
+        "Police",
+        "Panchayat",
+        "Parliament"
+      ],
+      "answer": "Parliament"
+    },
+    {
+      "id": 190,
+      "type": "mcq",
+      "q": "Members of the Lok Sabha are chosen by ___.",
+      "choices": [
+        "birth",
+        "elections",
+        "lottery",
+        "examination"
+      ],
+      "answer": "elections"
+    },
+    {
+      "id": 191,
+      "type": "mcq",
+      "q": "In a democracy, power ultimately rests with the ___.",
+      "choices": [
+        "army",
+        "people",
+        "king",
+        "richest family"
+      ],
+      "answer": "people"
+    },
+    {
+      "id": 192,
+      "type": "mcq",
+      "q": "Separating powers among organs of government helps to ___.",
+      "choices": [
+        "keep checks on one another",
+        "stop elections",
+        "end courts",
+        "give one person all power"
+      ],
+      "answer": "keep checks on one another"
+    },
+    {
+      "id": 193,
+      "type": "mcq",
+      "q": "In a representative democracy, people ___ representatives.",
+      "choices": [
+        "draw by birth",
+        "elect",
+        "inherit",
+        "buy"
+      ],
+      "answer": "elect"
+    },
+    {
+      "id": 194,
+      "type": "mcq",
+      "q": "Which organ of government interprets laws and settles disputes?",
+      "choices": [
+        "Election rally",
+        "Judiciary",
+        "Legislature",
+        "Executive"
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "id": 195,
+      "type": "mcq",
+      "q": "Laws are important because they ___.",
+      "choices": [
+        "set rules that apply to people",
+        "remove rights",
+        "help only rulers",
+        "are optional games"
+      ],
+      "answer": "set rules that apply to people"
+    },
+    {
+      "id": 196,
+      "type": "mcq",
+      "q": "The Prime Minister is part of the ___.",
+      "choices": [
+        "press",
+        "electorate only",
+        "judiciary",
+        "executive"
+      ],
+      "answer": "executive"
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "q": "The highest court in India is the ___.",
+      "choices": [
+        "High School",
+        "Supreme Court",
+        "District Court",
+        "Gram Nyayalaya"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "id": 198,
+      "type": "mcq",
+      "q": "The minimum voting age in India is ___ years.",
+      "choices": [
+        "18",
+        "21",
+        "16",
+        "25"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": 199,
+      "type": "mcq",
+      "q": "In direct democracy, citizens ___.",
+      "choices": [
+        "take part in decisions themselves",
+        "have no say",
+        "vote once in a lifetime",
+        "obey a king only"
+      ],
+      "answer": "take part in decisions themselves"
+    },
+    {
+      "id": 200,
+      "type": "mcq",
+      "q": "Who heads a state government?",
+      "choices": [
+        "President of a company",
+        "Mayor",
+        "Chief Minister",
+        "Sarpanch"
+      ],
+      "answer": "Chief Minister"
+    },
+    {
+      "id": 201,
+      "type": "mcq",
+      "q": "Who can attend the Gram Sabha?",
+      "choices": [
+        "Only children",
+        "Adult voters of the village",
+        "Only landowners",
+        "Only officials"
+      ],
+      "answer": "Adult voters of the village"
+    },
+    {
+      "id": 202,
+      "type": "mcq",
+      "q": "Some seats in Panchayats are reserved for ___.",
+      "choices": [
+        "tourists",
+        "women",
+        "bank managers",
+        "foreigners"
+      ],
+      "answer": "women"
+    },
+    {
+      "id": 203,
+      "type": "mcq",
+      "q": "The village record keeper of land is commonly the ___.",
+      "choices": [
+        "Postman",
+        "Collector’s driver",
+        "Patwari",
+        "Sarpanch"
+      ],
+      "answer": "Patwari"
+    },
+    {
+      "id": 204,
+      "type": "mcq",
+      "q": "The three-tier rural local government system is called ___.",
+      "choices": [
+        "Vidhan Raj",
+        "Panchayati Raj",
+        "Lok Court",
+        "Municipal Raj"
+      ],
+      "answer": "Panchayati Raj"
+    },
+    {
+      "id": 205,
+      "type": "mcq",
+      "q": "The Panchayat is elected usually for ___ years.",
+      "choices": [
+        "2",
+        "5",
+        "10",
+        "7"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 206,
+      "type": "mcq",
+      "q": "The 73rd Constitutional Amendment concerns ___.",
+      "choices": [
+        "Municipalities",
+        "Panchayats",
+        "the army",
+        "currency"
+      ],
+      "answer": "Panchayats"
+    },
+    {
+      "id": 207,
+      "type": "mcq",
+      "q": "The top tier of Panchayati Raj is at the ___ level.",
+      "choices": [
+        "village",
+        "national",
+        "ward",
+        "district"
+      ],
+      "answer": "district"
+    },
+    {
+      "id": 208,
+      "type": "mcq",
+      "q": "A child-friendly local initiative that lets children voice concerns is the ___.",
+      "choices": [
+        "Bal Panchayat",
+        "High Court",
+        "Cabinet",
+        "Lok Sabha"
+      ],
+      "answer": "Bal Panchayat"
+    },
+    {
+      "id": 209,
+      "type": "mcq",
+      "q": "All adult voters of a village together form the ___.",
+      "choices": [
+        "Rajya Sabha",
+        "Gram Sabha",
+        "Vidhan Sabha",
+        "Zila Court"
+      ],
+      "answer": "Gram Sabha"
+    },
+    {
+      "id": 210,
+      "type": "mcq",
+      "q": "The head of a Gram Panchayat is commonly called the ___.",
+      "choices": [
+        "Sarpanch",
+        "Governor",
+        "Speaker",
+        "Mayor"
+      ],
+      "answer": "Sarpanch"
+    },
+    {
+      "id": 211,
+      "type": "mcq",
+      "q": "Local government is useful because it ___.",
+      "choices": [
+        "knows local problems closely",
+        "is far from people",
+        "replaces Parliament",
+        "never meets"
+      ],
+      "answer": "knows local problems closely"
+    },
+    {
+      "id": 212,
+      "type": "mcq",
+      "q": "Which is a task of a Gram Panchayat?",
+      "choices": [
+        "Printing banknotes",
+        "Foreign affairs",
+        "Maintaining village water supply",
+        "Running railways"
+      ],
+      "answer": "Maintaining village water supply"
+    },
+    {
+      "id": 213,
+      "type": "mcq",
+      "q": "Who keeps the records of a Gram Panchayat?",
+      "choices": [
+        "Chief Justice",
+        "Mayor",
+        "Panchayat Secretary",
+        "Governor"
+      ],
+      "answer": "Panchayat Secretary"
+    },
+    {
+      "id": 214,
+      "type": "mcq",
+      "q": "The district-level tier is the ___.",
+      "choices": [
+        "Ward Committee",
+        "Panchayat Samiti",
+        "Zila Parishad",
+        "Gram Panchayat"
       ],
       "answer": "Zila Parishad"
+    },
+    {
+      "id": 215,
+      "type": "mcq",
+      "q": "Panchayats get money partly from ___.",
+      "choices": [
+        "school fees abroad",
+        "foreign armies",
+        "government grants and local taxes",
+        "printing notes"
+      ],
+      "answer": "government grants and local taxes"
+    },
+    {
+      "id": 216,
+      "type": "mcq",
+      "q": "Members of a Gram Panchayat are called ___.",
+      "choices": [
+        "Corporators",
+        "Panches",
+        "MLAs",
+        "MPs"
+      ],
+      "answer": "Panches"
+    },
+    {
+      "id": 217,
+      "type": "mcq",
+      "q": "The village-level elected body in rural India is the ___.",
+      "choices": [
+        "Cantonment Board",
+        "Municipal Corporation",
+        "Lok Sabha",
+        "Gram Panchayat"
+      ],
+      "answer": "Gram Panchayat"
+    },
+    {
+      "id": 218,
+      "type": "mcq",
+      "q": "Block-level councils link Gram Panchayats with the ___.",
+      "choices": [
+        "Rajya Sabha",
+        "Supreme Court",
+        "Zila Parishad",
+        "Navy"
+      ],
+      "answer": "Zila Parishad"
+    },
+    {
+      "id": 219,
+      "type": "mcq",
+      "q": "The Panchayati Raj tier at the block level is the ___.",
+      "choices": [
+        "Nagar Nigam",
+        "Gram Sabha",
+        "Panchayat Samiti",
+        "Zila Parishad"
+      ],
+      "answer": "Panchayat Samiti"
+    },
+    {
+      "id": 220,
+      "type": "mcq",
+      "q": "The Gram Sabha can ___ the work of the Panchayat.",
+      "choices": [
+        "cancel national laws instead of",
+        "secretly ignore by law",
+        "never discuss",
+        "review and question"
+      ],
+      "answer": "review and question"
+    },
+    {
+      "id": 221,
+      "type": "mcq",
+      "q": "The head of a Municipal Corporation is usually called the ___.",
+      "choices": [
+        "Mayor",
+        "Sarpanch",
+        "Chief Justice",
+        "Collector"
+      ],
+      "answer": "Mayor"
+    },
+    {
+      "id": 222,
+      "type": "mcq",
+      "q": "Urban local bodies work in ___.",
+      "choices": [
+        "cities and towns",
+        "oceans",
+        "forests only",
+        "villages only"
+      ],
+      "answer": "cities and towns"
+    },
+    {
+      "id": 223,
+      "type": "mcq",
+      "q": "Residents can help the city by ___.",
+      "choices": [
+        "littering",
+        "wasting water",
+        "breaking street lamps",
+        "keeping public places clean"
+      ],
+      "answer": "keeping public places clean"
+    },
+    {
+      "id": 224,
+      "type": "mcq",
+      "q": "An area that is changing from village to town often has a ___.",
+      "choices": [
+        "Zila Parishad",
+        "Gram Sabha",
+        "Lok Sabha",
+        "Nagar Panchayat"
+      ],
+      "answer": "Nagar Panchayat"
+    },
+    {
+      "id": 225,
+      "type": "mcq",
+      "q": "Urban local bodies are usually elected every ___ years.",
+      "choices": [
+        "1",
+        "12",
+        "5",
+        "8"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": 226,
+      "type": "mcq",
+      "q": "A Municipal Corporation is usually for areas with a ___ population.",
+      "choices": [
+        "nomadic only",
+        "large",
+        "zero",
+        "very tiny"
+      ],
+      "answer": "large"
+    },
+    {
+      "id": 227,
+      "type": "mcq",
+      "q": "City bodies register ___.",
+      "choices": [
+        "national treaties",
+        "stars",
+        "marine tides",
+        "births and deaths"
+      ],
+      "answer": "births and deaths"
+    },
+    {
+      "id": 228,
+      "type": "mcq",
+      "q": "A large city is usually governed locally by a ___.",
+      "choices": [
+        "Municipal Corporation",
+        "Gram Sabha",
+        "Gram Panchayat",
+        "Zila Parishad"
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "id": 229,
+      "type": "mcq",
+      "q": "Which tax is commonly collected by city bodies?",
+      "choices": [
+        "Customs duty",
+        "Income tax",
+        "Corporation tax on companies",
+        "Property tax"
+      ],
+      "answer": "Property tax"
+    },
+    {
+      "id": 230,
+      "type": "mcq",
+      "q": "Separating wet and dry waste helps in ___.",
+      "choices": [
+        "recycling and composting",
+        "spreading disease",
+        "wasting land",
+        "polluting water"
+      ],
+      "answer": "recycling and composting"
+    },
+    {
+      "id": 231,
+      "type": "mcq",
+      "q": "The 74th Constitutional Amendment concerns ___.",
+      "choices": [
+        "urban local bodies",
+        "Panchayats only",
+        "the Navy",
+        "the President"
+      ],
+      "answer": "urban local bodies"
+    },
+    {
+      "id": 232,
+      "type": "mcq",
+      "q": "Which is a usual task of an urban local body?",
+      "choices": [
+        "Running the army",
+        "Signing treaties",
+        "Collecting garbage",
+        "Printing currency"
+      ],
+      "answer": "Collecting garbage"
+    },
+    {
+      "id": 233,
+      "type": "mcq",
+      "q": "The elected member from a city ward is often called a ___.",
+      "choices": [
+        "Sarpanch",
+        "Patwari",
+        "Governor",
+        "councillor"
+      ],
+      "answer": "councillor"
+    },
+    {
+      "id": 234,
+      "type": "mcq",
+      "q": "A small town’s local body is often a ___.",
+      "choices": [
+        "Parliament",
+        "High Court",
+        "Panchayat Samiti",
+        "Municipal Council"
+      ],
+      "answer": "Municipal Council"
+    },
+    {
+      "id": 235,
+      "type": "mcq",
+      "q": "A city is divided for local elections into ___.",
+      "choices": [
+        "wards",
+        "latitudes",
+        "continents",
+        "tehsil courts"
+      ],
+      "answer": "wards"
+    },
+    {
+      "id": 236,
+      "type": "mcq",
+      "q": "The chief administrative officer of a Municipal Corporation is the ___.",
+      "choices": [
+        "Speaker",
+        "Sarpanch",
+        "Chief Justice",
+        "Municipal Commissioner"
+      ],
+      "answer": "Municipal Commissioner"
+    },
+    {
+      "id": 237,
+      "type": "mcq",
+      "q": "Who elects ward councillors?",
+      "choices": [
+        "School children",
+        "The Governor alone",
+        "The Commissioner",
+        "Adult voters of the ward"
+      ],
+      "answer": "Adult voters of the ward"
+    },
+    {
+      "id": 238,
+      "type": "mcq",
+      "q": "Which service is usually provided by a city body?",
+      "choices": [
+        "National defence",
+        "Passports",
+        "Currency",
+        "Street lighting"
+      ],
+      "answer": "Street lighting"
+    },
+    {
+      "id": 239,
+      "type": "mcq",
+      "q": "Meetings where residents of a ward discuss issues are ___ meetings.",
+      "choices": [
+        "Rajya Sabha",
+        "Supreme Court",
+        "cabinet",
+        "ward committee"
+      ],
+      "answer": "ward committee"
+    },
+    {
+      "id": 240,
+      "type": "mcq",
+      "q": "Which problem would you report to a municipal body?",
+      "choices": [
+        "A blocked street drain",
+        "A court appeal",
+        "A change in currency",
+        "A border dispute with a country"
+      ],
+      "answer": "A blocked street drain"
+    },
+    {
+      "id": 241,
+      "type": "mcq",
+      "q": "Activities done mainly out of love and care, without payment, are ___.",
+      "choices": [
+        "industrial",
+        "economic",
+        "commercial",
+        "non-economic"
+      ],
+      "answer": "non-economic"
+    },
+    {
+      "id": 242,
+      "type": "mcq",
+      "q": "A shopkeeper selling goods is doing ___ work.",
+      "choices": [
+        "household",
+        "non-economic",
+        "voluntary",
+        "economic"
+      ],
+      "answer": "economic"
+    },
+    {
+      "id": 243,
+      "type": "mcq",
+      "q": "Cleaning a public park together without pay is ___.",
+      "choices": [
+        "a loan",
+        "an export",
+        "community service",
+        "a business"
+      ],
+      "answer": "community service"
+    },
+    {
+      "id": 244,
+      "type": "mcq",
+      "q": "Which worker helps keep a city clean?",
+      "choices": [
+        "Pilot",
+        "Sanitation worker",
+        "Astronaut",
+        "Judge"
+      ],
+      "answer": "Sanitation worker"
+    },
+    {
+      "id": 245,
+      "type": "mcq",
+      "q": "Dignity of labour means ___.",
+      "choices": [
+        "all honest work deserves respect",
+        "work should be avoided",
+        "manual work is shameful",
+        "only office work matters"
+      ],
+      "answer": "all honest work deserves respect"
+    },
+    {
+      "id": 246,
+      "type": "mcq",
+      "q": "Turning wood into a chair is an example of ___.",
+      "choices": [
+        "taxation",
+        "wastage",
+        "value addition",
+        "barter"
+      ],
+      "answer": "value addition"
+    },
+    {
+      "id": 247,
+      "type": "mcq",
+      "q": "Work done to earn money is an ___ activity.",
+      "choices": [
+        "non-economic",
+        "economic",
+        "optional play",
+        "imaginary"
+      ],
+      "answer": "economic"
+    },
+    {
+      "id": 248,
+      "type": "mcq",
+      "q": "Work done freely to help society is ___ work.",
+      "choices": [
+        "contract",
+        "factory",
+        "voluntary",
+        "salaried"
+      ],
+      "answer": "voluntary"
+    },
+    {
+      "id": 249,
+      "type": "mcq",
+      "q": "Exchanging goods without money is ___.",
+      "choices": [
+        "taxation",
+        "banking",
+        "salary",
+        "barter"
+      ],
+      "answer": "barter"
+    },
+    {
+      "id": 250,
+      "type": "mcq",
+      "q": "Which is a non-economic activity?",
+      "choices": [
+        "Driving a taxi for fare",
+        "Working in a bank",
+        "Helping a friend with homework free",
+        "Selling vegetables"
+      ],
+      "answer": "Helping a friend with homework free"
+    },
+    {
+      "id": 251,
+      "type": "mcq",
+      "q": "A salary is usually paid ___.",
+      "choices": [
+        "monthly",
+        "only in grain by law",
+        "never",
+        "once in a century"
+      ],
+      "answer": "monthly"
+    },
+    {
+      "id": 252,
+      "type": "mcq",
+      "q": "Work adds value when it ___.",
+      "choices": [
+        "destroys goods",
+        "does nothing",
+        "makes something more useful",
+        "wastes material"
+      ],
+      "answer": "makes something more useful"
+    },
+    {
+      "id": 253,
+      "type": "mcq",
+      "q": "Payment given to a worker for work is a ___.",
+      "choices": [
+        "donation by the worker",
+        "tax on air",
+        "wage or salary",
+        "fine"
+      ],
+      "answer": "wage or salary"
+    },
+    {
+      "id": 254,
+      "type": "mcq",
+      "q": "Every occupation matters because ___.",
+      "choices": [
+        "unpaid work is useless",
+        "manual work has no use",
+        "society depends on many kinds of work",
+        "only one job is needed"
+      ],
+      "answer": "society depends on many kinds of work"
+    },
+    {
+      "id": 255,
+      "type": "mcq",
+      "q": "The spirit of selfless service in Indian tradition is ___.",
+      "choices": [
+        "krodh",
+        "moha",
+        "lobh",
+        "seva"
+      ],
+      "answer": "seva"
+    },
+    {
+      "id": 256,
+      "type": "mcq",
+      "q": "A doctor treating patients for a fee is doing an ___ activity.",
+      "choices": [
+        "economic",
+        "imaginary",
+        "voluntary only",
+        "non-economic"
+      ],
+      "answer": "economic"
+    },
+    {
+      "id": 257,
+      "type": "mcq",
+      "q": "Respecting people who do household work shows ___.",
+      "choices": [
+        "waste",
+        "dignity of labour",
+        "monopoly",
+        "discrimination"
+      ],
+      "answer": "dignity of labour"
+    },
+    {
+      "id": 258,
+      "type": "mcq",
+      "q": "Payment in goods instead of money is payment ___.",
+      "choices": [
+        "in credit card only",
+        "in votes",
+        "in tax",
+        "in kind"
+      ],
+      "answer": "in kind"
+    },
+    {
+      "id": 259,
+      "type": "mcq",
+      "q": "Cooking at home for one’s own family is usually a ___ activity.",
+      "choices": [
+        "banking",
+        "economic",
+        "non-economic",
+        "foreign trade"
+      ],
+      "answer": "non-economic"
+    },
+    {
+      "id": 260,
+      "type": "mcq",
+      "q": "A person who runs their own business is ___.",
+      "choices": [
+        "retired",
+        "a student only",
+        "unemployed",
+        "self-employed"
+      ],
+      "answer": "self-employed"
+    },
+    {
+      "id": 261,
+      "type": "mcq",
+      "q": "Activities that turn raw materials into goods are ___.",
+      "choices": [
+        "primary",
+        "secondary",
+        "non-economic",
+        "tertiary"
+      ],
+      "answer": "secondary"
+    },
+    {
+      "id": 262,
+      "type": "mcq",
+      "q": "Rearing animals for milk is ___.",
+      "choices": [
+        "retail banking",
+        "mining",
+        "dairy farming",
+        "manufacturing cars"
+      ],
+      "answer": "dairy farming"
+    },
+    {
+      "id": 263,
+      "type": "mcq",
+      "q": "Activities that provide services are ___.",
+      "choices": [
+        "tertiary",
+        "secondary",
+        "natural",
+        "primary"
+      ],
+      "answer": "tertiary"
+    },
+    {
+      "id": 264,
+      "type": "mcq",
+      "q": "A factory making sugar from sugarcane is part of the ___ sector.",
+      "choices": [
+        "secondary",
+        "primary",
+        "tertiary",
+        "voluntary"
+      ],
+      "answer": "secondary"
+    },
+    {
+      "id": 265,
+      "type": "mcq",
+      "q": "Activities that take things directly from nature are ___ activities.",
+      "choices": [
+        "primary",
+        "tertiary",
+        "banking",
+        "secondary"
+      ],
+      "answer": "primary"
+    },
+    {
+      "id": 266,
+      "type": "mcq",
+      "q": "Farming belongs to the ___ sector.",
+      "choices": [
+        "primary",
+        "tertiary",
+        "public relations",
+        "secondary"
+      ],
+      "answer": "primary"
+    },
+    {
+      "id": 267,
+      "type": "mcq",
+      "q": "The three sectors are ___ one another.",
+      "choices": [
+        "dependent on",
+        "completely unrelated to",
+        "copies of",
+        "enemies of"
+      ],
+      "answer": "dependent on"
+    },
+    {
+      "id": 268,
+      "type": "mcq",
+      "q": "A cooperative is owned and run by its ___.",
+      "choices": [
+        "customers abroad only",
+        "a single king",
+        "members",
+        "foreign tourists"
+      ],
+      "answer": "members"
+    },
+    {
+      "id": 269,
+      "type": "mcq",
+      "q": "Forestry is a ___ activity.",
+      "choices": [
+        "primary",
+        "tertiary",
+        "non-economic",
+        "secondary"
+      ],
+      "answer": "primary"
+    },
+    {
+      "id": 270,
+      "type": "mcq",
+      "q": "Which is a secondary activity?",
+      "choices": [
+        "Nursing",
+        "Catching fish",
+        "Driving a bus",
+        "Making furniture"
+      ],
+      "answer": "Making furniture"
+    },
+    {
+      "id": 271,
+      "type": "mcq",
+      "q": "Which is a tertiary activity?",
+      "choices": [
+        "Transporting goods",
+        "Collecting honey from forests",
+        "Growing wheat",
+        "Making cement"
+      ],
+      "answer": "Transporting goods"
+    },
+    {
+      "id": 272,
+      "type": "mcq",
+      "q": "Making cloth in a factory belongs to the ___ sector.",
+      "choices": [
+        "natural",
+        "primary",
+        "tertiary",
+        "secondary"
+      ],
+      "answer": "secondary"
+    },
+    {
+      "id": 273,
+      "type": "mcq",
+      "q": "Repairing mobile phones is a ___ activity.",
+      "choices": [
+        "extractive",
+        "secondary raw",
+        "primary",
+        "tertiary"
+      ],
+      "answer": "tertiary"
+    },
+    {
+      "id": 274,
+      "type": "mcq",
+      "q": "A shop selling that sugar belongs to the ___ sector.",
+      "choices": [
+        "mining",
+        "primary",
+        "tertiary",
+        "secondary"
+      ],
+      "answer": "tertiary"
+    },
+    {
+      "id": 275,
+      "type": "mcq",
+      "q": "Which is a primary activity?",
+      "choices": [
+        "Teaching",
+        "Fishing",
+        "Car manufacturing",
+        "Software support"
+      ],
+      "answer": "Fishing"
+    },
+    {
+      "id": 276,
+      "type": "mcq",
+      "q": "Turning milk into butter in a dairy plant is a ___ activity.",
+      "choices": [
+        "tertiary",
+        "non-economic",
+        "secondary",
+        "primary"
+      ],
+      "answer": "secondary"
+    },
+    {
+      "id": 277,
+      "type": "mcq",
+      "q": "Which milk cooperative is famous for the brand Amul?",
+      "choices": [
+        "The Anand cooperative in Gujarat",
+        "A Chennai shipyard",
+        "A Delhi bank",
+        "A Shillong mine"
+      ],
+      "answer": "The Anand cooperative in Gujarat"
+    },
+    {
+      "id": 278,
+      "type": "mcq",
+      "q": "Raw material for cotton cloth comes from ___.",
+      "choices": [
+        "farming",
+        "tourism",
+        "mining coal",
+        "banking"
+      ],
+      "answer": "farming"
+    },
+    {
+      "id": 279,
+      "type": "mcq",
+      "q": "Teaching and banking belong to the ___ sector.",
+      "choices": [
+        "secondary",
+        "tertiary",
+        "extractive",
+        "primary"
+      ],
+      "answer": "tertiary"
+    },
+    {
+      "id": 280,
+      "type": "mcq",
+      "q": "Digging coal from a mine is a ___ activity.",
+      "choices": [
+        "secondary",
+        "tertiary",
+        "primary",
+        "non-economic"
+      ],
+      "answer": "primary"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 14,
   "chapterNames": [
-    "Early History",
-    "The Earth in the Solar System",
-    "Government and Diversity",
-    "Maps and Local Bodies"
+    "1. Locating Places on the Earth",
+    "2. Oceans and Continents",
+    "3. Landforms and Life",
+    "4. Timeline and Sources of History",
+    "5. India, That Is Bharat",
+    "6. The Beginnings of Indian Civilisation",
+    "7. India’s Cultural Roots",
+    "8. Unity in Diversity, or ‘Many in the One’",
+    "9. Family and Community",
+    "10. Grassroots Democracy: Governance",
+    "11. Local Government in Rural Areas",
+    "12. Local Government in Urban Areas",
+    "13. The Value of Work",
+    "14. Economic Activities Around Us"
   ],
   "chapterSizes": [
-    6,
-    6,
-    6,
-    8
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
   ],
   "meta": {
     "subject": "social",
