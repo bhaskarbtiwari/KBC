@@ -1,4 +1,7 @@
 /* KBC-inspired theme: deep navy and gold accents */
+.hidden{display:none !important}
+#mode-buttons button.selected{outline:3px solid #fff}
+#mode-buttons button:disabled{opacity:0.45;cursor:not-allowed}
 body{background:radial-gradient(circle at 20% 10%, #09182b 0%, #071022 40%, #02111a 100%), linear-gradient(180deg,#071022,#001018); color:#ffd;}
 header{background:linear-gradient(90deg,#06213a,#0b2740);padding:14px;border-radius:10px;color:#ffd;margin-bottom:12px}
 h1{color:#ffd;margin:0;font-weight:700}
@@ -20,10 +23,10 @@ button.ghost{background:transparent;color:#ffd;border:2px solid #ffd}
 
 /* On-screen Devanagari keyboard */
 #keyboard{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
-.key-row{display:flex;gap:6px;width:100%;justify-content:center}
+.key-row{display:flex;flex-wrap:wrap;gap:6px;width:100%;justify-content:center}
 
 /* voice controls styling inside game */
-#voice-controls{background:#f6fbff;border:1px solid #dfeefd;padding:10px;border-radius:8px}
+#voice-controls{color:#04111a;background:#f6fbff;border:1px solid #dfeefd;padding:10px;border-radius:8px}
 #voice-controls h4{margin:0 0 8px 0;font-size:1rem}
 #voice-controls label{min-width:40px}
 .key-btn{padding:8px 10px;border-radius:6px;border:1px solid rgba(255,215,0,0.12);background:linear-gradient(180deg,#083246,#052033);color:#ffd;cursor:pointer;min-width:36px;text-align:center;font-weight:600}

@@ -18,7 +18,9 @@ const LEVELS = [
   { id: 'advanced', name: 'Advanced', range: [11,20], reward: 20 },
 ];
 
-let state = { coins:0, unlocked:{ basic:true, intermediate:false, advanced:false }, current:null, settings:{}, progress:{}, chapterTitles:{} };
+function defaultState(){ return { coins:0, unlocked:{ basic:true, intermediate:false, advanced:false }, current:null, grade:1, settings:{}, progress:{}, chapterTitles:{} }; }
+let state = defaultState();
+let answered = false; // true once the current question has been scored or revealed
 
 // DOM
 const subjectsEl = document.getElementById('subjects');
@@ -72,6 +74,35 @@ function loadVoices(){
     const selName = curSubject && state.settings[curSubject] && state.settings[curSubject].voiceName ? state.settings[curSubject].voiceName : null;
     if(selName){ voiceSelect.value = selName; }
   }
+
+// Sanitize questions loaded from files or generated at runtime
+function sanitizeQuestions(subjectId, questions){
+  if(!Array.isArray(questions)) return [];
+  // filter out questions that clearly belong to another subject (basic heuristic)
+  function hasDeva(s){ return /[\u0900-\u097F]/.test(String(s||'')); }
+  const filtered = questions.filter(q=>{
+    if(!q || !q.q) return false;
+    const txt = String(q.q).toLowerCase();
+    // remove English-specific prompts from Hindi/Marathi
+    if((subjectId==='hindi' || subjectId==='marathi')){
+      // require Devanagari in either question or answer to keep as local-language item
+      if(!hasDeva(q.q) && !hasDeva(q.answer)) return false;
+      if(/choose the correct word/.test(txt)) return false;
+    }
+    // for English, drop obviously Devanagari items
+    if(subjectId==='english' && hasDeva(q.q + ' ' + q.answer)) return false;
+    return true;
+  });
+  // dedupe by normalized q+answer
+  const seen = new Set(); const out = [];
+  for(const q of shuffle(filtered)){
+    const key = `${(q.q||'').toString().trim()}|${(q.answer||'').toString().trim()}`;
+    const nk = key.replace(/\s+/g,' ').toLowerCase();
+    if(seen.has(nk)) continue;
+    seen.add(nk); out.push(q);
+  }
+  return out;
+}
 }
 
 // Play a short celebratory jingle using WebAudio when the user answers correctly
@@ -153,30 +184,34 @@ const voiceSelectEl = document.getElementById('voice-select');
 if(voiceSelectEl){
   voiceSelectEl.addEventListener('change', ()=>{
     const name = voiceSelectEl.value;
-    const cur = state.current && state.current.subjectId ? state.current.subjectId : null;
+    const cur = state.current && state.current.subjectId ? state.current.subjectId : (lastSelected && lastSelected.subjectId);
     if(cur){ state.settings[cur] = state.settings[cur] || {}; state.settings[cur].voiceName = name; saveState(); }
     // pick the actual voice object
-    const v = availableVoices.find(x=> (x.name||x.voiceURI||x.lang) === name);
+    const v = findVoice(name);
     if(v) updateVoiceInfo(v);
   });
 }
 
-function speak(text, subjectId){
+function findVoice(name){ return availableVoices.find(x=> (x.name||x.voiceURI||x.lang) === name); }
+
+// queue=true speaks after whatever is already playing instead of cutting it off
+function speak(text, subjectId, queue){
   if(!('speechSynthesis' in window)) return;
   const utter = new SpeechSynthesisUtterance(text);
-  const v = getBestVoiceForSubject(subjectId);
+  const chosen = state.settings[subjectId] && state.settings[subjectId].voiceName;
+  const v = (chosen && findVoice(chosen)) || getBestVoiceForSubject(subjectId);
   if(v){ utter.voice = v; if(v.lang) utter.lang = v.lang; updateVoiceInfo(v); }
   // read rate/pitch from controls if visible
   let rate = 0.95, pitch = 1;
   if(voiceRateEl) rate = parseFloat(voiceRateEl.value || '0.95');
   if(voicePitchEl) pitch = parseFloat(voicePitchEl.value || '1');
   utter.rate = rate; utter.pitch = pitch;
-  window.speechSynthesis.cancel();
+  if(!queue) window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utter);
 }
 
 function saveState(){ localStorage.setItem(STATE_KEY, JSON.stringify(state)); }
-function loadState(){ const r = localStorage.getItem(STATE_KEY); if(r){ try{ state = JSON.parse(r); }catch(e){} } }
+function loadState(){ const r = localStorage.getItem(STATE_KEY); if(r){ try{ state = Object.assign(defaultState(), JSON.parse(r)); }catch(e){} } }
 
 function updateHeader(){ coinsEl.textContent = `Gold Coins: ${state.coins}`; const lvl = state.unlocked.advanced ? 'Advanced' : (state.unlocked.intermediate ? 'Intermediate' : 'Basic'); levelEl.textContent = `Level: ${lvl}`; }
 
@@ -191,6 +226,23 @@ function makeSubjects(){
 }
 
 let autoNextTimer = null;
+let questionMode = 'both'; // 'both' | 'phoenix' | 'mcq'
+let lastLoadedQuestions = null; // raw data or array from last fetch
+let lastSelected = null; // { subjectId, grade }
+
+// Wire mode buttons
+const modeButtonEls = { both: document.getElementById('mode-both'), phoenix: document.getElementById('mode-phoenix'), mcq: document.getElementById('mode-mcq') };
+function setMode(mode){
+  questionMode = mode;
+  Object.entries(modeButtonEls).forEach(([m,b])=>{ if(b) b.classList.toggle('selected', m===mode); });
+}
+Object.entries(modeButtonEls).forEach(([mode,b])=>{
+  if(b) b.addEventListener('click', ()=>{
+    setMode(mode);
+    // rebuild the chapter list for the last selected subject/grade
+    if(lastLoadedQuestions && lastSelected) buildChaptersUI(lastSelected.subjectId, lastSelected.grade, lastLoadedQuestions);
+  });
+});
 
 // Select subject in the menu, show chapters (group questions into chapters of 50)
 function selectSubjectUI(subjectId){
@@ -201,9 +253,18 @@ function selectSubjectUI(subjectId){
   const url = `data/${subjectId}_g${grade}.json`;
   const chapterListEl = document.getElementById('chapter-list');
   chapterListEl.innerHTML = '<div>Loading chapters…</div>';
-  fetch(url).then(r=>{ if(!r.ok) throw new Error('no'); return r.json(); }).then(allQuestions=>{
-    buildChaptersUI(subjectId, grade, allQuestions);
-  }).catch(()=>{
+  const selection = { subjectId, grade };
+  lastSelected = selection; lastLoadedQuestions = null;
+  const show = data=>{
+    if(lastSelected !== selection) return; // another subject or grade was picked meanwhile
+    lastLoadedQuestions = data;
+    const list = Array.isArray(data) ? data : (data && data.questions) || [];
+    const hasSpell = list.some(q=>q.type === 'spell');
+    if(modeButtonEls.phoenix) modeButtonEls.phoenix.disabled = !hasSpell;
+    if(!hasSpell && questionMode === 'phoenix') setMode('both');
+    buildChaptersUI(subjectId, grade, data);
+  };
+  fetch(url).then(r=>{ if(!r.ok) throw new Error('no'); return r.json(); }).then(show).catch(()=>{
     // fallback: generate a larger pool by repeating generator (preserve fetch handling)
     const pool = [];
     while(pool.length < 500){ // ensure at least 10 chapters of 50
@@ -211,22 +272,78 @@ function selectSubjectUI(subjectId){
       pool.push(...more);
       if(pool.length > 2000) break;
     }
-    buildChaptersUI(subjectId, grade, pool);
+    show(pool);
   });
-  // show chapters panel
+  // show chapters panel and mode buttons
+  const modeButtons = document.getElementById('mode-buttons');
+  if(modeButtons){ modeButtons.classList.remove('hidden'); }
   document.getElementById('chapters').classList.remove('hidden');
 }
 
 function buildChaptersUI(subjectId, grade, allQuestions){
-  const chapterSize = 50;
-  const chapterCount = Math.max(1, Math.ceil(allQuestions.length / chapterSize));
   const chapterListEl = document.getElementById('chapter-list');
   chapterListEl.innerHTML = '';
-  for(let i=0;i<chapterCount;i++){
+  // If data file provides chapter metadata, use it
+  if(allQuestions && Array.isArray(allQuestions.questions) && typeof allQuestions.chapterCount === 'number'){
+    const questions = allQuestions.questions;
+    const chapterCount = allQuestions.chapterCount;
+    const names = Array.isArray(allQuestions.chapterNames) ? allQuestions.chapterNames : Array.from({length:chapterCount}, (_,i)=>`Chapter ${i+1}`);
+    const chapterSize = Math.max(1, Math.ceil(questions.length / chapterCount));
+    // chapterSizes lets chapters differ in length; older files split evenly
+    const sizes = Array.isArray(allQuestions.chapterSizes) ? allQuestions.chapterSizes : null;
+    let next = 0;
+    for(let i=0;i<chapterCount;i++){
+      const start = sizes ? next : i*chapterSize;
+      const size = sizes ? sizes[i] : chapterSize;
+      next = start + size;
+      const chunk = questions.slice(start, start + size);
+      // filter chunk according to selected questionMode
+      const filteredChunk = chunk.filter(q=>{
+        if(questionMode === 'phoenix') return q.type === 'spell';
+        if(questionMode === 'mcq') return q.type === 'mcq';
+        return true;
+      });
+      const btn = document.createElement('button'); btn.className='chapter-btn';
+      btn.dataset.title = names[i] || `Chapter ${i+1}`;
+      btn.textContent = `${btn.dataset.title} (${filteredChunk.length} q)`;
+      if(filteredChunk.length === 0){ btn.disabled = true; btn.classList.add('disabled'); }
+      else btn.onclick = ()=> startChapter(subjectId, grade, i+1, filteredChunk, btn);
+      chapterListEl.appendChild(btn);
+    }
+    return;
+  }
+  // fallback when questions is raw array
+  const arr = Array.isArray(allQuestions) ? allQuestions : (allQuestions && allQuestions.questions) || [];
+  // For legacy files (raw array) avoid creating an excessive number of tiny chapters.
+  // Prefer a sensible chapter count (max 12) and compute chapter sizes accordingly.
+  const maxChapters = 12;
+  const approxPerChapter = 180; // target ~180 questions per chapter
+  const desiredChapterCount = Math.max(1, Math.min(maxChapters, Math.ceil(arr.length / approxPerChapter)));
+  const chapterSize = Math.max(1, Math.ceil(arr.length / desiredChapterCount));
+  // build friendly chapter name base depending on subject
+  let nameBase = 'Chapter';
+  if(['hindi','marathi'].includes(subjectId)) nameBase = 'Vocabulary Set';
+  else if(subjectId === 'english') nameBase = 'Spelling & Vocab';
+  else if(subjectId === 'math') nameBase = 'Practice Set';
+  else if(subjectId === 'science') nameBase = 'Topic';
+  else if(subjectId === 'social') nameBase = 'Topic';
+  for(let i=0;i<desiredChapterCount;i++){
     const start = i*chapterSize;
-    const chunk = allQuestions.slice(start, start + chapterSize);
-    const btn = document.createElement('button'); btn.className='chapter-btn'; btn.textContent = `Chapter ${i+1} (${chunk.length} q)`;
-    btn.onclick = ()=> startChapter(subjectId, grade, i+1, chunk, btn);
+    const chunk = arr.slice(start, start + chapterSize);
+    const from = start + 1;
+    const to = Math.min(arr.length, start + chunk.length);
+    const btn = document.createElement('button'); btn.className='chapter-btn';
+    const title = `${nameBase} ${i+1}`;
+    // apply mode filter
+    const filteredChunk = chunk.filter(q=>{
+      if(questionMode === 'phoenix') return q.type === 'spell';
+      if(questionMode === 'mcq') return q.type === 'mcq';
+      return true;
+    });
+    btn.dataset.title = title;
+    btn.textContent = `${title} (Q ${from}-${to}) — ${filteredChunk.length} available`;
+    if(filteredChunk.length === 0){ btn.disabled = true; btn.classList.add('disabled'); }
+    else btn.onclick = ()=> startChapter(subjectId, grade, i+1, filteredChunk, btn);
     chapterListEl.appendChild(btn);
   }
 }
@@ -238,18 +355,19 @@ function startChapter(subjectId, grade, chapterNumber, questions, chapterBtn){
   state.current = { subjectId, grade, qIndex:0, questions };
   // show chapter title in game
   const chapterTitle = document.getElementById('chapter-title');
-  if(chapterTitle) chapterTitle.textContent = `${subjects.find(s=>s.id===subjectId).name} — Chapter ${chapterNumber}`;
+  if(chapterTitle){
+    const titleFromBtn = chapterBtn && chapterBtn.dataset && chapterBtn.dataset.title ? chapterBtn.dataset.title : `Chapter ${chapterNumber}`;
+    chapterTitle.textContent = `${subjects.find(s=>s.id===subjectId).name} — ${titleFromBtn}`;
+  }
   saveState();
   showGame();
-  // restore progress for this chapter if present
-  state.progress = state.progress || {};
-  state.progress[subjectId] = state.progress[subjectId] || {};
-  const key = `c${chapterNumber}`;
-  if(state.progress[subjectId][key] && typeof state.progress[subjectId][key].lastIndex === 'number'){
-    state.current.qIndex = state.progress[subjectId][key].lastIndex;
-  }
-  // store chapter number for progress tracking
+  // store chapter number and mode for progress tracking
   state.current.chapterNumber = chapterNumber;
+  state.current.mode = questionMode;
+  // restore progress for this chapter; a finished chapter restarts as practice
+  const saved = chapterProgress(state.current);
+  if(saved.completed) messageEl.textContent = 'Practice round: you already finished this chapter, so no more coins here.';
+  else if(typeof saved.lastIndex === 'number') state.current.qIndex = saved.lastIndex;
   renderQuestion();
 }
 
@@ -257,14 +375,34 @@ function startSubject(subjectId){
   const gradeSelect = document.getElementById('grade-select');
   const grade = gradeSelect ? parseInt(gradeSelect.value || '1', 10) : 1;
   const url = `data/${subjectId}_g${grade}.json`;
-  fetch(url).then(r=>{ if(!r.ok) throw new Error('no'); return r.json(); }).then(questions=>{
+  fetch(url).then(r=>{ if(!r.ok) throw new Error('no'); return r.json(); }).then(data=>{
+    // support both old array format and new object format { questions, chapterCount, chapterNames }
+    let questions = Array.isArray(data) ? data : (data && data.questions) ? data.questions : generateQuestions(subjectId, grade);
+    questions = sanitizeQuestions(subjectId, questions);
     state.current = { subjectId, grade, qIndex:0, questions };
     saveState(); showGame(); renderQuestion();
   }).catch(()=>{
-    const questions = generateQuestions(subjectId, grade);
+    // fallback: generate a larger pool by repeating generator (preserve fetch handling)
+    const questions = sanitizeQuestions(subjectId, (()=>{ const pool=[]; while(pool.length < 500){ pool.push(...generateQuestions(subjectId, grade)); if(pool.length>2000) break; } return pool; })());
     state.current = { subjectId, grade, qIndex:0, questions };
     saveState(); showGame(); renderQuestion();
   });
+}
+
+function chapterProgress(cur){
+  const subject = state.progress[cur.subjectId] = state.progress[cur.subjectId] || {};
+  const key = `g${cur.grade}_${cur.mode}_c${cur.chapterNumber}`;
+  return subject[key] = subject[key] || {};
+}
+
+// Mark the current question as used up, so it cannot be scored again
+function finishQuestion(){
+  answered = true;
+  const cur = state.current;
+  if(cur && cur.chapterNumber){
+    const p = chapterProgress(cur);
+    if(!p.completed) p.lastIndex = cur.qIndex + 1;
+  }
 }
 
 // When the grade selector changes: reset progress and start fresh for new grade
@@ -272,31 +410,41 @@ if(gradeSelectEl){
   gradeSelectEl.addEventListener('change', ()=>{
     if(!confirm('Change grade? This will reset your progress and coins for a fresh start.')){
       // revert selection to saved grade if available
-      const cur = state.current; if(cur && cur.grade) gradeSelectEl.value = String(cur.grade);
+      gradeSelectEl.value = String(state.grade);
       return;
     }
     // reset global progress
     state.coins = 0;
     state.unlocked = { basic:true, intermediate:false, advanced:false };
     state.current = null;
+    state.progress = {};
+    state.grade = parseInt(gradeSelectEl.value,10);
     saveState();
     updateHeader();
+    clearSelection();
     showMenu();
     messageEl.textContent = 'Grade changed — progress reset. Choose a subject to start new questions for the selected grade.';
   });
 }
 
+function clearSelection(){
+  lastSelected = null; lastLoadedQuestions = null;
+  document.getElementById('chapters').classList.add('hidden');
+  Array.from(subjectsEl.children).forEach(b=> b.classList.remove('selected'));
+}
+
 function showGame(){ menuEl.classList.add('hidden'); progressEl.classList.add('hidden'); gameEl.classList.remove('hidden'); messageEl.textContent=''; }
-function showMenu(){ gameEl.classList.add('hidden'); progressEl.classList.add('hidden'); menuEl.classList.remove('hidden'); }
+function showMenu(){ clearTimeout(autoNextTimer); if('speechSynthesis' in window) window.speechSynthesis.cancel(); gameEl.classList.add('hidden'); progressEl.classList.add('hidden'); menuEl.classList.remove('hidden'); }
 function showProgress(){ menuEl.classList.add('hidden'); gameEl.classList.add('hidden'); progressEl.classList.remove('hidden'); progressContent.innerHTML=''; const div=document.createElement('div'); div.innerHTML=`<p>Total Gold Coins: <strong>${state.coins}</strong></p><p>Unlocked: ${Object.keys(state.unlocked).filter(k=>state.unlocked[k]).join(', ')}</p>`; progressContent.appendChild(div); }
 
 function renderQuestion(){
+  clearTimeout(autoNextTimer); answered = false; spellInput.style.borderColor = '';
   updateHeader(); nextBtn.classList.add('hidden'); choicesEl.innerHTML=''; spellArea.classList.add('hidden'); spellInput.value=''; keyboardEl.classList.add('hidden');
   if(voiceControlsEl) voiceControlsEl.style.display = 'none';
   if(showAnswerEl) showAnswerEl.classList.add('hidden');
   if(keyboardHelpEl) keyboardHelpEl.classList.add('hidden');
   const cur = state.current; if(!cur || !cur.questions || cur.questions.length===0){ showMenu(); return; }
-  if(cur.qIndex >= cur.questions.length){ messageEl.textContent='You completed the subject! Great job!'; awardCompletion(); maybeUnlockNextLevel(cur); return; }
+  if(cur.qIndex >= cur.questions.length){ completeChapter(cur); return; }
   const q = cur.questions[cur.qIndex]; qText.textContent = `${cur.qIndex+1}. ${q.q}`;
   if(q.type === 'mcq'){
     choicesEl.classList.remove('hidden'); q.choices.forEach(c=>{ const d=document.createElement('div'); d.className='choice'; d.textContent=c; d.onclick=()=>handleMCQAnswer(q,c,d); choicesEl.appendChild(d); });
@@ -317,15 +465,21 @@ function renderQuestion(){
       if(voiceRateVal && voiceRateEl) voiceRateVal.textContent = parseFloat(voiceRateEl.value).toFixed(2);
       if(voicePitchVal && voicePitchEl) voicePitchVal.textContent = parseFloat(voicePitchEl.value).toFixed(2);
     }
-    // play the question prompt (do not speak the answer)
+    if(keyboardHelpEl && ['hindi','marathi'].includes(curSub)) keyboardHelpEl.classList.remove('hidden');
+    const voiceSelect = document.getElementById('voice-select');
+    const voice = findVoice(state.settings[curSub] && state.settings[curSub].voiceName) || getBestVoiceForSubject(curSub);
+    if(voiceSelect && voice) voiceSelect.value = voice.name || voice.voiceURI || voice.lang;
+    // play the question prompt, then the word to spell once the prompt has finished
     speak(q.q, cur.subjectId);
-    // Also play the spelling word (answer) shortly after the prompt so voices have time to initialize
-    setTimeout(()=>{ try{ speak(q.answer, cur.subjectId); }catch(e){} }, 250);
+    speak(q.answer, cur.subjectId, true);
   }
 }
 
 function handleMCQAnswer(q, chosen, el){
-  const correct = normalize(chosen) === normalize(q.answer);
+  if(answered) return;
+  finishQuestion();
+  // exact comparison: normalize() would treat "-1" and "1" as equal
+  const correct = String(chosen) === String(q.answer);
   Array.from(choicesEl.children).forEach(c=>c.onclick=null);
   if(correct){
     el.classList.add('correct');
@@ -338,7 +492,7 @@ function handleMCQAnswer(q, chosen, el){
   } else {
     el.classList.add('wrong');
     // reveal correct then auto-advance after 2 seconds
-    Array.from(choicesEl.children).forEach(c=>{ if(normalize(c.textContent)===normalize(q.answer)) c.classList.add('correct'); });
+    Array.from(choicesEl.children).forEach(c=>{ if(c.textContent===String(q.answer)) c.classList.add('correct'); });
     messageEl.textContent='Oops — that was not correct.';
     clearTimeout(autoNextTimer);
     autoNextTimer = setTimeout(()=> moveNext(), 2000);
@@ -354,44 +508,47 @@ if(showAnswerEl){
     const q = cur.questions[cur.qIndex]; if(!q) return;
     if(q.type === 'mcq'){
       // reveal correct choice visually
+      finishQuestion(); saveState();
       Array.from(choicesEl.children).forEach(c=>{
-        if(normalize(c.textContent)===normalize(q.answer)) c.classList.add('correct');
+        if(c.textContent===String(q.answer)) c.classList.add('correct');
         c.onclick = null;
       });
       messageEl.textContent = `Correct answer: ${q.answer}`;
       showAnswerEl.classList.add('hidden');
-      nextBtn.classList.remove('hidden'); nextBtn.onclick = ()=> moveNext();
+      nextBtn.classList.remove('hidden');
     } else if(q.type === 'spell'){
+      finishQuestion(); saveState();
       // insert correct spelling into input
       spellInput.value = q.answer;
       spellInput.style.borderColor = '#63c05e';
       messageEl.textContent = `Answer revealed.`;
       showAnswerEl.classList.add('hidden');
-      nextBtn.classList.remove('hidden'); nextBtn.onclick = ()=> moveNext();
+      nextBtn.classList.remove('hidden');
     }
   });
 }
 
 function moveNext(){
-  const cur = state.current; if(!cur) return;
+  clearTimeout(autoNextTimer);
+  const cur = state.current; if(!cur || cur.qIndex >= cur.questions.length) return;
   cur.qIndex += 1;
   messageEl.textContent = '';
   // persist per-chapter progress so resuming the same subject/chapter continues correctly
   if(cur.subjectId && cur.chapterNumber){
-    state.progress = state.progress || {};
-    state.progress[cur.subjectId] = state.progress[cur.subjectId] || {};
-    state.progress[cur.subjectId][`c${cur.chapterNumber}`] = { lastIndex: cur.qIndex };
+    const p = chapterProgress(cur);
+    if(!p.completed) p.lastIndex = cur.qIndex;
   }
   saveState();
   renderQuestion();
 }
 
 function handleSpellSubmit(){
-  const cur = state.current; if(!cur) return;
-  const q = cur.questions[cur.qIndex];
+  const cur = state.current; if(!cur || answered) return;
+  const q = cur.questions[cur.qIndex]; if(!q) return;
   const typed = spellInput.value.trim(); if(!typed) return;
   const correct = normalize(typed) === normalize(q.answer);
   if(correct){
+    finishQuestion();
     messageEl.textContent='Great spelling!';
     spellInput.style.borderColor = '#63c05e';
     awardCoinsForQuestion(q);
@@ -410,6 +567,7 @@ function handleSpellSubmit(){
 }
 
 function awardCoinsForQuestion(q){
+  if(state.current.chapterNumber && chapterProgress(state.current).completed) return;
   const idx = state.current.qIndex + 1;
   let reward = 5;
   if(idx >= LEVELS[2].range[0]) reward = LEVELS[2].reward;
@@ -422,24 +580,32 @@ function awardCoinsForQuestion(q){
   if(typeof playCorrectJingle === 'function'){ try{ playCorrectJingle(); }catch(e){} }
 }
 function awardCompletion(){ const bonus = 50; state.coins += bonus; messageEl.textContent += ` Bonus ${bonus} coins for finishing!`; updateHeader(); saveState(); }
+function completeChapter(cur){
+  qText.textContent = 'Chapter complete';
+  const p = chapterProgress(cur);
+  if(p.completed){ messageEl.textContent = 'Practice round complete. Well done!'; return; }
+  p.completed = true;
+  messageEl.textContent = 'You completed the chapter! Great job!';
+  awardCompletion(); maybeUnlockNextLevel(cur);
+}
 function maybeUnlockNextLevel(cur){ const total = cur.questions ? cur.questions.length : 0; if(total >= 6 && !state.unlocked.intermediate){ state.unlocked.intermediate = true; messageEl.textContent += ' You unlocked Intermediate level!'; } if(total >= 11 && !state.unlocked.advanced){ state.unlocked.advanced = true; messageEl.textContent += ' You unlocked Advanced level!'; } saveState(); }
 
-// Unicode-aware normalize: keep letters and numbers from any script
-function normalize(str){ if(!str) return ''; return String(str).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,'').trim(); }
+// Unicode-aware normalize: keep letters, vowel marks and numbers from any script
+function normalize(str){ if(!str) return ''; return String(str).normalize('NFC').toLowerCase().replace(/[^\p{L}\p{M}\p{N}]+/gu,''); }
 
 // on-screen Devanagari keyboard (improved with common conjuncts)
 function renderDevaKeyboard(subjectId){
   keyboardEl.innerHTML = '';
   const rows = [
+    ['अ','आ','इ','ई','उ','ऊ','ऋ','ए','ऐ','ओ','औ','ऑ'],
     ['क','ख','ग','घ','ङ','च','छ','ज','झ','ञ'],
     ['ट','ठ','ड','ढ','ण','त','थ','द','ध','न'],
     ['प','फ','ब','भ','म','य','र','ल','व','श'],
-    ['ष','स','ह','ळ','क्ष','त्र','ज्ञ','श्र','श्र्',''],
-    ['ा','ि','ी','ु','ू','े','ै','ो','ौ','ं'],
+    ['ष','स','ह','ळ','क्ष','त्र','ज्ञ','श्र'],
+    ['ा','ि','ी','ु','ू','ृ','े','ै','ो','ौ'],
+    ['ॅ','ॉ','ं','ँ','ः','्','़'],
     ['Space','Back','Clear']
   ];
-  // remove the placeholder weird char
-  rows[3] = rows[3].filter(x=>x!=="\u0001");
   rows.forEach(row=>{
     const rowEl = document.createElement('div'); rowEl.className='key-row';
     row.forEach(k=>{
@@ -530,13 +696,13 @@ nextBtn.onclick = moveNext;
 quitBtn.onclick = ()=>{ state.current = null; saveState(); showMenu(); };
 viewProgressBtn.onclick = showProgress;
 backToMenuBtn.onclick = ()=>{ showMenu(); };
-resetBtn.onclick = ()=>{ if(confirm('Reset all progress and coins?')){ state = { coins:0, unlocked:{ basic:true, intermediate:false, advanced:false }, current:null }; saveState(); updateHeader(); showMenu(); } };
+resetBtn.onclick = ()=>{ if(confirm('Reset all progress and coins?')){ const { grade, settings } = state; state = Object.assign(defaultState(), { grade, settings }); saveState(); updateHeader(); showMenu(); } };
 
 // Voice controls interaction
 if(voiceRateEl){ voiceRateEl.addEventListener('input', ()=>{ voiceRateVal.textContent = parseFloat(voiceRateEl.value).toFixed(2); }); }
 if(voicePitchEl){ voicePitchEl.addEventListener('input', ()=>{ voicePitchVal.textContent = parseFloat(voicePitchEl.value).toFixed(2); }); }
 
 // Init
-loadState(); makeSubjects(); updateHeader(); showMenu();
+loadState(); if(gradeSelectEl) gradeSelectEl.value = String(state.grade); makeSubjects(); updateHeader(); showMenu();
 spellInput.addEventListener('keydown',(e)=>{ if(e.key==='Enter') handleSpellSubmit(); });
 window.__KBC = { state, subjects, generateQuestions };
