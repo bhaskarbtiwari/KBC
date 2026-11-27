@@ -3,328 +3,2912 @@
     {
       "id": 1,
       "type": "mcq",
-      "q": "Night blindness is caused by lack of vitamin ___.",
+      "q": "Which sense organ do we use to observe colour?",
       "choices": [
-        "A",
-        "C",
-        "D",
-        "B"
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
       ],
-      "answer": "A"
+      "answer": "Eyes"
     },
     {
       "id": 2,
       "type": "mcq",
-      "q": "Which test uses iodine solution?",
+      "q": "Which is a good habit in a laboratory?",
       "choices": [
-        "Test for starch",
-        "Test for water",
-        "Test for fat",
-        "Test for protein"
+        "Following safety instructions",
+        "Eating near chemicals",
+        "Playing with flames",
+        "Running between tables"
       ],
-      "answer": "Test for starch"
+      "answer": "Following safety instructions"
     },
     {
       "id": 3,
       "type": "mcq",
-      "q": "A diet with all nutrients in the right amounts is a ___ diet.",
+      "q": "Why should we not taste unknown substances?",
       "choices": [
-        "heavy",
-        "liquid",
-        "strict",
-        "balanced"
+        "They are always sweet",
+        "Taste never gives information",
+        "It wastes time only",
+        "They may be harmful"
       ],
-      "answer": "balanced"
+      "answer": "They may be harmful"
     },
     {
       "id": 4,
       "type": "mcq",
-      "q": "With iodine solution, starch turns ___.",
+      "q": "Which of these is a way to record observations?",
       "choices": [
-        "yellow-green",
-        "white",
-        "blue-black",
-        "bright red"
+        "Guessing later",
+        "Forgetting them",
+        "Erasing them",
+        "Writing them in a table"
       ],
-      "answer": "blue-black"
+      "answer": "Writing them in a table"
     },
     {
       "id": 5,
       "type": "mcq",
-      "q": "Rickets is caused by lack of vitamin ___.",
+      "q": "Science usually begins with ___.",
       "choices": [
-        "K",
-        "A",
-        "D",
-        "C"
+        "curiosity and questions",
+        "copying others",
+        "memorising answers",
+        "guessing without checking"
       ],
-      "answer": "D"
+      "answer": "curiosity and questions"
     },
     {
       "id": 6,
       "type": "mcq",
-      "q": "Which nutrient gives the most energy per gram?",
+      "q": "Which question can be tested by an experiment?",
       "choices": [
-        "Protein",
-        "Water",
-        "Carbohydrate",
-        "Fat"
+        "Which colour is the nicest?",
+        "Which game is the most fun?",
+        "Does salt dissolve faster in warm water?",
+        "Is this song good?"
       ],
-      "answer": "Fat"
+      "answer": "Does salt dissolve faster in warm water?"
     },
     {
       "id": 7,
       "type": "mcq",
-      "q": "Which method separates husk from grain using wind?",
+      "q": "Which of these uses a scientific way of thinking?",
       "choices": [
-        "Evaporation",
-        "Filtration",
-        "Churning",
-        "Winnowing"
+        "Choosing without looking",
+        "Finding why a bicycle chain slips",
+        "Refusing to ask why",
+        "Believing every rumour"
       ],
-      "answer": "Winnowing"
+      "answer": "Finding why a bicycle chain slips"
     },
     {
       "id": 8,
       "type": "mcq",
-      "q": "Which method separates sand from water?",
+      "q": "If a result does not match our guess, we should ___.",
       "choices": [
-        "Filtration",
-        "Winnowing",
-        "Magnetic separation",
-        "Churning"
+        "give up science",
+        "think again and test further",
+        "hide it",
+        "change the result"
       ],
-      "answer": "Filtration"
+      "answer": "think again and test further"
     },
     {
       "id": 9,
       "type": "mcq",
-      "q": "The change of water vapour into liquid is ___.",
+      "q": "Why do scientists repeat experiments?",
       "choices": [
-        "melting",
-        "sublimation",
-        "evaporation",
-        "condensation"
+        "To use up materials",
+        "To check that results are reliable",
+        "To avoid recording",
+        "To change the question"
       ],
-      "answer": "condensation"
+      "answer": "To check that results are reliable"
     },
     {
       "id": 10,
       "type": "mcq",
-      "q": "Which material is attracted by a magnet?",
+      "q": "In a fair test, we change ___ at a time.",
       "choices": [
-        "Plastic",
-        "Rubber",
-        "Iron",
-        "Paper"
+        "as many things as possible",
+        "everything",
+        "nothing",
+        "one thing"
       ],
-      "answer": "Iron"
+      "answer": "one thing"
     },
     {
       "id": 11,
       "type": "mcq",
-      "q": "Salt is obtained from sea water by ___.",
+      "q": "What we decide after studying results is the ___.",
       "choices": [
-        "sieving",
-        "handpicking",
-        "evaporation",
-        "threshing"
+        "question",
+        "hypothesis list",
+        "conclusion",
+        "apparatus"
       ],
-      "answer": "evaporation"
+      "answer": "conclusion"
     },
     {
       "id": 12,
       "type": "mcq",
-      "q": "Which material is transparent?",
+      "q": "A statement of what we think will happen is a ___.",
       "choices": [
-        "Iron sheet",
-        "Cardboard",
-        "Wood",
-        "Clear glass"
+        "measurement",
+        "prediction",
+        "conclusion from data",
+        "decoration"
       ],
-      "answer": "Clear glass"
+      "answer": "prediction"
     },
     {
       "id": 13,
       "type": "mcq",
-      "q": "Light travels in ___.",
+      "q": "Science helps us to understand ___.",
       "choices": [
-        "zig-zag paths",
-        "straight lines",
-        "circles",
-        "spirals"
+        "only stars",
+        "only machines",
+        "nothing in daily life",
+        "the world around us"
       ],
-      "answer": "straight lines"
+      "answer": "the world around us"
     },
     {
       "id": 14,
       "type": "mcq",
-      "q": "A shadow forms when light is blocked by an ___ object.",
+      "q": "Carefully noticing things using our senses is called ___.",
       "choices": [
-        "opaque",
-        "transparent",
-        "invisible",
-        "empty"
+        "imagination",
+        "translation",
+        "decoration",
+        "observation"
       ],
-      "answer": "opaque"
+      "answer": "observation"
     },
     {
       "id": 15,
       "type": "mcq",
-      "q": "Which of these is a conductor of electricity?",
+      "q": "After an experiment, we should ___.",
       "choices": [
-        "Copper",
-        "Wood",
-        "Plastic",
-        "Rubber"
+        "guess the outcome",
+        "change the results",
+        "throw away the notes",
+        "record and study the results"
       ],
-      "answer": "Copper"
+      "answer": "record and study the results"
     },
     {
       "id": 16,
       "type": "mcq",
-      "q": "A device used to open or close a circuit is a ___.",
+      "q": "What do we do to test an idea in science?",
       "choices": [
-        "switch",
-        "bulb",
-        "cell",
-        "fuse wire holder"
+        "Vote on it",
+        "Perform an experiment",
+        "Ignore it",
+        "Paint it"
       ],
-      "answer": "switch"
+      "answer": "Perform an experiment"
     },
     {
       "id": 17,
       "type": "mcq",
-      "q": "Which of these is a luminous object?",
+      "q": "Sharing findings with others helps them to ___.",
       "choices": [
-        "Mirror",
-        "Moon",
-        "Table",
-        "Sun"
+        "forget the work",
+        "stop experimenting",
+        "check and build on the work",
+        "avoid thinking"
       ],
-      "answer": "Sun"
+      "answer": "check and build on the work"
     },
     {
       "id": 18,
       "type": "mcq",
-      "q": "Like poles of two magnets ___ each other.",
+      "q": "A person who studies nature using careful methods is a ___.",
       "choices": [
-        "repel",
-        "melt",
-        "attract",
-        "ignore"
+        "umpire",
+        "magician",
+        "poet",
+        "scientist"
       ],
-      "answer": "repel"
+      "answer": "scientist"
     },
     {
       "id": 19,
       "type": "mcq",
+      "q": "A possible explanation that can be tested is a ___.",
+      "choices": [
+        "result",
+        "diagram",
+        "hypothesis",
+        "unit"
+      ],
+      "answer": "hypothesis"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "q": "The first step in finding out something is often to ___.",
+      "choices": [
+        "stop looking",
+        "announce the answer",
+        "copy a result",
+        "ask a question"
+      ],
+      "answer": "ask a question"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "q": "Cactus stems are fleshy mainly to ___.",
+      "choices": [
+        "attract bees",
+        "catch fish",
+        "float",
+        "store water"
+      ],
+      "answer": "store water"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "q": "A feature that helps a living thing survive in its surroundings is an ___.",
+      "choices": [
+        "accident",
+        "adoption",
+        "adaptation",
+        "illusion"
+      ],
+      "answer": "adaptation"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "q": "Grass leaves usually show ___ venation.",
+      "choices": [
+        "zig-zag",
+        "net-like",
+        "reticulate",
+        "parallel"
+      ],
+      "answer": "parallel"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "q": "Grouping living things by common features is called ___.",
+      "choices": [
+        "migration",
+        "condensation",
+        "germination",
+        "classification"
+      ],
+      "answer": "classification"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "q": "Which of these is a climber?",
+      "choices": [
+        "Wheat",
+        "Mango",
+        "Rose",
+        "Money plant"
+      ],
+      "answer": "Money plant"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "q": "Medium-sized plants with several woody stems near the ground are ___.",
+      "choices": [
+        "algae",
+        "herbs",
+        "trees",
+        "shrubs"
+      ],
+      "answer": "shrubs"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which of these is a monocot?",
+      "choices": [
+        "Maize",
+        "Bean",
+        "Gram",
+        "Pea"
+      ],
+      "answer": "Maize"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Plants with soft, green stems that are usually small are ___.",
+      "choices": [
+        "trees",
+        "herbs",
+        "shrubs",
+        "climbers only"
+      ],
+      "answer": "herbs"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "A plant that spreads along the ground with a weak stem is a ___.",
+      "choices": [
+        "tree",
+        "cactus",
+        "shrub",
+        "creeper"
+      ],
+      "answer": "creeper"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "A plant with one thick main root and smaller side roots has a ___ root.",
+      "choices": [
+        "tap",
+        "aerial",
+        "fibrous",
+        "prop only"
+      ],
+      "answer": "tap"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which habitat is a camel suited to?",
+      "choices": [
+        "Polar sea",
+        "Desert",
+        "Deep ocean",
+        "Pond bottom"
+      ],
+      "answer": "Desert"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Seeds with two cotyledons are called ___.",
+      "choices": [
+        "spore",
+        "bud",
+        "dicot",
+        "monocot"
+      ],
+      "answer": "dicot"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Wheat has which type of root?",
+      "choices": [
+        "No root",
+        "Fibrous root",
+        "Storage tap root",
+        "Tap root"
+      ],
+      "answer": "Fibrous root"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "A leaf with net-like veins shows ___ venation.",
+      "choices": [
+        "circular",
+        "no",
+        "reticulate",
+        "parallel"
+      ],
+      "answer": "reticulate"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "A fish’s streamlined body helps it to ___.",
+      "choices": [
+        "climb trees",
+        "move easily through water",
+        "fly",
+        "store sand"
+      ],
+      "answer": "move easily through water"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Plants with a hard, thick, woody trunk are ___.",
+      "choices": [
+        "trees",
+        "herbs",
+        "grasses",
+        "creepers"
+      ],
+      "answer": "trees"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which animal lives mainly in water?",
+      "choices": [
+        "Camel",
+        "Goat",
+        "Eagle",
+        "Fish"
+      ],
+      "answer": "Fish"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which is a terrestrial habitat?",
+      "choices": [
+        "Lake",
+        "Ocean",
+        "River",
+        "Forest"
+      ],
+      "answer": "Forest"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "The place where an organism naturally lives is its ___.",
+      "choices": [
+        "habitat",
+        "family",
+        "adaptation",
+        "diet"
+      ],
+      "answer": "habitat"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "The variety of living things in a region is its ___.",
+      "choices": [
+        "altitude",
+        "biodiversity",
+        "latitude",
+        "temperature"
+      ],
+      "answer": "biodiversity"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "The distance food travels from farm to plate is called food ___.",
+      "choices": [
+        "label",
+        "group",
+        "chain",
+        "miles"
+      ],
+      "answer": "miles"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which food is mainly rich in fats?",
+      "choices": [
+        "Watermelon",
+        "Spinach",
+        "Groundnut oil",
+        "Rice water"
+      ],
+      "answer": "Groundnut oil"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which nutrients protect us against diseases?",
+      "choices": [
+        "Sugar and salt",
+        "Water only",
+        "Fats only",
+        "Vitamins and minerals"
+      ],
+      "answer": "Vitamins and minerals"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Lack of vitamin A can cause ___.",
+      "choices": [
+        "scurvy",
+        "goitre",
+        "beri-beri",
+        "night blindness"
+      ],
+      "answer": "night blindness"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Eating food grown nearby and in season can ___.",
+      "choices": [
+        "remove all nutrients",
+        "make food stale",
+        "reduce the distance food travels",
+        "increase junk food"
+      ],
+      "answer": "reduce the distance food travels"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "A diet with the right amount of every nutrient is a ___ diet.",
+      "choices": [
+        "balanced",
+        "single-food",
+        "junk",
+        "liquid"
+      ],
+      "answer": "balanced"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which is a good source of vitamin C?",
+      "choices": [
+        "Rice",
+        "Sugar",
+        "Ghee",
+        "Amla"
+      ],
+      "answer": "Amla"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which nutrients are the main sources of energy?",
+      "choices": [
+        "Vitamins and minerals",
+        "Water and roughage",
+        "Salt and water",
+        "Carbohydrates and fats"
+      ],
+      "answer": "Carbohydrates and fats"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Grains such as ragi, bajra and jowar are called ___.",
+      "choices": [
+        "oilseeds",
+        "millets",
+        "pulses",
+        "spices"
+      ],
+      "answer": "millets"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which nutrient is mainly needed for growth and repair?",
+      "choices": [
+        "Fats",
+        "Water",
+        "Roughage",
+        "Proteins"
+      ],
+      "answer": "Proteins"
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "q": "Foods high in sugar, salt and fat but low in nutrients are called ___ foods.",
+      "choices": [
+        "junk",
+        "body-building",
+        "whole",
+        "protective"
+      ],
+      "answer": "junk"
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "q": "Lack of iron can cause ___.",
+      "choices": [
+        "anaemia",
+        "scurvy",
+        "goitre",
+        "rickets"
+      ],
+      "answer": "anaemia"
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "q": "An oily patch on paper shows that food contains ___.",
+      "choices": [
+        "water only",
+        "starch",
+        "roughage",
+        "fat"
+      ],
+      "answer": "fat"
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "q": "Which nutrient is needed along with vitamin D for strong bones?",
+      "choices": [
+        "Roughage",
+        "Starch",
+        "Calcium",
+        "Sugar"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "q": "Which test shows the presence of starch?",
+      "choices": [
+        "Iodine test",
+        "Litmus test",
+        "Magnet test",
+        "Flame colour of water"
+      ],
+      "answer": "Iodine test"
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "q": "Lack of vitamin C causes ___.",
+      "choices": [
+        "rickets",
+        "scurvy",
+        "goitre",
+        "night blindness"
+      ],
+      "answer": "scurvy"
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "q": "Roughage mainly helps to ___.",
+      "choices": [
+        "give quick energy",
+        "improve eyesight",
+        "build muscles",
+        "remove undigested food"
+      ],
+      "answer": "remove undigested food"
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "q": "Which food is rich in protein?",
+      "choices": [
+        "Pulses",
+        "Ghee",
+        "Sugar",
+        "Cucumber"
+      ],
+      "answer": "Pulses"
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "q": "Which food is mainly rich in carbohydrates?",
+      "choices": [
+        "Oil",
+        "Egg white",
+        "Rice",
+        "Paneer"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "q": "Lack of iodine can cause ___.",
+      "choices": [
+        "scurvy",
+        "rickets",
+        "anaemia",
+        "goitre"
+      ],
+      "answer": "goitre"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "Iron filings cling most near the ___ of a bar magnet.",
+      "choices": [
+        "poles",
+        "paint",
+        "middle",
+        "label"
+      ],
+      "answer": "poles"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "The surest test that an object is a magnet is ___.",
+      "choices": [
+        "its colour",
+        "its weight",
+        "attraction of iron only",
+        "repulsion with another magnet"
+      ],
+      "answer": "repulsion with another magnet"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "Which everyday item often uses a magnet?",
+      "choices": [
+        "Refrigerator door",
+        "Cotton towel",
+        "Wooden spoon",
+        "Glass tumbler"
+      ],
+      "answer": "Refrigerator door"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "Can a single magnetic pole be obtained by cutting a magnet?",
+      "choices": [
+        "No",
+        "Yes, if it is large",
+        "Yes, if cut in the middle",
+        "Yes, always"
+      ],
+      "answer": "No"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "Which instrument uses a magnetic needle to show direction?",
+      "choices": [
+        "Compass",
+        "Thermometer",
+        "Stopwatch",
+        "Barometer"
+      ],
+      "answer": "Compass"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "Which can damage a magnet?",
+      "choices": [
+        "Storing it with keepers",
+        "Keeping it still",
+        "Heating it strongly",
+        "Wrapping it in paper"
+      ],
+      "answer": "Heating it strongly"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "Which shape of magnet looks like the letter U?",
+      "choices": [
+        "Ring magnet",
+        "Bar magnet",
+        "Horseshoe magnet",
+        "Disc magnet"
+      ],
+      "answer": "Horseshoe magnet"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "Like poles of two magnets ___.",
+      "choices": [
+        "repel",
+        "melt",
+        "attract",
+        "stick firmly"
+      ],
+      "answer": "repel"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Which of these is attracted by a magnet?",
+      "choices": [
+        "Iron",
+        "Plastic",
+        "Wood",
+        "Glass"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "The end of a freely hanging magnet that points north is the ___ pole.",
+      "choices": [
+        "north",
+        "east",
+        "neutral",
+        "south"
+      ],
+      "answer": "north"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "A freely hanging magnet comes to rest along the ___ direction.",
+      "choices": [
+        "north-south",
+        "up-down",
+        "north-east only",
+        "east-west"
+      ],
+      "answer": "north-south"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "The needle of a compass is a small ___.",
+      "choices": [
+        "thermometer",
+        "spring",
+        "mirror",
+        "magnet"
+      ],
+      "answer": "magnet"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "A natural magnet is called ___.",
+      "choices": [
+        "marble",
+        "limestone",
+        "lodestone",
+        "sandstone"
+      ],
+      "answer": "lodestone"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Unlike poles of two magnets ___.",
+      "choices": [
+        "repel",
+        "melt",
+        "cancel their shape",
+        "attract"
+      ],
+      "answer": "attract"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "The two ends where a magnet’s pull is strongest are its ___.",
+      "choices": [
+        "corners of the box",
+        "poles",
+        "fields of wire",
+        "centres"
+      ],
+      "answer": "poles"
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "q": "Can a magnet attract an iron pin through thin cardboard?",
+      "choices": [
+        "Only in the dark",
+        "Only if the pin is wet",
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "q": "Which of these is NOT attracted by a magnet?",
+      "choices": [
+        "Iron",
+        "Nickel",
+        "Rubber",
+        "Cobalt"
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "q": "Materials attracted to a magnet are called ___ materials.",
+      "choices": [
+        "magnetic",
+        "soluble",
+        "transparent",
+        "insulating"
+      ],
+      "answer": "magnetic"
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "q": "A magnet broken into two pieces gives ___.",
+      "choices": [
+        "two magnets, each with two poles",
+        "two pieces with no poles",
+        "one north and one south piece",
+        "one magnet and one wood"
+      ],
+      "answer": "two magnets, each with two poles"
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "q": "Sailors long ago used magnets mainly to ___.",
+      "choices": [
+        "cook food",
+        "measure time",
+        "weigh goods",
+        "find directions"
+      ],
+      "answer": "find directions"
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "q": "An object whose position changes with time is in ___.",
+      "choices": [
+        "equilibrium of colour",
+        "motion",
+        "balance",
+        "rest"
+      ],
+      "answer": "motion"
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "q": "The motion of an apple falling straight down is ___ motion.",
+      "choices": [
+        "oscillatory",
+        "linear",
+        "circular",
+        "rotational only"
+      ],
+      "answer": "linear"
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "q": "Which unit suits the distance between two cities?",
+      "choices": [
+        "Micrometre",
+        "Kilometre",
+        "Centimetre",
+        "Millimetre"
+      ],
+      "answer": "Kilometre"
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "q": "5 kilometres equals ___ metres.",
+      "choices": [
+        "5000",
+        "500",
+        "50",
+        "50000"
+      ],
+      "answer": "5000"
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "q": "3 metres equals ___ centimetres.",
+      "choices": [
+        "3000",
+        "3",
+        "30",
+        "300"
+      ],
+      "answer": "300"
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "q": "1 kilometre equals ___ metres.",
+      "choices": [
+        "10",
+        "10000",
+        "1000",
+        "100"
+      ],
+      "answer": "1000"
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "q": "The to-and-fro motion of a swing is ___ motion.",
+      "choices": [
+        "oscillatory",
+        "circular",
+        "random",
+        "linear"
+      ],
+      "answer": "oscillatory"
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "q": "1 metre equals ___ centimetres.",
+      "choices": [
+        "100",
+        "10",
+        "60",
+        "1000"
+      ],
+      "answer": "100"
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "q": "A passenger sitting in a moving bus is at rest with respect to the ___.",
+      "choices": [
+        "trees",
+        "road",
+        "bus stop",
+        "bus"
+      ],
+      "answer": "bus"
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "q": "The use of hand spans as units is unreliable because hand sizes ___.",
+      "choices": [
+        "differ",
+        "are standard",
+        "are equal",
+        "never change"
+      ],
+      "answer": "differ"
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "q": "While reading a ruler, the eye should be ___ the mark.",
+      "choices": [
+        "far to the right of",
+        "far to the left of",
+        "directly above",
+        "behind"
+      ],
+      "answer": "directly above"
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "q": "The motion of a train on a straight track is ___ motion.",
+      "choices": [
+        "linear",
+        "circular",
+        "periodic",
+        "oscillatory"
+      ],
+      "answer": "linear"
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "q": "Motion that repeats after equal intervals of time is ___ motion.",
+      "choices": [
+        "random",
+        "periodic",
+        "sudden",
+        "linear only"
+      ],
+      "answer": "periodic"
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "q": "1 centimetre equals ___ millimetres.",
+      "choices": [
+        "1000",
+        "10",
+        "100",
+        "5"
+      ],
+      "answer": "10"
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "q": "The motion of the tip of a clock hand is ___ motion.",
+      "choices": [
+        "linear",
+        "circular",
+        "no",
+        "random"
+      ],
+      "answer": "circular"
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "q": "Which unit suits the thickness of a coin?",
+      "choices": [
+        "Light year",
+        "Millimetre",
+        "Metre",
+        "Kilometre"
+      ],
+      "answer": "Millimetre"
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "q": "The fixed point used to describe an object’s position is the ___ point.",
+      "choices": [
+        "boiling",
+        "reference",
+        "melting",
+        "turning"
+      ],
+      "answer": "reference"
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "q": "SI stands for the international system of ___.",
+      "choices": [
+        "units",
+        "islands",
+        "inventions",
+        "insects"
+      ],
+      "answer": "units"
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "q": "Which tool suits measuring around a tree trunk?",
+      "choices": [
+        "Stopwatch",
+        "Measuring tape",
+        "Thermometer",
+        "Rigid plastic ruler"
+      ],
+      "answer": "Measuring tape"
+    },
+    {
+      "id": 100,
+      "type": "mcq",
       "q": "The SI unit of length is the ___.",
       "choices": [
-        "metre",
         "litre",
-        "gram",
+        "metre",
+        "kilogram",
         "second"
       ],
       "answer": "metre"
     },
     {
-      "id": 20,
+      "id": 101,
       "type": "mcq",
-      "q": "The soft, flexible material at the tip of the nose is ___.",
+      "q": "The amount of matter in an object is its ___.",
       "choices": [
-        "muscle fibre only",
-        "cartilage",
-        "enamel",
-        "bone"
+        "mass",
+        "temperature",
+        "volume",
+        "length"
       ],
-      "answer": "cartilage"
+      "answer": "mass"
     },
     {
-      "id": 21,
+      "id": 102,
       "type": "mcq",
-      "q": "The natural home of an organism is its ___.",
+      "q": "Which of these is hard?",
       "choices": [
-        "diet",
-        "organ",
-        "species chart",
-        "habitat"
+        "Iron",
+        "Cotton",
+        "Sponge",
+        "Butter"
       ],
-      "answer": "habitat"
+      "answer": "Iron"
     },
     {
-      "id": 22,
+      "id": 103,
       "type": "mcq",
-      "q": "The loss of water vapour from leaves is called ___.",
+      "q": "Which of these is opaque?",
+      "choices": [
+        "Clear glass",
+        "Clean water",
+        "Wooden board",
+        "Air"
+      ],
+      "answer": "Wooden board"
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "q": "Why are handles of pans often made of wood or plastic?",
+      "choices": [
+        "They conduct heat poorly",
+        "They are magnetic",
+        "They are transparent",
+        "They melt easily"
+      ],
+      "answer": "They conduct heat poorly"
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "q": "A shiny surface on freshly cut metal is called ___.",
+      "choices": [
+        "hardness",
+        "density",
+        "lustre",
+        "solubility"
+      ],
+      "answer": "lustre"
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "q": "Anything that occupies space and has mass is ___.",
+      "choices": [
+        "sound",
+        "matter",
+        "shadow",
+        "light"
+      ],
+      "answer": "matter"
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "q": "Frosted glass is ___.",
+      "choices": [
+        "transparent",
+        "translucent",
+        "soluble",
+        "opaque"
+      ],
+      "answer": "translucent"
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "q": "Which material is commonly used for cooking vessels?",
+      "choices": [
+        "Steel",
+        "Wax",
+        "Paper",
+        "Rubber"
+      ],
+      "answer": "Steel"
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "q": "Grouping objects with similar properties is called ___.",
+      "choices": [
+        "condensation",
+        "filtration",
+        "classification",
+        "evaporation"
+      ],
+      "answer": "classification"
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "q": "Which substance dissolves in water?",
+      "choices": [
+        "Sawdust",
+        "Sugar",
+        "Chalk powder",
+        "Sand"
+      ],
+      "answer": "Sugar"
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "q": "Which of these is soft?",
+      "choices": [
+        "Cotton",
+        "Stone",
+        "Iron",
+        "Glass"
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "q": "Which of these has lustre?",
+      "choices": [
+        "Chalk",
+        "Gold",
+        "Cloth",
+        "Wood"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "q": "Butter paper is an example of a ___ material.",
+      "choices": [
+        "translucent",
+        "opaque",
+        "transparent",
+        "magnetic"
+      ],
+      "answer": "translucent"
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "q": "The same material can be used to make ___.",
+      "choices": [
+        "many different objects",
+        "only toys",
+        "only one object",
+        "no object"
+      ],
+      "answer": "many different objects"
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "q": "Which of these usually floats on water?",
+      "choices": [
+        "Wooden block",
+        "Stone",
+        "Iron nail",
+        "Coin"
+      ],
+      "answer": "Wooden block"
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "q": "The space taken up by an object is its ___.",
+      "choices": [
+        "mass",
+        "hardness",
+        "lustre",
+        "volume"
+      ],
+      "answer": "volume"
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "q": "Which property lets us see through window panes?",
+      "choices": [
+        "Transparency",
+        "Hardness",
+        "Solubility",
+        "Lustre"
+      ],
+      "answer": "Transparency"
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "q": "Which of these does not dissolve in water?",
+      "choices": [
+        "Glucose",
+        "Sand",
+        "Sugar",
+        "Salt"
+      ],
+      "answer": "Sand"
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "q": "A material through which we can see clearly is ___.",
+      "choices": [
+        "insoluble",
+        "opaque",
+        "translucent",
+        "transparent"
+      ],
+      "answer": "transparent"
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "q": "Which liquid does not mix with water?",
+      "choices": [
+        "Lemon juice",
+        "Oil",
+        "Milk",
+        "Vinegar"
+      ],
+      "answer": "Oil"
+    },
+    {
+      "id": 121,
+      "type": "mcq",
+      "q": "The normal temperature of the human body is about ___.",
+      "choices": [
+        "47°C",
+        "37°C",
+        "27°C",
+        "100°C"
+      ],
+      "answer": "37°C"
+    },
+    {
+      "id": 122,
+      "type": "mcq",
+      "q": "The usual range of a clinical thermometer is about ___.",
+      "choices": [
+        "0°C to 100°C",
+        "50°C to 90°C",
+        "35°C to 42°C",
+        "-10°C to 110°C"
+      ],
+      "answer": "35°C to 42°C"
+    },
+    {
+      "id": 123,
+      "type": "mcq",
+      "q": "Pure water freezes at ___.",
+      "choices": [
+        "100°C",
+        "0°C",
+        "32°C",
+        "10°C"
+      ],
+      "answer": "0°C"
+    },
+    {
+      "id": 124,
+      "type": "mcq",
+      "q": "Water boils at about ___ at sea level.",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "37°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "q": "A thermometer used to measure body temperature is a ___ thermometer.",
+      "choices": [
+        "oven",
+        "laboratory",
+        "room",
+        "clinical"
+      ],
+      "answer": "clinical"
+    },
+    {
+      "id": 126,
+      "type": "mcq",
+      "q": "Which is the hottest?",
+      "choices": [
+        "Tap water",
+        "Boiling water",
+        "Ice",
+        "Room air in winter"
+      ],
+      "answer": "Boiling water"
+    },
+    {
+      "id": 127,
+      "type": "mcq",
+      "q": "A digital thermometer shows the reading as ___.",
+      "choices": [
+        "a liquid column only",
+        "numbers on a screen",
+        "a sound pitch only",
+        "a colour of paper"
+      ],
+      "answer": "numbers on a screen"
+    },
+    {
+      "id": 128,
+      "type": "mcq",
+      "q": "The SI unit of temperature is the ___.",
+      "choices": [
+        "joule",
+        "fahrenheit",
+        "celsius",
+        "kelvin"
+      ],
+      "answer": "kelvin"
+    },
+    {
+      "id": 129,
+      "type": "mcq",
+      "q": "Why is touch unreliable for judging temperature?",
+      "choices": [
+        "It measures in kelvin",
+        "It can be misled by what we touched before",
+        "It works only on metals",
+        "It is always exact"
+      ],
+      "answer": "It can be misled by what we touched before"
+    },
+    {
+      "id": 130,
+      "type": "mcq",
+      "q": "A laboratory thermometer usually ranges from about ___.",
+      "choices": [
+        "200°C to 500°C",
+        "90°C to 95°C",
+        "35°C to 42°C",
+        "-10°C to 110°C"
+      ],
+      "answer": "-10°C to 110°C"
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "q": "Which should not be measured with a clinical thermometer?",
+      "choices": [
+        "Body in the armpit",
+        "A mild fever",
+        "Body under the tongue",
+        "Boiling water"
+      ],
+      "answer": "Boiling water"
+    },
+    {
+      "id": 132,
+      "type": "mcq",
+      "q": "Which temperature is written on the Fahrenheit scale for boiling water?",
+      "choices": [
+        "100°F",
+        "180°F",
+        "212°F",
+        "32°F"
+      ],
+      "answer": "212°F"
+    },
+    {
+      "id": 133,
+      "type": "mcq",
+      "q": "100°C is equal to about ___.",
+      "choices": [
+        "212 K",
+        "100 K",
+        "373 K",
+        "273 K"
+      ],
+      "answer": "373 K"
+    },
+    {
+      "id": 134,
+      "type": "mcq",
+      "q": "Which device measures temperature?",
+      "choices": [
+        "Balance",
+        "Barometer",
+        "Ruler",
+        "Thermometer"
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "id": 135,
+      "type": "mcq",
+      "q": "A body temperature of 39°C suggests ___.",
+      "choices": [
+        "fever",
+        "normal health",
+        "boiling",
+        "freezing"
+      ],
+      "answer": "fever"
+    },
+    {
+      "id": 136,
+      "type": "mcq",
+      "q": "Temperature tells us how ___ a body is.",
+      "choices": [
+        "hot or cold",
+        "bright or dull",
+        "long or short",
+        "heavy or light"
+      ],
+      "answer": "hot or cold"
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "q": "A clinical thermometer should be cleaned ___.",
+      "choices": [
+        "only if broken",
+        "once a year",
+        "before and after use",
+        "never"
+      ],
+      "answer": "before and after use"
+    },
+    {
+      "id": 138,
+      "type": "mcq",
+      "q": "The symbol °C stands for degree ___.",
+      "choices": [
+        "Circle",
+        "Calorie",
+        "Celsius",
+        "Centimetre"
+      ],
+      "answer": "Celsius"
+    },
+    {
+      "id": 139,
+      "type": "mcq",
+      "q": "0°C is equal to about ___.",
+      "choices": [
+        "100 K",
+        "373 K",
+        "0 K",
+        "273 K"
+      ],
+      "answer": "273 K"
+    },
+    {
+      "id": 140,
+      "type": "mcq",
+      "q": "While reading a laboratory thermometer, hold it ___.",
+      "choices": [
+        "upside down",
+        "horizontal under water only",
+        "by the bulb",
+        "upright"
+      ],
+      "answer": "upright"
+    },
+    {
+      "id": 141,
+      "type": "mcq",
+      "q": "Ice floats on water because ice is ___ than water.",
+      "choices": [
+        "hotter",
+        "more dense",
+        "less dense",
+        "saltier"
+      ],
+      "answer": "less dense"
+    },
+    {
+      "id": 142,
+      "type": "mcq",
+      "q": "Dew seen on grass in the morning is due to ___.",
+      "choices": [
+        "rain only",
+        "boiling",
+        "melting",
+        "condensation"
+      ],
+      "answer": "condensation"
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "q": "Liquid water takes the shape of its ___.",
+      "choices": [
+        "container",
+        "label",
+        "ice cube always",
+        "vapour"
+      ],
+      "answer": "container"
+    },
+    {
+      "id": 144,
+      "type": "mcq",
+      "q": "When water freezes, it ___.",
+      "choices": [
+        "disappears",
+        "expands",
+        "becomes lighter in mass by half",
+        "turns to gas"
+      ],
+      "answer": "expands"
+    },
+    {
+      "id": 145,
+      "type": "mcq",
+      "q": "The Sun’s heat helps water from seas to ___.",
+      "choices": [
+        "become soil",
+        "evaporate",
+        "turn to metal",
+        "freeze"
+      ],
+      "answer": "evaporate"
+    },
+    {
+      "id": 146,
+      "type": "mcq",
+      "q": "The movement of water between the Earth and the atmosphere is the ___.",
+      "choices": [
+        "rock cycle",
+        "water cycle",
+        "life cycle",
+        "food chain"
+      ],
+      "answer": "water cycle"
+    },
+    {
+      "id": 147,
+      "type": "mcq",
+      "q": "The change of water into vapour is ___.",
+      "choices": [
+        "evaporation",
+        "condensation",
+        "melting",
+        "freezing"
+      ],
+      "answer": "evaporation"
+    },
+    {
+      "id": 148,
+      "type": "mcq",
+      "q": "Water drops on the outside of a cold glass form by ___.",
+      "choices": [
+        "condensation",
+        "evaporation",
+        "melting",
+        "leaking through glass"
+      ],
+      "answer": "condensation"
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "q": "Water falling as rain, snow or hail is called ___.",
+      "choices": [
+        "transpiration",
+        "precipitation",
+        "sedimentation",
+        "sublimation only"
+      ],
+      "answer": "precipitation"
+    },
+    {
+      "id": 150,
+      "type": "mcq",
+      "q": "The change of liquid water into ice is ___.",
+      "choices": [
+        "melting",
+        "freezing",
+        "condensation",
+        "evaporation"
+      ],
+      "answer": "freezing"
+    },
+    {
+      "id": 151,
+      "type": "mcq",
+      "q": "Wet clothes dry faster on a ___ day.",
+      "choices": [
+        "foggy",
+        "rainy",
+        "cold and humid",
+        "sunny and windy"
+      ],
+      "answer": "sunny and windy"
+    },
+    {
+      "id": 152,
+      "type": "mcq",
+      "q": "The change of ice into water is ___.",
+      "choices": [
+        "boiling",
+        "melting",
+        "freezing",
+        "condensation"
+      ],
+      "answer": "melting"
+    },
+    {
+      "id": 153,
+      "type": "mcq",
+      "q": "Water kept in an earthen pot becomes cool because of ___.",
+      "choices": [
+        "evaporation",
+        "freezing",
+        "melting",
+        "magnetism"
+      ],
+      "answer": "evaporation"
+    },
+    {
+      "id": 154,
+      "type": "mcq",
+      "q": "Spreading wet clothes out helps them dry because ___.",
+      "choices": [
+        "air stops moving",
+        "water freezes",
+        "more surface is exposed",
+        "they become heavier"
+      ],
+      "answer": "more surface is exposed"
+    },
+    {
+      "id": 155,
+      "type": "mcq",
+      "q": "Which increases the rate of evaporation?",
+      "choices": [
+        "Covering the dish",
+        "Higher humidity",
+        "Lower temperature",
+        "Greater exposed area"
+      ],
+      "answer": "Greater exposed area"
+    },
+    {
+      "id": 156,
+      "type": "mcq",
+      "q": "Water vapour is ___.",
+      "choices": [
+        "blue",
+        "solid",
+        "heavier than ice cubes",
+        "invisible"
+      ],
+      "answer": "invisible"
+    },
+    {
+      "id": 157,
+      "type": "mcq",
+      "q": "Clouds are formed mainly by ___ of water vapour.",
+      "choices": [
+        "evaporation",
+        "melting",
+        "condensation",
+        "filtration"
+      ],
+      "answer": "condensation"
+    },
+    {
+      "id": 158,
+      "type": "mcq",
+      "q": "The solid state of water is ___.",
+      "choices": [
+        "dew",
+        "ice",
+        "vapour",
+        "steam"
+      ],
+      "answer": "ice"
+    },
+    {
+      "id": 159,
+      "type": "mcq",
+      "q": "Which state of water has a fixed shape?",
+      "choices": [
+        "Ice",
+        "Steam",
+        "Water vapour",
+        "Liquid water"
+      ],
+      "answer": "Ice"
+    },
+    {
+      "id": 160,
+      "type": "mcq",
+      "q": "The three states of water are solid, liquid and ___.",
+      "choices": [
+        "metal",
+        "plasma jelly",
+        "gas",
+        "powder"
+      ],
+      "answer": "gas"
+    },
+    {
+      "id": 161,
+      "type": "mcq",
+      "q": "Separating grain from stalks is called ___.",
+      "choices": [
+        "threshing",
+        "sieving",
+        "winnowing",
+        "churning"
+      ],
+      "answer": "threshing"
+    },
+    {
+      "id": 162,
+      "type": "mcq",
+      "q": "Salt dissolved in water cannot be separated by ___.",
       "choices": [
         "filtration",
-        "germination",
+        "evaporation",
+        "boiling away water",
+        "solar drying"
+      ],
+      "answer": "filtration"
+    },
+    {
+      "id": 163,
+      "type": "mcq",
+      "q": "Butter is separated from curd by ___.",
+      "choices": [
+        "churning",
+        "winnowing",
+        "handpicking",
+        "filtration"
+      ],
+      "answer": "churning"
+    },
+    {
+      "id": 164,
+      "type": "mcq",
+      "q": "Oil and water can be separated because they ___.",
+      "choices": [
+        "are both solids",
+        "form separate layers",
+        "are both magnetic",
+        "dissolve fully"
+      ],
+      "answer": "form separate layers"
+    },
+    {
+      "id": 165,
+      "type": "mcq",
+      "q": "Pouring off clear water after soil settles is ___.",
+      "choices": [
+        "sedimentation",
+        "decantation",
+        "threshing",
+        "evaporation"
+      ],
+      "answer": "decantation"
+    },
+    {
+      "id": 166,
+      "type": "mcq",
+      "q": "Iron pins are separated from sawdust using a ___.",
+      "choices": [
+        "funnel",
+        "sieve of cloth",
+        "magnet",
+        "thermometer"
+      ],
+      "answer": "magnet"
+    },
+    {
+      "id": 167,
+      "type": "mcq",
+      "q": "Iron scrap is picked from waste heaps using ___.",
+      "choices": [
+        "large magnets",
+        "winnowing baskets",
+        "sieves of cloth",
+        "filter paper"
+      ],
+      "answer": "large magnets"
+    },
+    {
+      "id": 168,
+      "type": "mcq",
+      "q": "Salt is obtained from sea water by ___.",
+      "choices": [
+        "sieving",
+        "evaporation",
+        "magnetic separation",
+        "handpicking"
+      ],
+      "answer": "evaporation"
+    },
+    {
+      "id": 169,
+      "type": "mcq",
+      "q": "Handpicking works best when unwanted pieces are ___.",
+      "choices": [
+        "microscopic",
+        "liquids",
+        "few and large enough to see",
+        "dissolved"
+      ],
+      "answer": "few and large enough to see"
+    },
+    {
+      "id": 170,
+      "type": "mcq",
+      "q": "Removing small stones from rice by hand is ___.",
+      "choices": [
+        "filtration",
+        "churning",
+        "handpicking",
+        "evaporation"
+      ],
+      "answer": "handpicking"
+    },
+    {
+      "id": 171,
+      "type": "mcq",
+      "q": "Which comes first when cleaning muddy water by settling?",
+      "choices": [
+        "Decantation",
+        "Condensation",
+        "Drinking",
+        "Sedimentation"
+      ],
+      "answer": "Sedimentation"
+    },
+    {
+      "id": 172,
+      "type": "mcq",
+      "q": "Letting heavy particles settle at the bottom is ___.",
+      "choices": [
+        "winnowing",
+        "churning",
+        "sedimentation",
+        "condensation"
+      ],
+      "answer": "sedimentation"
+    },
+    {
+      "id": 173,
+      "type": "mcq",
+      "q": "Which method separates stones from sand used in building?",
+      "choices": [
+        "Sieving",
+        "Churning",
+        "Condensation",
+        "Evaporation"
+      ],
+      "answer": "Sieving"
+    },
+    {
+      "id": 174,
+      "type": "mcq",
+      "q": "Mud can be removed from water through filter paper by ___.",
+      "choices": [
+        "handpicking",
+        "churning",
+        "winnowing",
+        "filtration"
+      ],
+      "answer": "filtration"
+    },
+    {
+      "id": 175,
+      "type": "mcq",
+      "q": "A mixture contains ___.",
+      "choices": [
+        "two or more substances",
+        "no substance",
+        "only metals",
+        "only one substance"
+      ],
+      "answer": "two or more substances"
+    },
+    {
+      "id": 176,
+      "type": "mcq",
+      "q": "Water vapour turning back into water is useful for collecting water in ___.",
+      "choices": [
+        "distillation",
+        "churning",
+        "sieving",
+        "handpicking"
+      ],
+      "answer": "distillation"
+    },
+    {
+      "id": 177,
+      "type": "mcq",
+      "q": "Tea leaves are removed from tea using a ___.",
+      "choices": [
+        "magnet",
+        "churner",
+        "winnower",
+        "strainer"
+      ],
+      "answer": "strainer"
+    },
+    {
+      "id": 178,
+      "type": "mcq",
+      "q": "Husk is separated from grain using wind by ___.",
+      "choices": [
+        "sieving",
+        "decantation",
+        "winnowing",
+        "threshing"
+      ],
+      "answer": "winnowing"
+    },
+    {
+      "id": 179,
+      "type": "mcq",
+      "q": "Bran is removed from flour by ___.",
+      "choices": [
+        "magnetic separation",
+        "evaporation",
+        "churning",
+        "sieving"
+      ],
+      "answer": "sieving"
+    },
+    {
+      "id": 180,
+      "type": "mcq",
+      "q": "In winnowing, the lighter husk is carried away by ___.",
+      "choices": [
+        "filter paper",
+        "wind",
+        "magnets",
+        "boiling"
+      ],
+      "answer": "wind"
+    },
+    {
+      "id": 181,
+      "type": "mcq",
+      "q": "Which is needed for a seed to germinate?",
+      "choices": [
+        "Smoke",
+        "Plastic and sand",
+        "Only darkness",
+        "Water, air and warmth"
+      ],
+      "answer": "Water, air and warmth"
+    },
+    {
+      "id": 182,
+      "type": "mcq",
+      "q": "A young frog that lives in water is a ___.",
+      "choices": [
+        "tadpole",
+        "cub",
+        "pupa",
+        "larva of a moth"
+      ],
+      "answer": "tadpole"
+    },
+    {
+      "id": 183,
+      "type": "mcq",
+      "q": "Which is a characteristic of living things?",
+      "choices": [
+        "They are always made of metal",
+        "They never change",
+        "They grow",
+        "They need no food"
+      ],
+      "answer": "They grow"
+    },
+    {
+      "id": 184,
+      "type": "mcq",
+      "q": "The order of mosquito stages is egg, larva, ___, adult.",
+      "choices": [
+        "pupa",
+        "seedling",
+        "tadpole",
+        "chick"
+      ],
+      "answer": "pupa"
+    },
+    {
+      "id": 185,
+      "type": "mcq",
+      "q": "Stagnant water should be removed because mosquitoes ___ in it.",
+      "choices": [
+        "breed",
+        "migrate from",
+        "freeze",
+        "sleep on dry stones"
+      ],
+      "answer": "breed"
+    },
+    {
+      "id": 186,
+      "type": "mcq",
+      "q": "The first part to come out of a germinating seed is usually the ___.",
+      "choices": [
+        "leaf stalk of an adult",
+        "flower",
+        "root",
+        "fruit"
+      ],
+      "answer": "root"
+    },
+    {
+      "id": 187,
+      "type": "mcq",
+      "q": "Reacting to a change in surroundings is called response to ___.",
+      "choices": [
+        "latitude",
+        "stimuli",
+        "solubility",
+        "gravity of rocks"
+      ],
+      "answer": "stimuli"
+    },
+    {
+      "id": 188,
+      "type": "mcq",
+      "q": "The sprouting of a seed is called ___.",
+      "choices": [
+        "pollination",
+        "evaporation",
+        "excretion",
+        "germination"
+      ],
+      "answer": "germination"
+    },
+    {
+      "id": 189,
+      "type": "mcq",
+      "q": "The pupa stage occurs in the life cycle of a ___.",
+      "choices": [
+        "hen",
+        "cow",
+        "dog",
+        "mosquito"
+      ],
+      "answer": "mosquito"
+    },
+    {
+      "id": 190,
+      "type": "mcq",
+      "q": "Living things take in air during ___.",
+      "choices": [
+        "respiration",
+        "germination of rocks",
+        "excretion",
+        "reproduction"
+      ],
+      "answer": "respiration"
+    },
+    {
+      "id": 191,
+      "type": "mcq",
+      "q": "Which of these reproduces by laying eggs?",
+      "choices": [
+        "Cat",
+        "Cow",
+        "Hen",
+        "Dog"
+      ],
+      "answer": "Hen"
+    },
+    {
+      "id": 192,
+      "type": "mcq",
+      "q": "Which does a tadpole use to swim?",
+      "choices": [
+        "Tail",
+        "Roots",
+        "Wings",
+        "Horns"
+      ],
+      "answer": "Tail"
+    },
+    {
+      "id": 193,
+      "type": "mcq",
+      "q": "Leaves of the touch-me-not plant fold when ___.",
+      "choices": [
+        "measured",
+        "touched",
+        "named",
+        "painted"
+      ],
+      "answer": "touched"
+    },
+    {
+      "id": 194,
+      "type": "mcq",
+      "q": "Which of these is non-living?",
+      "choices": [
+        "Mushroom",
+        "Sparrow",
+        "Stone",
+        "Neem tree"
+      ],
+      "answer": "Stone"
+    },
+    {
+      "id": 195,
+      "type": "mcq",
+      "q": "Do plants move?",
+      "choices": [
+        "Only when painted",
+        "Only dead plants move",
+        "Yes, parts of them move, such as growing towards light",
+        "No part ever moves"
+      ],
+      "answer": "Yes, parts of them move, such as growing towards light"
+    },
+    {
+      "id": 196,
+      "type": "mcq",
+      "q": "The tiny plant inside a seed is the ___.",
+      "choices": [
+        "embryo",
+        "pollen",
+        "bark",
+        "petal"
+      ],
+      "answer": "embryo"
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "q": "The life cycle of a mosquito begins with an ___.",
+      "choices": [
+        "larva",
+        "adult",
+        "pupa",
+        "egg"
+      ],
+      "answer": "egg"
+    },
+    {
+      "id": 198,
+      "type": "mcq",
+      "q": "A tadpole grows into a ___.",
+      "choices": [
+        "fish",
+        "frog",
+        "snake",
+        "mosquito"
+      ],
+      "answer": "frog"
+    },
+    {
+      "id": 199,
+      "type": "mcq",
+      "q": "Producing young ones is called ___.",
+      "choices": [
+        "reproduction",
+        "respiration",
+        "digestion",
+        "growth"
+      ],
+      "answer": "reproduction"
+    },
+    {
+      "id": 200,
+      "type": "mcq",
+      "q": "Removal of waste from the body is ___.",
+      "choices": [
+        "reproduction",
+        "nutrition",
+        "respiration",
+        "excretion"
+      ],
+      "answer": "excretion"
+    },
+    {
+      "id": 201,
+      "type": "mcq",
+      "q": "Which resource takes millions of years to form?",
+      "choices": [
+        "Wind",
+        "Rain",
+        "Petroleum",
+        "Sunlight"
+      ],
+      "answer": "Petroleum"
+    },
+    {
+      "id": 202,
+      "type": "mcq",
+      "q": "Which fuel is used in many vehicles?",
+      "choices": [
+        "Water",
+        "Sand",
+        "Clay",
+        "Petrol"
+      ],
+      "answer": "Petrol"
+    },
+    {
+      "id": 203,
+      "type": "mcq",
+      "q": "Planting trees on a large scale is called ___.",
+      "choices": [
+        "afforestation",
+        "erosion",
+        "deforestation",
+        "mining"
+      ],
+      "answer": "afforestation"
+    },
+    {
+      "id": 204,
+      "type": "mcq",
+      "q": "Which action saves natural resources?",
+      "choices": [
+        "Burning waste",
+        "Leaving taps open",
+        "Cutting young trees",
+        "Switching off unused lights"
+      ],
+      "answer": "Switching off unused lights"
+    },
+    {
+      "id": 205,
+      "type": "mcq",
+      "q": "Most of the water on Earth is ___.",
+      "choices": [
+        "salty sea water",
+        "ice-free river water",
+        "rainwater in tanks",
+        "drinking water in pipes"
+      ],
+      "answer": "salty sea water"
+    },
+    {
+      "id": 206,
+      "type": "mcq",
+      "q": "Soil is formed by the slow breaking down of ___.",
+      "choices": [
+        "clouds",
+        "rocks",
+        "glass bottles",
+        "plastic"
+      ],
+      "answer": "rocks"
+    },
+    {
+      "id": 207,
+      "type": "mcq",
+      "q": "Which gas do plants use to make food?",
+      "choices": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": 208,
+      "type": "mcq",
+      "q": "Which gas in air do we need to breathe?",
+      "choices": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 209,
+      "type": "mcq",
+      "q": "Rocks and minerals are used for ___.",
+      "choices": [
+        "drinking",
+        "photosynthesis only",
+        "building and making metals",
+        "breathing"
+      ],
+      "answer": "building and making metals"
+    },
+    {
+      "id": 210,
+      "type": "mcq",
+      "q": "Which of these is a fossil fuel?",
+      "choices": [
+        "Coal",
+        "Wind",
+        "Sunlight",
+        "Flowing water"
+      ],
+      "answer": "Coal"
+    },
+    {
+      "id": 211,
+      "type": "mcq",
+      "q": "Collecting rain for later use is called rainwater ___.",
+      "choices": [
+        "harvesting",
+        "filtration only",
+        "pollution",
+        "evaporation"
+      ],
+      "answer": "harvesting"
+    },
+    {
+      "id": 212,
+      "type": "mcq",
+      "q": "Windmills are used to produce ___.",
+      "choices": [
+        "soil",
+        "petroleum",
+        "electricity",
+        "coal"
+      ],
+      "answer": "electricity"
+    },
+    {
+      "id": 213,
+      "type": "mcq",
+      "q": "The top layer of land in which plants grow is ___.",
+      "choices": [
+        "soil",
+        "bedrock",
+        "ocean",
+        "lava"
+      ],
+      "answer": "soil"
+    },
+    {
+      "id": 214,
+      "type": "mcq",
+      "q": "Which of these is a renewable resource?",
+      "choices": [
+        "Coal",
+        "Petroleum",
+        "Natural gas",
+        "Sunlight"
+      ],
+      "answer": "Sunlight"
+    },
+    {
+      "id": 215,
+      "type": "mcq",
+      "q": "Which is a product obtained from forests?",
+      "choices": [
+        "Timber",
+        "Plastic",
+        "Glass",
+        "Petrol"
+      ],
+      "answer": "Timber"
+    },
+    {
+      "id": 216,
+      "type": "mcq",
+      "q": "Which is the most abundant gas in air?",
+      "choices": [
+        "Water vapour",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 217,
+      "type": "mcq",
+      "q": "Forests help to ___.",
+      "choices": [
+        "stop rain forever",
+        "increase floods",
+        "prevent soil erosion",
+        "remove oxygen"
+      ],
+      "answer": "prevent soil erosion"
+    },
+    {
+      "id": 218,
+      "type": "mcq",
+      "q": "Moving air is called ___.",
+      "choices": [
+        "wind",
+        "soil",
+        "dew",
+        "coal"
+      ],
+      "answer": "wind"
+    },
+    {
+      "id": 219,
+      "type": "mcq",
+      "q": "Solar panels change sunlight into ___.",
+      "choices": [
+        "electricity",
+        "soil",
+        "water",
+        "coal"
+      ],
+      "answer": "electricity"
+    },
+    {
+      "id": 220,
+      "type": "mcq",
+      "q": "A resource that can run out is called ___.",
+      "choices": [
+        "renewable",
+        "non-renewable",
+        "solar",
+        "endless"
+      ],
+      "answer": "non-renewable"
+    },
+    {
+      "id": 221,
+      "type": "mcq",
+      "q": "Which planet is called the Red Planet?",
+      "choices": [
+        "Neptune",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 222,
+      "type": "mcq",
+      "q": "A body that moves around a planet is a ___.",
+      "choices": [
+        "constellation",
+        "satellite",
+        "galaxy",
+        "star"
+      ],
+      "answer": "satellite"
+    },
+    {
+      "id": 223,
+      "type": "mcq",
+      "q": "Which planet is farthest from the Sun?",
+      "choices": [
+        "Neptune",
+        "Mars",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer": "Neptune"
+    },
+    {
+      "id": 224,
+      "type": "mcq",
+      "q": "Which planet is closest to the Sun?",
+      "choices": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Earth"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": 225,
+      "type": "mcq",
+      "q": "Our Solar System is part of the ___ galaxy.",
+      "choices": [
+        "Sombrero",
+        "Whirlpool",
+        "Milky Way",
+        "Andromeda"
+      ],
+      "answer": "Milky Way"
+    },
+    {
+      "id": 226,
+      "type": "mcq",
+      "q": "Seven bright stars that help find the Pole Star belong to the ___.",
+      "choices": [
+        "Southern Cross",
+        "Orion belt only",
+        "Big Dipper (Saptarishi)",
+        "Milky Moon"
+      ],
+      "answer": "Big Dipper (Saptarishi)"
+    },
+    {
+      "id": 227,
+      "type": "mcq",
+      "q": "How many planets are in the Solar System?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": 228,
+      "type": "mcq",
+      "q": "A huge collection of stars, gas and dust is a ___.",
+      "choices": [
+        "galaxy",
+        "satellite",
+        "crater",
+        "planet"
+      ],
+      "answer": "galaxy"
+    },
+    {
+      "id": 229,
+      "type": "mcq",
+      "q": "The Earth’s natural satellite is the ___.",
+      "choices": [
+        "Venus",
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "answer": "Moon"
+    },
+    {
+      "id": 230,
+      "type": "mcq",
+      "q": "Which instrument helps us see distant objects in the sky?",
+      "choices": [
+        "Thermometer",
+        "Telescope",
+        "Compass",
+        "Microscope"
+      ],
+      "answer": "Telescope"
+    },
+    {
+      "id": 231,
+      "type": "mcq",
+      "q": "The star nearest to the Earth is the ___.",
+      "choices": [
+        "Moon",
+        "Sirius",
+        "Pole Star",
+        "Sun"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "id": 232,
+      "type": "mcq",
+      "q": "The Moon shines because it ___.",
+      "choices": [
+        "makes its own light",
+        "is on fire",
+        "reflects starlight only",
+        "reflects sunlight"
+      ],
+      "answer": "reflects sunlight"
+    },
+    {
+      "id": 233,
+      "type": "mcq",
+      "q": "A group of stars forming a recognisable pattern is a ___.",
+      "choices": [
+        "satellite",
+        "comet",
+        "constellation",
+        "planet"
+      ],
+      "answer": "constellation"
+    },
+    {
+      "id": 234,
+      "type": "mcq",
+      "q": "The excessive artificial light that hides stars is ___.",
+      "choices": [
         "condensation",
-        "transpiration"
+        "solar eclipse",
+        "light pollution",
+        "reflection of water"
       ],
-      "answer": "transpiration"
+      "answer": "light pollution"
     },
     {
-      "id": 23,
+      "id": 235,
       "type": "mcq",
-      "q": "The knee is mainly which type of joint?",
+      "q": "Planets move around the ___.",
       "choices": [
-        "Fixed joint",
-        "Gliding joint only",
-        "Ball and socket joint",
-        "Hinge joint"
+        "Pole Star",
+        "nearest comet",
+        "Moon",
+        "Sun"
       ],
-      "answer": "Hinge joint"
+      "answer": "Sun"
     },
     {
-      "id": 24,
+      "id": 236,
       "type": "mcq",
-      "q": "Which joint allows movement in nearly all directions?",
+      "q": "The Sun is a ___.",
       "choices": [
-        "Fixed joint",
-        "Ball and socket joint",
-        "Hinge joint",
-        "Pivot joint"
+        "satellite",
+        "comet",
+        "planet",
+        "star"
       ],
-      "answer": "Ball and socket joint"
+      "answer": "star"
     },
     {
-      "id": 25,
+      "id": 237,
       "type": "mcq",
-      "q": "Which part of a flower becomes the fruit?",
+      "q": "Orion is the name of a ___.",
       "choices": [
-        "Petal",
-        "Ovary",
-        "Sepal",
-        "Stamen"
+        "constellation",
+        "planet",
+        "satellite",
+        "comet"
       ],
-      "answer": "Ovary"
+      "answer": "constellation"
     },
     {
-      "id": 26,
+      "id": 238,
       "type": "mcq",
-      "q": "Motion of a pendulum is ___ motion.",
+      "q": "Which is the largest planet?",
       "choices": [
-        "straight-line only",
-        "periodic",
-        "no",
-        "random"
+        "Uranus",
+        "Earth",
+        "Jupiter",
+        "Saturn"
       ],
-      "answer": "periodic"
+      "answer": "Jupiter"
+    },
+    {
+      "id": 239,
+      "type": "mcq",
+      "q": "Which star shows the north direction?",
+      "choices": [
+        "Pole Star",
+        "Venus",
+        "Sirius",
+        "The Sun"
+      ],
+      "answer": "Pole Star"
+    },
+    {
+      "id": 240,
+      "type": "mcq",
+      "q": "Small rocky bodies mostly found between Mars and Jupiter are ___.",
+      "choices": [
+        "asteroids",
+        "galaxies",
+        "stars",
+        "moons of Earth"
+      ],
+      "answer": "asteroids"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 12,
   "chapterNames": [
-    "Components of Food",
-    "Materials and Separation",
-    "Light and Electricity",
-    "Body and Habitat"
+    "1. The Wonderful World of Science",
+    "2. Diversity in the Living World",
+    "3. Mindful Eating: A Path to a Healthy Body",
+    "4. Exploring Magnets",
+    "5. Measurement of Length and Motion",
+    "6. Materials Around Us",
+    "7. Temperature and its Measurement",
+    "8. A Journey through States of Water",
+    "9. Methods of Separation in Everyday Life",
+    "10. Living Creatures: Exploring their Characteristics",
+    "11. Nature’s Treasures",
+    "12. Beyond Earth"
   ],
   "chapterSizes": [
-    6,
-    6,
-    6,
-    8
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
   ],
   "meta": {
     "subject": "science",

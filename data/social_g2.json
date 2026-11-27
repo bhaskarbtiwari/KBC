@@ -311,19 +311,313 @@
         "Rajasthan"
       ],
       "answer": "Assam"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What do we call your mother’s sister?",
+      "choices": [
+        "Mausi",
+        "Mama",
+        "Nana",
+        "Chacha"
+      ],
+      "answer": "Mausi"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What do we call your mother’s mother?",
+      "choices": [
+        "Nani",
+        "Mama",
+        "Bua",
+        "Dadi"
+      ],
+      "answer": "Nani"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What do we call your mother’s father?",
+      "choices": [
+        "Dada",
+        "Nana",
+        "Bua",
+        "Mausi"
+      ],
+      "answer": "Nana"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What do we call your father’s mother?",
+      "choices": [
+        "Dadi",
+        "Chacha",
+        "Mama",
+        "Bua"
+      ],
+      "answer": "Dadi"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What do we call your mother’s brother?",
+      "choices": [
+        "Bua",
+        "Mama",
+        "Mausi",
+        "Chacha"
+      ],
+      "answer": "Mama"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What do we call your father’s sister?",
+      "choices": [
+        "Bua",
+        "Dadi",
+        "Mausi",
+        "Nana"
+      ],
+      "answer": "Bua"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What do we call your father’s father?",
+      "choices": [
+        "Nani",
+        "Chacha",
+        "Dada",
+        "Mausi"
+      ],
+      "answer": "Dada"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What do we call your father’s younger brother?",
+      "choices": [
+        "Nani",
+        "Dada",
+        "Chacha",
+        "Bua"
+      ],
+      "answer": "Chacha"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which vehicle flies in the sky?",
+      "choices": [
+        "Aeroplane",
+        "Ship",
+        "Bicycle",
+        "Ambulance"
+      ],
+      "answer": "Aeroplane"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which vehicle sails on water?",
+      "choices": [
+        "Fire engine",
+        "Truck",
+        "Bicycle",
+        "Ship"
+      ],
+      "answer": "Ship"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which vehicle ploughs fields?",
+      "choices": [
+        "Truck",
+        "Tractor",
+        "Aeroplane",
+        "Ambulance"
+      ],
+      "answer": "Tractor"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which vehicle takes patients to hospital?",
+      "choices": [
+        "Tractor",
+        "Fire engine",
+        "Ambulance",
+        "Bicycle"
+      ],
+      "answer": "Ambulance"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which vehicle runs on rails?",
+      "choices": [
+        "Ship",
+        "Bicycle",
+        "Tractor",
+        "Train"
+      ],
+      "answer": "Train"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which vehicle has two wheels and pedals?",
+      "choices": [
+        "Ship",
+        "Fire engine",
+        "Bicycle",
+        "Train"
+      ],
+      "answer": "Bicycle"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which vehicle carries goods on roads?",
+      "choices": [
+        "Ambulance",
+        "Truck",
+        "Ship",
+        "Train"
+      ],
+      "answer": "Truck"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which vehicle puts out fires?",
+      "choices": [
+        "Train",
+        "Fire engine",
+        "Ship",
+        "Ambulance"
+      ],
+      "answer": "Fire engine"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which day is celebrated on 5 June?",
+      "choices": [
+        "Independence Day",
+        "Teachers’ Day",
+        "World Environment Day",
+        "International Day of Yoga"
+      ],
+      "answer": "World Environment Day"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which day is celebrated on 22 April?",
+      "choices": [
+        "International Day of Yoga",
+        "Independence Day",
+        "Earth Day",
+        "Children’s Day"
+      ],
+      "answer": "Earth Day"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which day is celebrated on 26 January?",
+      "choices": [
+        "Independence Day",
+        "Earth Day",
+        "Republic Day",
+        "Teachers’ Day"
+      ],
+      "answer": "Republic Day"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which day is celebrated on 14 November?",
+      "choices": [
+        "World Environment Day",
+        "Gandhi Jayanti",
+        "Children’s Day",
+        "International Day of Yoga"
+      ],
+      "answer": "Children’s Day"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which day is celebrated on 2 October?",
+      "choices": [
+        "Gandhi Jayanti",
+        "Teachers’ Day",
+        "World Environment Day",
+        "Children’s Day"
+      ],
+      "answer": "Gandhi Jayanti"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which day is celebrated on 15 August?",
+      "choices": [
+        "Independence Day",
+        "Gandhi Jayanti",
+        "World Environment Day",
+        "Children’s Day"
+      ],
+      "answer": "Independence Day"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which day is celebrated on 21 June?",
+      "choices": [
+        "Children’s Day",
+        "International Day of Yoga",
+        "Gandhi Jayanti",
+        "Republic Day"
+      ],
+      "answer": "International Day of Yoga"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which day is celebrated on 5 September?",
+      "choices": [
+        "Independence Day",
+        "International Day of Yoga",
+        "Teachers’ Day",
+        "Children’s Day"
+      ],
+      "answer": "Teachers’ Day"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Our Helpers",
     "Neighbourhood",
     "Directions and Time",
-    "Festivals and Food"
+    "Festivals and Food",
+    "Family Words",
+    "Ways to Travel",
+    "Important Days"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

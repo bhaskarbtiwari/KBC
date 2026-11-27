@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "medicine"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "Complete the simile: as light as ___.",
+      "choices": [
+        "a feather",
+        "snow",
+        "a cucumber",
+        "a peacock"
+      ],
+      "answer": "a feather"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "Complete the simile: as brave as ___.",
+      "choices": [
+        "a lion",
+        "a feather",
+        "a bee",
+        "a fox"
+      ],
+      "answer": "a lion"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "Complete the simile: as sly as ___.",
+      "choices": [
+        "a cucumber",
+        "a bat",
+        "a fox",
+        "a bee"
+      ],
+      "answer": "a fox"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "Complete the simile: as busy as ___.",
+      "choices": [
+        "a bee",
+        "snow",
+        "a bat",
+        "a feather"
+      ],
+      "answer": "a bee"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "Complete the simile: as proud as ___.",
+      "choices": [
+        "a bee",
+        "snow",
+        "a peacock",
+        "a bat"
+      ],
+      "answer": "a peacock"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "Complete the simile: as white as ___.",
+      "choices": [
+        "a lion",
+        "snow",
+        "a peacock",
+        "a cucumber"
+      ],
+      "answer": "snow"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "Complete the simile: as blind as ___.",
+      "choices": [
+        "a bat",
+        "a cucumber",
+        "a fox",
+        "a peacock"
+      ],
+      "answer": "a bat"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "Complete the simile: as cool as ___.",
+      "choices": [
+        "a cucumber",
+        "a lion",
+        "a peacock",
+        "a bee"
+      ],
+      "answer": "a cucumber"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Who studies animals?",
+      "choices": [
+        "geologist",
+        "botanist",
+        "astronomer",
+        "zoologist"
+      ],
+      "answer": "zoologist"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "Who studies rocks?",
+      "choices": [
+        "geologist",
+        "meteorologist",
+        "botanist",
+        "zoologist"
+      ],
+      "answer": "geologist"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Who studies living things in general?",
+      "choices": [
+        "zoologist",
+        "biologist",
+        "geologist",
+        "botanist"
+      ],
+      "answer": "biologist"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "Who studies weather?",
+      "choices": [
+        "geologist",
+        "meteorologist",
+        "biologist",
+        "archaeologist"
+      ],
+      "answer": "meteorologist"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Who studies plants?",
+      "choices": [
+        "biologist",
+        "zoologist",
+        "meteorologist",
+        "botanist"
+      ],
+      "answer": "botanist"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Who studies stars?",
+      "choices": [
+        "astronomer",
+        "botanist",
+        "meteorologist",
+        "geologist"
+      ],
+      "answer": "astronomer"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "Who studies the past through digging?",
+      "choices": [
+        "geologist",
+        "archaeologist",
+        "biologist",
+        "zoologist"
+      ],
+      "answer": "archaeologist"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Parts of Speech",
     "Tenses",
     "Vocabulary",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Similes",
+    "Specialists"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

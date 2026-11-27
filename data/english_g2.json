@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "yellow"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "Where does a bird live?",
+      "choices": [
+        "hive",
+        "den",
+        "nest",
+        "sty"
+      ],
+      "answer": "nest"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "Where does a lion live?",
+      "choices": [
+        "sty",
+        "den",
+        "nest",
+        "web"
+      ],
+      "answer": "den"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "Where does a dog live?",
+      "choices": [
+        "kennel",
+        "sty",
+        "stable",
+        "web"
+      ],
+      "answer": "kennel"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "Where does a spider live?",
+      "choices": [
+        "stable",
+        "web",
+        "kennel",
+        "burrow"
+      ],
+      "answer": "web"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "Where does a horse live?",
+      "choices": [
+        "burrow",
+        "web",
+        "stable",
+        "nest"
+      ],
+      "answer": "stable"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "Where does a bee live?",
+      "choices": [
+        "nest",
+        "den",
+        "hive",
+        "sty"
+      ],
+      "answer": "hive"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "Where does a rabbit live?",
+      "choices": [
+        "web",
+        "den",
+        "burrow",
+        "hive"
+      ],
+      "answer": "burrow"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "Where does a pig live?",
+      "choices": [
+        "hive",
+        "web",
+        "sty",
+        "burrow"
+      ],
+      "answer": "sty"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Who flies a plane?",
+      "choices": [
+        "pilot",
+        "teacher",
+        "baker",
+        "tailor"
+      ],
+      "answer": "pilot"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "Who mends shoes?",
+      "choices": [
+        "cobbler",
+        "pilot",
+        "farmer",
+        "barber"
+      ],
+      "answer": "cobbler"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Who bakes bread?",
+      "choices": [
+        "barber",
+        "tailor",
+        "pilot",
+        "baker"
+      ],
+      "answer": "baker"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "Who grows crops?",
+      "choices": [
+        "pilot",
+        "farmer",
+        "barber",
+        "cobbler"
+      ],
+      "answer": "farmer"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Who stitches clothes?",
+      "choices": [
+        "farmer",
+        "tailor",
+        "pilot",
+        "baker"
+      ],
+      "answer": "tailor"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Who cuts hair?",
+      "choices": [
+        "pilot",
+        "cobbler",
+        "farmer",
+        "barber"
+      ],
+      "answer": "barber"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "Who teaches students?",
+      "choices": [
+        "teacher",
+        "barber",
+        "farmer",
+        "pilot"
+      ],
+      "answer": "teacher"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Naming Words",
     "Action Words",
     "Opposites",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Animal Homes",
+    "Helpers at Work"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

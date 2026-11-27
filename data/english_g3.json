@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "uncle"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of fish.",
+      "choices": [
+        "swarm",
+        "shoal",
+        "army",
+        "flock"
+      ],
+      "answer": "shoal"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of wolves.",
+      "choices": [
+        "pack",
+        "pride",
+        "army",
+        "swarm"
+      ],
+      "answer": "pack"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of cows.",
+      "choices": [
+        "swarm",
+        "flock",
+        "army",
+        "herd"
+      ],
+      "answer": "herd"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of lions.",
+      "choices": [
+        "shoal",
+        "pride",
+        "flock",
+        "army"
+      ],
+      "answer": "pride"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of birds.",
+      "choices": [
+        "shoal",
+        "flock",
+        "pride",
+        "pack"
+      ],
+      "answer": "flock"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of bees.",
+      "choices": [
+        "army",
+        "swarm",
+        "herd",
+        "pride"
+      ],
+      "answer": "swarm"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of soldiers.",
+      "choices": [
+        "flock",
+        "shoal",
+        "herd",
+        "army"
+      ],
+      "answer": "army"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "Complete the phrase: a ___ of ships.",
+      "choices": [
+        "shoal",
+        "swarm",
+        "fleet",
+        "army"
+      ],
+      "answer": "fleet"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Which person mainly uses a stethoscope?",
+      "choices": [
+        "barber",
+        "doctor",
+        "farmer",
+        "tailor"
+      ],
+      "answer": "doctor"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "Which person mainly uses a saw?",
+      "choices": [
+        "farmer",
+        "carpenter",
+        "tailor",
+        "barber"
+      ],
+      "answer": "carpenter"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Which person mainly uses a needle?",
+      "choices": [
+        "carpenter",
+        "tailor",
+        "referee",
+        "farmer"
+      ],
+      "answer": "tailor"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "Which person mainly uses a whistle?",
+      "choices": [
+        "barber",
+        "doctor",
+        "carpenter",
+        "referee"
+      ],
+      "answer": "referee"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Which person mainly uses a plough?",
+      "choices": [
+        "painter",
+        "barber",
+        "doctor",
+        "farmer"
+      ],
+      "answer": "farmer"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Which person mainly uses a razor?",
+      "choices": [
+        "painter",
+        "barber",
+        "carpenter",
+        "tailor"
+      ],
+      "answer": "barber"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "Which person mainly uses a paintbrush?",
+      "choices": [
+        "carpenter",
+        "farmer",
+        "painter",
+        "referee"
+      ],
+      "answer": "painter"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Nouns and Pronouns",
     "Verbs and Tenses",
     "Describing Words",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Group Words",
+    "Tools and Users"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

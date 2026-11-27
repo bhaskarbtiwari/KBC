@@ -311,19 +311,313 @@
         "pascal"
       ],
       "answer": "pascal"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "What is the chemical symbol of calcium?",
+      "choices": [
+        "Ag",
+        "K",
+        "Ca",
+        "Pb"
+      ],
+      "answer": "Ca"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "What is the chemical symbol of iron?",
+      "choices": [
+        "Pb",
+        "Cl",
+        "Fe",
+        "Au"
+      ],
+      "answer": "Fe"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "What is the chemical symbol of copper?",
+      "choices": [
+        "Fe",
+        "Ag",
+        "Pb",
+        "Cu"
+      ],
+      "answer": "Cu"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "What is the chemical symbol of silver?",
+      "choices": [
+        "Cu",
+        "Cl",
+        "Ca",
+        "Ag"
+      ],
+      "answer": "Ag"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "What is the chemical symbol of gold?",
+      "choices": [
+        "Au",
+        "K",
+        "Cl",
+        "Fe"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "What is the chemical symbol of chlorine?",
+      "choices": [
+        "K",
+        "Au",
+        "Ca",
+        "Cl"
+      ],
+      "answer": "Cl"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "What is the chemical symbol of potassium?",
+      "choices": [
+        "Au",
+        "K",
+        "Pb",
+        "Cu"
+      ],
+      "answer": "K"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "What is the chemical symbol of lead?",
+      "choices": [
+        "Fe",
+        "Ca",
+        "K",
+        "Pb"
+      ],
+      "answer": "Pb"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Who is credited with discovering the electron?",
+      "choices": [
+        "Niels Bohr",
+        "J. J. Thomson",
+        "John Dalton",
+        "Antoine Lavoisier"
+      ],
+      "answer": "J. J. Thomson"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Who is credited with the model of electron shells?",
+      "choices": [
+        "Niels Bohr",
+        "Isaac Newton",
+        "Ernest Rutherford",
+        "James Chadwick"
+      ],
+      "answer": "Niels Bohr"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Who is credited with discovering the neutron?",
+      "choices": [
+        "Charles Darwin",
+        "James Chadwick",
+        "John Dalton",
+        "Niels Bohr"
+      ],
+      "answer": "James Chadwick"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Who is credited with the atomic theory of 1808?",
+      "choices": [
+        "Ernest Rutherford",
+        "John Dalton",
+        "James Chadwick",
+        "Antoine Lavoisier"
+      ],
+      "answer": "John Dalton"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Who is credited with the law of conservation of mass?",
+      "choices": [
+        "Niels Bohr",
+        "Antoine Lavoisier",
+        "J. J. Thomson",
+        "Isaac Newton"
+      ],
+      "answer": "Antoine Lavoisier"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Who is credited with the universal law of gravitation?",
+      "choices": [
+        "Ernest Rutherford",
+        "Charles Darwin",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "answer": "Isaac Newton"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Who is credited with discovering the nucleus?",
+      "choices": [
+        "Charles Darwin",
+        "Ernest Rutherford",
+        "James Chadwick",
+        "Antoine Lavoisier"
+      ],
+      "answer": "Ernest Rutherford"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Who is credited with the theory of natural selection?",
+      "choices": [
+        "Ernest Rutherford",
+        "Antoine Lavoisier",
+        "John Dalton",
+        "Charles Darwin"
+      ],
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which expression gives density?",
+      "choices": [
+        "mass × acceleration",
+        "mass ÷ volume",
+        "mass × g × height",
+        "force ÷ area"
+      ],
+      "answer": "mass ÷ volume"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which expression gives speed?",
+      "choices": [
+        "mass × acceleration",
+        "distance ÷ time",
+        "force ÷ area",
+        "change in velocity ÷ time"
+      ],
+      "answer": "distance ÷ time"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which expression gives pressure?",
+      "choices": [
+        "change in velocity ÷ time",
+        "force × displacement",
+        "force ÷ area",
+        "work ÷ time"
+      ],
+      "answer": "force ÷ area"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which expression gives work?",
+      "choices": [
+        "change in velocity ÷ time",
+        "work ÷ time",
+        "distance ÷ time",
+        "force × displacement"
+      ],
+      "answer": "force × displacement"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which expression gives force?",
+      "choices": [
+        "change in velocity ÷ time",
+        "mass × acceleration",
+        "force × displacement",
+        "distance ÷ time"
+      ],
+      "answer": "mass × acceleration"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which expression gives power?",
+      "choices": [
+        "distance ÷ time",
+        "mass × g × height",
+        "work ÷ time",
+        "change in velocity ÷ time"
+      ],
+      "answer": "work ÷ time"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which expression gives acceleration?",
+      "choices": [
+        "force × displacement",
+        "change in velocity ÷ time",
+        "mass × g × height",
+        "mass × acceleration"
+      ],
+      "answer": "change in velocity ÷ time"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which expression gives potential energy?",
+      "choices": [
+        "distance ÷ time",
+        "mass × g × height",
+        "force × displacement",
+        "force ÷ area"
+      ],
+      "answer": "mass × g × height"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Matter and Atoms",
     "Motion and Energy",
     "Life Science",
-    "Sound, Gravitation and Resources"
+    "Sound, Gravitation and Resources",
+    "Chemical Symbols",
+    "Scientists",
+    "Formulas"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

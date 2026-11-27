@@ -311,19 +311,313 @@
         "Wedge"
       ],
       "answer": "Lever"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Lack of water mainly causes which problem?",
+      "choices": [
+        "Scurvy",
+        "Dehydration",
+        "Kwashiorkor",
+        "Rickets"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Lack of vitamin D mainly causes which problem?",
+      "choices": [
+        "Kwashiorkor",
+        "Dehydration",
+        "Rickets",
+        "Night blindness"
+      ],
+      "answer": "Rickets"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Lack of vitamin B1 mainly causes which problem?",
+      "choices": [
+        "Kwashiorkor",
+        "Goitre",
+        "Rickets",
+        "Beri-beri"
+      ],
+      "answer": "Beri-beri"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Lack of vitamin A mainly causes which problem?",
+      "choices": [
+        "Kwashiorkor",
+        "Anaemia",
+        "Night blindness",
+        "Dehydration"
+      ],
+      "answer": "Night blindness"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Lack of iodine mainly causes which problem?",
+      "choices": [
+        "Anaemia",
+        "Goitre",
+        "Rickets",
+        "Kwashiorkor"
+      ],
+      "answer": "Goitre"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Lack of protein in young children mainly causes which problem?",
+      "choices": [
+        "Kwashiorkor",
+        "Anaemia",
+        "Dehydration",
+        "Scurvy"
+      ],
+      "answer": "Kwashiorkor"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Lack of iron mainly causes which problem?",
+      "choices": [
+        "Rickets",
+        "Anaemia",
+        "Dehydration",
+        "Kwashiorkor"
+      ],
+      "answer": "Anaemia"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Lack of vitamin C mainly causes which problem?",
+      "choices": [
+        "Scurvy",
+        "Kwashiorkor",
+        "Anaemia",
+        "Night blindness"
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which planet is famous for bright rings?",
+      "choices": [
+        "Mercury",
+        "Saturn",
+        "Earth",
+        "Venus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which planet is the one with life that we know?",
+      "choices": [
+        "Mars",
+        "Earth",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which planet is the largest?",
+      "choices": [
+        "Jupiter",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which planet is called the Red Planet?",
+      "choices": [
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Venus"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which planet is the hottest?",
+      "choices": [
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "answer": "Venus"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which planet is tipped on its side?",
+      "choices": [
+        "Uranus",
+        "Mercury",
+        "Venus",
+        "Earth"
+      ],
+      "answer": "Uranus"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which planet is the farthest from the Sun?",
+      "choices": [
+        "Earth",
+        "Mercury",
+        "Jupiter",
+        "Neptune"
+      ],
+      "answer": "Neptune"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which planet is the smallest?",
+      "choices": [
+        "Jupiter",
+        "Neptune",
+        "Venus",
+        "Mercury"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Which instrument is used to weigh objects?",
+      "choices": [
+        "Periscope",
+        "Rain gauge",
+        "Weighing balance",
+        "Thermometer"
+      ],
+      "answer": "Weighing balance"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Which instrument is used to see distant stars?",
+      "choices": [
+        "Stethoscope",
+        "Weighing balance",
+        "Telescope",
+        "Periscope"
+      ],
+      "answer": "Telescope"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Which instrument is used to measure rainfall?",
+      "choices": [
+        "Telescope",
+        "Periscope",
+        "Compass",
+        "Rain gauge"
+      ],
+      "answer": "Rain gauge"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Which instrument is used to measure temperature?",
+      "choices": [
+        "Rain gauge",
+        "Compass",
+        "Stethoscope",
+        "Thermometer"
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Which instrument is used to find direction?",
+      "choices": [
+        "Periscope",
+        "Stethoscope",
+        "Microscope",
+        "Compass"
+      ],
+      "answer": "Compass"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Which instrument is used to see over a wall from below?",
+      "choices": [
+        "Thermometer",
+        "Microscope",
+        "Telescope",
+        "Periscope"
+      ],
+      "answer": "Periscope"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Which instrument is used to listen to heartbeats?",
+      "choices": [
+        "Periscope",
+        "Stethoscope",
+        "Telescope",
+        "Compass"
+      ],
+      "answer": "Stethoscope"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Which instrument is used to see tiny germs?",
+      "choices": [
+        "Rain gauge",
+        "Stethoscope",
+        "Periscope",
+        "Microscope"
+      ],
+      "answer": "Microscope"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Plant Reproduction",
     "Health and Disease",
     "Earth and Space",
-    "Force and Matter"
+    "Force and Matter",
+    "Vitamins and Deficiency",
+    "Planets",
+    "Instruments"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "jewellery"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What does the idiom \"cry over spilt milk\" mean?",
+      "choices": [
+        "in trouble",
+        "regret what cannot be changed",
+        "lose a chance",
+        "a very important day"
+      ],
+      "answer": "regret what cannot be changed"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What does the idiom \"let the cat out of the bag\" mean?",
+      "choices": [
+        "regret what cannot be changed",
+        "give away a secret",
+        "in trouble",
+        "tease someone"
+      ],
+      "answer": "give away a secret"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What does the idiom \"miss the boat\" mean?",
+      "choices": [
+        "give away a secret",
+        "lose a chance",
+        "watch carefully",
+        "tease someone"
+      ],
+      "answer": "lose a chance"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What does the idiom \"in hot water\" mean?",
+      "choices": [
+        "in trouble",
+        "tease someone",
+        "watch carefully",
+        "a very important day"
+      ],
+      "answer": "in trouble"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What does the idiom \"hit the sack\" mean?",
+      "choices": [
+        "a very important day",
+        "watch carefully",
+        "lose a chance",
+        "go to bed"
+      ],
+      "answer": "go to bed"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What does the idiom \"pull someone’s leg\" mean?",
+      "choices": [
+        "go to bed",
+        "regret what cannot be changed",
+        "tease someone",
+        "give away a secret"
+      ],
+      "answer": "tease someone"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What does the idiom \"a red-letter day\" mean?",
+      "choices": [
+        "lose a chance",
+        "a very important day",
+        "regret what cannot be changed",
+        "go to bed"
+      ],
+      "answer": "a very important day"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What does the idiom \"keep an eye on\" mean?",
+      "choices": [
+        "lose a chance",
+        "watch carefully",
+        "in trouble",
+        "give away a secret"
+      ],
+      "answer": "watch carefully"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "Which single word means \"one who does not eat meat\"?",
+      "choices": [
+        "illiterate",
+        "vegetarian",
+        "extempore",
+        "manuscript"
+      ],
+      "answer": "vegetarian"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "Which single word means \"one who walks on foot\"?",
+      "choices": [
+        "pedestrian",
+        "extempore",
+        "vegetarian",
+        "illiterate"
+      ],
+      "answer": "pedestrian"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "Which single word means \"one who cannot read or write\"?",
+      "choices": [
+        "pedestrian",
+        "vegetarian",
+        "extempore",
+        "illiterate"
+      ],
+      "answer": "illiterate"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "Which single word means \"one who loves their country\"?",
+      "choices": [
+        "extempore",
+        "illegible",
+        "patriot",
+        "pedestrian"
+      ],
+      "answer": "patriot"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "Which single word means \"a speech made without preparation\"?",
+      "choices": [
+        "extempore",
+        "vegetarian",
+        "patriot",
+        "manuscript"
+      ],
+      "answer": "extempore"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "Which single word means \"that which cannot be read\"?",
+      "choices": [
+        "illiterate",
+        "illegible",
+        "vegetarian",
+        "manuscript"
+      ],
+      "answer": "illegible"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "Which single word means \"a handwritten book or document\"?",
+      "choices": [
+        "extempore",
+        "illiterate",
+        "vegetarian",
+        "manuscript"
+      ],
+      "answer": "manuscript"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Grammar",
     "Vocabulary",
     "Figures of Speech",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Idioms",
+    "One Word"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

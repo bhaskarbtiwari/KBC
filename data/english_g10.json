@@ -569,16 +569,198 @@
       "type": "spell",
       "q": "Grammar Phoenix: Listen and type the word",
       "answer": "unanimous"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "q": "What does the phrase \"alma mater\" mean?",
+      "choices": [
+        "by itself",
+        "the place where one studied",
+        "a social blunder",
+        "the existing state of affairs"
+      ],
+      "answer": "the place where one studied"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "q": "What does the phrase \"vice versa\" mean?",
+      "choices": [
+        "the other way round",
+        "the place where one studied",
+        "for a particular purpose",
+        "a social blunder"
+      ],
+      "answer": "the other way round"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "q": "What does the phrase \"en route\" mean?",
+      "choices": [
+        "on the way",
+        "the existing state of affairs",
+        "genuine",
+        "a social blunder"
+      ],
+      "answer": "on the way"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "q": "What does the phrase \"per se\" mean?",
+      "choices": [
+        "a social blunder",
+        "the existing state of affairs",
+        "by itself",
+        "on the way"
+      ],
+      "answer": "by itself"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "q": "What does the phrase \"status quo\" mean?",
+      "choices": [
+        "the existing state of affairs",
+        "on the way",
+        "by itself",
+        "genuine"
+      ],
+      "answer": "the existing state of affairs"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "q": "What does the phrase \"ad hoc\" mean?",
+      "choices": [
+        "a social blunder",
+        "the existing state of affairs",
+        "for a particular purpose",
+        "by itself"
+      ],
+      "answer": "for a particular purpose"
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "q": "What does the phrase \"bona fide\" mean?",
+      "choices": [
+        "by itself",
+        "a social blunder",
+        "genuine",
+        "the place where one studied"
+      ],
+      "answer": "genuine"
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "q": "What does the phrase \"faux pas\" mean?",
+      "choices": [
+        "on the way",
+        "a social blunder",
+        "by itself",
+        "for a particular purpose"
+      ],
+      "answer": "a social blunder"
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "q": "What do we call a person who speaks many languages?",
+      "choices": [
+        "polyglot",
+        "glutton",
+        "fatalist",
+        "sceptic"
+      ],
+      "answer": "polyglot"
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "q": "What do we call a person who doubts accepted beliefs?",
+      "choices": [
+        "novice",
+        "polyglot",
+        "sceptic",
+        "misanthrope"
+      ],
+      "answer": "sceptic"
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "q": "What do we call a person who thinks only of themselves?",
+      "choices": [
+        "egotist",
+        "misanthrope",
+        "polyglot",
+        "novice"
+      ],
+      "answer": "egotist"
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "q": "What do we call a person who eats too much?",
+      "choices": [
+        "glutton",
+        "egotist",
+        "polyglot",
+        "fatalist"
+      ],
+      "answer": "glutton"
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "q": "What do we call a person who hates humankind?",
+      "choices": [
+        "fatalist",
+        "misanthrope",
+        "sceptic",
+        "polyglot"
+      ],
+      "answer": "misanthrope"
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "q": "What do we call a person who is new to a skill?",
+      "choices": [
+        "novice",
+        "misanthrope",
+        "sceptic",
+        "polyglot"
+      ],
+      "answer": "novice"
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "q": "What do we call a person who believes in fate?",
+      "choices": [
+        "fatalist",
+        "misanthrope",
+        "novice",
+        "sceptic"
+      ],
+      "answer": "fatalist"
     }
   ],
-  "chapterCount": 6,
+  "chapterCount": 8,
   "chapterNames": [
     "Sentence Transformation",
     "Advanced Vocabulary",
     "Writing and Usage",
     "Opposite Words",
     "Words with the Same Meaning",
-    "Spelling Practice"
+    "Spelling Practice",
+    "Foreign Phrases",
+    "People"
   ],
   "chapterSizes": [
     10,
@@ -586,7 +768,9 @@
     10,
     10,
     10,
-    10
+    10,
+    8,
+    7
   ],
   "meta": {
     "subject": "english",

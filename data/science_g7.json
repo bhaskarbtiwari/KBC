@@ -311,19 +311,313 @@
         "make water salty"
       ],
       "answer": "remove pollutants from water"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which acid is found in vinegar?",
+      "choices": [
+        "Oxalic acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Citric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which acid is found in tamarind?",
+      "choices": [
+        "Acetic acid",
+        "Malic acid",
+        "Tartaric acid",
+        "Citric acid"
+      ],
+      "answer": "Tartaric acid"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which acid is found in lemon?",
+      "choices": [
+        "Malic acid",
+        "Tartaric acid",
+        "Citric acid",
+        "Oxalic acid"
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which acid is found in the human stomach?",
+      "choices": [
+        "Lactic acid",
+        "Hydrochloric acid",
+        "Formic acid",
+        "Citric acid"
+      ],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which acid is found in an ant sting?",
+      "choices": [
+        "Citric acid",
+        "Acetic acid",
+        "Formic acid",
+        "Oxalic acid"
+      ],
+      "answer": "Formic acid"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which acid is found in apples?",
+      "choices": [
+        "Tartaric acid",
+        "Citric acid",
+        "Lactic acid",
+        "Malic acid"
+      ],
+      "answer": "Malic acid"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which acid is found in curd?",
+      "choices": [
+        "Malic acid",
+        "Lactic acid",
+        "Oxalic acid",
+        "Formic acid"
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which acid is found in spinach?",
+      "choices": [
+        "Acetic acid",
+        "Oxalic acid",
+        "Tartaric acid",
+        "Hydrochloric acid"
+      ],
+      "answer": "Oxalic acid"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "What does a hygrometer measure?",
+      "choices": [
+        "Speed",
+        "Humidity",
+        "Air pressure",
+        "Wind speed"
+      ],
+      "answer": "Humidity"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "What does a thermometer measure?",
+      "choices": [
+        "Wind speed",
+        "Air pressure",
+        "Rainfall",
+        "Temperature"
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "What does a speedometer measure?",
+      "choices": [
+        "Humidity",
+        "Wind speed",
+        "Air pressure",
+        "Speed"
+      ],
+      "answer": "Speed"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "What does a odometer measure?",
+      "choices": [
+        "Speed",
+        "Rainfall",
+        "Distance travelled",
+        "Air pressure"
+      ],
+      "answer": "Distance travelled"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "What does a ammeter measure?",
+      "choices": [
+        "Wind speed",
+        "Electric current",
+        "Humidity",
+        "Distance travelled"
+      ],
+      "answer": "Electric current"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "What does a rain gauge measure?",
+      "choices": [
+        "Electric current",
+        "Distance travelled",
+        "Humidity",
+        "Rainfall"
+      ],
+      "answer": "Rainfall"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "What does a anemometer measure?",
+      "choices": [
+        "Electric current",
+        "Temperature",
+        "Wind speed",
+        "Rainfall"
+      ],
+      "answer": "Wind speed"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "What does a barometer measure?",
+      "choices": [
+        "Air pressure",
+        "Humidity",
+        "Electric current",
+        "Wind speed"
+      ],
+      "answer": "Air pressure"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is removing body wastes called?",
+      "choices": [
+        "Photosynthesis",
+        "Digestion",
+        "Respiration",
+        "Excretion"
+      ],
+      "answer": "Excretion"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is removing undigested food called?",
+      "choices": [
+        "Excretion",
+        "Assimilation",
+        "Egestion",
+        "Photosynthesis"
+      ],
+      "answer": "Egestion"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is making food using sunlight called?",
+      "choices": [
+        "Respiration",
+        "Assimilation",
+        "Digestion",
+        "Photosynthesis"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is loss of water from leaves called?",
+      "choices": [
+        "Transpiration",
+        "Respiration",
+        "Assimilation",
+        "Excretion"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is releasing energy from food in cells called?",
+      "choices": [
+        "Excretion",
+        "Digestion",
+        "Transpiration",
+        "Respiration"
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is taking in food called?",
+      "choices": [
+        "Egestion",
+        "Transpiration",
+        "Assimilation",
+        "Ingestion"
+      ],
+      "answer": "Ingestion"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is using digested food to build the body called?",
+      "choices": [
+        "Photosynthesis",
+        "Egestion",
+        "Respiration",
+        "Assimilation"
+      ],
+      "answer": "Assimilation"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is breaking food into simple forms called?",
+      "choices": [
+        "Digestion",
+        "Respiration",
+        "Egestion",
+        "Excretion"
+      ],
+      "answer": "Digestion"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Nutrition",
     "Heat, Acids and Bases",
     "Body Processes and Motion",
-    "Weather, Water and Electricity"
+    "Weather, Water and Electricity",
+    "Acids Around Us",
+    "Instruments",
+    "Life Processes"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

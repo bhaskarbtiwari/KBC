@@ -311,19 +311,313 @@
         "chick"
       ],
       "answer": "kid"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which animal barks?",
+      "choices": [
+        "Horse",
+        "Dog",
+        "Frog",
+        "Lion"
+      ],
+      "answer": "Dog"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which animal trumpets?",
+      "choices": [
+        "Cat",
+        "Elephant",
+        "Lion",
+        "Frog"
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which animal moos?",
+      "choices": [
+        "Cat",
+        "Dog",
+        "Cow",
+        "Elephant"
+      ],
+      "answer": "Cow"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which animal neighs?",
+      "choices": [
+        "Lion",
+        "Horse",
+        "Frog",
+        "Duck"
+      ],
+      "answer": "Horse"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which animal croaks?",
+      "choices": [
+        "Horse",
+        "Frog",
+        "Cat",
+        "Lion"
+      ],
+      "answer": "Frog"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which animal quacks?",
+      "choices": [
+        "Cat",
+        "Elephant",
+        "Horse",
+        "Duck"
+      ],
+      "answer": "Duck"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which animal meows?",
+      "choices": [
+        "Horse",
+        "Cat",
+        "Dog",
+        "Elephant"
+      ],
+      "answer": "Cat"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which animal roars?",
+      "choices": [
+        "Duck",
+        "Frog",
+        "Lion",
+        "Dog"
+      ],
+      "answer": "Lion"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which food is the leaf of a plant that we commonly eat?",
+      "choices": [
+        "Mango",
+        "Spinach",
+        "Cauliflower",
+        "Potato"
+      ],
+      "answer": "Spinach"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which food is the underground stem of a plant that we commonly eat?",
+      "choices": [
+        "Mango",
+        "Sugarcane",
+        "Cauliflower",
+        "Potato"
+      ],
+      "answer": "Potato"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which food is the fruit of a plant that we commonly eat?",
+      "choices": [
+        "Potato",
+        "Onion",
+        "Sugarcane",
+        "Mango"
+      ],
+      "answer": "Mango"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which food is the bulb of a plant that we commonly eat?",
+      "choices": [
+        "Sugarcane",
+        "Potato",
+        "Cauliflower",
+        "Onion"
+      ],
+      "answer": "Onion"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which food is the seed of a plant that we commonly eat?",
+      "choices": [
+        "Potato",
+        "Carrot",
+        "Spinach",
+        "Pea"
+      ],
+      "answer": "Pea"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which food is the root of a plant that we commonly eat?",
+      "choices": [
+        "Onion",
+        "Pea",
+        "Spinach",
+        "Carrot"
+      ],
+      "answer": "Carrot"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which food is the stem of a plant that we commonly eat?",
+      "choices": [
+        "Sugarcane",
+        "Spinach",
+        "Cauliflower",
+        "Mango"
+      ],
+      "answer": "Sugarcane"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which food is the flower of a plant that we commonly eat?",
+      "choices": [
+        "Spinach",
+        "Mango",
+        "Onion",
+        "Cauliflower"
+      ],
+      "answer": "Cauliflower"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What do we use to measure body temperature?",
+      "choices": [
+        "Broom",
+        "Torch",
+        "Thermometer",
+        "Clock"
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What do we use to see the time?",
+      "choices": [
+        "Clock",
+        "Electric iron",
+        "Umbrella",
+        "Torch"
+      ],
+      "answer": "Clock"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What do we use to iron clothes?",
+      "choices": [
+        "Refrigerator",
+        "Electric iron",
+        "Thermometer",
+        "Broom"
+      ],
+      "answer": "Electric iron"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What do we use to keep food cold?",
+      "choices": [
+        "Clock",
+        "Umbrella",
+        "Refrigerator",
+        "Torch"
+      ],
+      "answer": "Refrigerator"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What do we use to stay dry in rain?",
+      "choices": [
+        "Electric iron",
+        "Umbrella",
+        "Torch",
+        "Telephone"
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What do we use to sweep the floor?",
+      "choices": [
+        "Torch",
+        "Thermometer",
+        "Broom",
+        "Telephone"
+      ],
+      "answer": "Broom"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What do we use to talk to someone far away?",
+      "choices": [
+        "Torch",
+        "Electric iron",
+        "Broom",
+        "Telephone"
+      ],
+      "answer": "Telephone"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What do we use to see in the dark?",
+      "choices": [
+        "Broom",
+        "Electric iron",
+        "Clock",
+        "Torch"
+      ],
+      "answer": "Torch"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Living and Non-living",
     "Food and Health",
     "Air, Water and Sky",
-    "Animals and Homes"
+    "Animals and Homes",
+    "Animal Sounds",
+    "Parts We Eat",
+    "Useful Things"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

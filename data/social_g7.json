@@ -311,19 +311,313 @@
         "Nitrogen"
       ],
       "answer": "Nitrogen"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which dynasty did Harihara I belong to?",
+      "choices": [
+        "Sangama",
+        "Tughlaq",
+        "Chola",
+        "Suri"
+      ],
+      "answer": "Sangama"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which dynasty did Alauddin belong to?",
+      "choices": [
+        "Suri",
+        "Lodi",
+        "Chola",
+        "Khalji"
+      ],
+      "answer": "Khalji"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which dynasty did Firoz Shah belong to?",
+      "choices": [
+        "Mughal",
+        "Mamluk (Slave)",
+        "Tughlaq",
+        "Sangama"
+      ],
+      "answer": "Tughlaq"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which dynasty did Qutb-ud-din Aibak belong to?",
+      "choices": [
+        "Sangama",
+        "Mughal",
+        "Lodi",
+        "Mamluk (Slave)"
+      ],
+      "answer": "Mamluk (Slave)"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which dynasty did Sher Shah belong to?",
+      "choices": [
+        "Suri",
+        "Khalji",
+        "Tughlaq",
+        "Chola"
+      ],
+      "answer": "Suri"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which dynasty did Akbar belong to?",
+      "choices": [
+        "Tughlaq",
+        "Suri",
+        "Chola",
+        "Mughal"
+      ],
+      "answer": "Mughal"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which dynasty did Ibrahim, defeated at Panipat in 1526 belong to?",
+      "choices": [
+        "Chola",
+        "Sangama",
+        "Tughlaq",
+        "Lodi"
+      ],
+      "answer": "Lodi"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which dynasty did Rajaraja I belong to?",
+      "choices": [
+        "Tughlaq",
+        "Lodi",
+        "Chola",
+        "Suri"
+      ],
+      "answer": "Chola"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Who wrote the Prithviraj Raso?",
+      "choices": [
+        "Al-Biruni",
+        "Abul Fazl",
+        "Chand Bardai",
+        "Ibn Battuta"
+      ],
+      "answer": "Chand Bardai"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Who wrote the Akbarnama?",
+      "choices": [
+        "Babur",
+        "Gulbadan Begum",
+        "Abul Fazl",
+        "Ibn Battuta"
+      ],
+      "answer": "Abul Fazl"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Who wrote the Padmavat?",
+      "choices": [
+        "Malik Muhammad Jayasi",
+        "Al-Biruni",
+        "Abul Fazl",
+        "Ibn Battuta"
+      ],
+      "answer": "Malik Muhammad Jayasi"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Who wrote the Humayun-nama?",
+      "choices": [
+        "Gulbadan Begum",
+        "Chand Bardai",
+        "Al-Biruni",
+        "Malik Muhammad Jayasi"
+      ],
+      "answer": "Gulbadan Begum"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Who wrote the Baburnama?",
+      "choices": [
+        "Babur",
+        "Gulbadan Begum",
+        "Kalhana",
+        "Al-Biruni"
+      ],
+      "answer": "Babur"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Who wrote the Rajatarangini?",
+      "choices": [
+        "Gulbadan Begum",
+        "Ibn Battuta",
+        "Kalhana",
+        "Chand Bardai"
+      ],
+      "answer": "Kalhana"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Who wrote the travel account Rihla?",
+      "choices": [
+        "Malik Muhammad Jayasi",
+        "Ibn Battuta",
+        "Abul Fazl",
+        "Kalhana"
+      ],
+      "answer": "Ibn Battuta"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Who wrote the Kitab-ul-Hind?",
+      "choices": [
+        "Chand Bardai",
+        "Al-Biruni",
+        "Abul Fazl",
+        "Kalhana"
+      ],
+      "answer": "Al-Biruni"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is the laying down of carried material called?",
+      "choices": [
+        "Deposition",
+        "Meander",
+        "Magma",
+        "Weathering"
+      ],
+      "answer": "Deposition"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is a mound of wind-blown sand called?",
+      "choices": [
+        "Sand dune",
+        "Deposition",
+        "Focus",
+        "Lava"
+      ],
+      "answer": "Sand dune"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is the carrying away of soil and rock called?",
+      "choices": [
+        "Deposition",
+        "Lava",
+        "Magma",
+        "Erosion"
+      ],
+      "answer": "Erosion"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is a loop-like bend of a river called?",
+      "choices": [
+        "Focus",
+        "Sand dune",
+        "Lava",
+        "Meander"
+      ],
+      "answer": "Meander"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is the point inside the Earth where a quake starts called?",
+      "choices": [
+        "Meander",
+        "Lava",
+        "Focus",
+        "Sand dune"
+      ],
+      "answer": "Focus"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is molten rock below the surface called?",
+      "choices": [
+        "Magma",
+        "Deposition",
+        "Meander",
+        "Erosion"
+      ],
+      "answer": "Magma"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is the breaking down of rocks in place called?",
+      "choices": [
+        "Weathering",
+        "Lava",
+        "Magma",
+        "Sand dune"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is molten rock on the surface called?",
+      "choices": [
+        "Sand dune",
+        "Magma",
+        "Lava",
+        "Erosion"
+      ],
+      "answer": "Lava"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Medieval India",
     "Environment",
     "Democracy and Society",
-    "Water, Air and Empires"
+    "Water, Air and Empires",
+    "Rulers and Dynasties",
+    "Books and Travellers",
+    "Earth Processes"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

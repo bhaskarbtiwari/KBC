@@ -311,19 +311,313 @@
         "Dal Lake"
       ],
       "answer": "Chilika Lake"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "In which state or territory is Guru Shikhar?",
+      "choices": [
+        "Sikkim",
+        "Ladakh",
+        "Rajasthan",
+        "Kerala"
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "In which state or territory is Nathu La?",
+      "choices": [
+        "Kerala",
+        "Ladakh",
+        "Himachal Pradesh",
+        "Sikkim"
+      ],
+      "answer": "Sikkim"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "In which state or territory is Kalsubai peak?",
+      "choices": [
+        "Ladakh",
+        "Kerala",
+        "Tamil Nadu",
+        "Maharashtra"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "In which state or territory is Doddabetta?",
+      "choices": [
+        "Sikkim",
+        "Nagaland",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "In which state or territory is Rohtang Pass?",
+      "choices": [
+        "Kerala",
+        "Tamil Nadu",
+        "Himachal Pradesh",
+        "Nagaland"
+      ],
+      "answer": "Himachal Pradesh"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "In which state or territory is Zoji La, linking Kashmir with this region?",
+      "choices": [
+        "Ladakh",
+        "Sikkim",
+        "Tamil Nadu",
+        "Himachal Pradesh"
+      ],
+      "answer": "Ladakh"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "In which state or territory is Anamudi peak?",
+      "choices": [
+        "Nagaland",
+        "Kerala",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "In which state or territory is Saramati peak?",
+      "choices": [
+        "Maharashtra",
+        "Ladakh",
+        "Tamil Nadu",
+        "Nagaland"
+      ],
+      "answer": "Nagaland"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "In which state is Bandipur National Park?",
+      "choices": [
+        "Assam",
+        "Karnataka",
+        "Kerala",
+        "Uttarakhand"
+      ],
+      "answer": "Karnataka"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "In which state is Kanha National Park?",
+      "choices": [
+        "Uttarakhand",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Assam"
+      ],
+      "answer": "Madhya Pradesh"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "In which state is Jim Corbett National Park?",
+      "choices": [
+        "Maharashtra",
+        "Gujarat",
+        "Uttarakhand",
+        "Assam"
+      ],
+      "answer": "Uttarakhand"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "In which state is Gir National Park?",
+      "choices": [
+        "Assam",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Gujarat"
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "In which state is Periyar National Park?",
+      "choices": [
+        "Rajasthan",
+        "Assam",
+        "Gujarat",
+        "Kerala"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "In which state is Kaziranga National Park?",
+      "choices": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Assam",
+        "Kerala"
+      ],
+      "answer": "Assam"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "In which state is Ranthambore National Park?",
+      "choices": [
+        "Kerala",
+        "Assam",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "In which state is Tadoba National Park?",
+      "choices": [
+        "Assam",
+        "Kerala",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is the title of the person who heads the Union Council of Ministers?",
+      "choices": [
+        "Governor",
+        "Prime Minister",
+        "President",
+        "Vice President"
+      ],
+      "answer": "Prime Minister"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is the title of the person who is the top judge of the Supreme Court?",
+      "choices": [
+        "Chief Justice of India",
+        "Attorney General",
+        "Speaker",
+        "Comptroller and Auditor General"
+      ],
+      "answer": "Chief Justice of India"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is the title of the person who is the head of state of India?",
+      "choices": [
+        "Speaker",
+        "Vice President",
+        "Comptroller and Auditor General",
+        "President"
+      ],
+      "answer": "President"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is the title of the person who is the constitutional head of a state?",
+      "choices": [
+        "Speaker",
+        "Governor",
+        "Attorney General",
+        "Prime Minister"
+      ],
+      "answer": "Governor"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is the title of the person who presides over the Lok Sabha?",
+      "choices": [
+        "Chief Justice of India",
+        "Speaker",
+        "Attorney General",
+        "Vice President"
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is the title of the person who gives the Union government legal advice as its chief law officer?",
+      "choices": [
+        "Attorney General",
+        "Prime Minister",
+        "Vice President",
+        "Comptroller and Auditor General"
+      ],
+      "answer": "Attorney General"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is the title of the person who audits government accounts?",
+      "choices": [
+        "Chief Justice of India",
+        "Speaker",
+        "Vice President",
+        "Comptroller and Auditor General"
+      ],
+      "answer": "Comptroller and Auditor General"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is the title of the person who chairs the Rajya Sabha?",
+      "choices": [
+        "Attorney General",
+        "Vice President",
+        "Comptroller and Auditor General",
+        "Chief Justice of India"
+      ],
+      "answer": "Vice President"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "World History",
     "Geography of India",
     "Politics and Economics",
-    "Climate and Revolutions"
+    "Climate and Revolutions",
+    "Passes and Peaks",
+    "National Parks",
+    "Constitutional Posts"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

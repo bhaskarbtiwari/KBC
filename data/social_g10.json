@@ -311,19 +311,313 @@
         "cooperative society"
       ],
       "answer": "multinational corporation"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with children’s welfare?",
+      "choices": [
+        "FAO",
+        "UNICEF",
+        "WTO",
+        "WHO"
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with development loans to countries?",
+      "choices": [
+        "ILO",
+        "WTO",
+        "WHO",
+        "World Bank"
+      ],
+      "answer": "World Bank"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with short-term help for balance of payments?",
+      "choices": [
+        "UNICEF",
+        "ILO",
+        "IMF",
+        "WHO"
+      ],
+      "answer": "IMF"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with world health?",
+      "choices": [
+        "FAO",
+        "WTO",
+        "WHO",
+        "World Bank"
+      ],
+      "answer": "WHO"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with food and agriculture?",
+      "choices": [
+        "FAO",
+        "WTO",
+        "WHO",
+        "ILO"
+      ],
+      "answer": "FAO"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with education, science and culture?",
+      "choices": [
+        "WHO",
+        "UNICEF",
+        "UNESCO",
+        "FAO"
+      ],
+      "answer": "UNESCO"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with rules of world trade?",
+      "choices": [
+        "WTO",
+        "World Bank",
+        "IMF",
+        "WHO"
+      ],
+      "answer": "WTO"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which organisation mainly deals with workers’ rights?",
+      "choices": [
+        "WTO",
+        "IMF",
+        "FAO",
+        "ILO"
+      ],
+      "answer": "ILO"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of horticulture and honey?",
+      "choices": [
+        "Blue Revolution",
+        "Golden Revolution",
+        "Yellow Revolution",
+        "Red Revolution"
+      ],
+      "answer": "Golden Revolution"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of milk?",
+      "choices": [
+        "Blue Revolution",
+        "White Revolution",
+        "Silver Revolution",
+        "Green Revolution"
+      ],
+      "answer": "White Revolution"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of meat and tomatoes?",
+      "choices": [
+        "Red Revolution",
+        "Yellow Revolution",
+        "Round Revolution",
+        "Green Revolution"
+      ],
+      "answer": "Red Revolution"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of foodgrains such as wheat?",
+      "choices": [
+        "Green Revolution",
+        "Red Revolution",
+        "Blue Revolution",
+        "White Revolution"
+      ],
+      "answer": "Green Revolution"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of oilseeds?",
+      "choices": [
+        "Yellow Revolution",
+        "White Revolution",
+        "Round Revolution",
+        "Golden Revolution"
+      ],
+      "answer": "Yellow Revolution"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of fish?",
+      "choices": [
+        "Blue Revolution",
+        "Golden Revolution",
+        "Yellow Revolution",
+        "Round Revolution"
+      ],
+      "answer": "Blue Revolution"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of potatoes?",
+      "choices": [
+        "Round Revolution",
+        "Golden Revolution",
+        "Green Revolution",
+        "Red Revolution"
+      ],
+      "answer": "Round Revolution"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which \"revolution\" refers to higher production of eggs?",
+      "choices": [
+        "Yellow Revolution",
+        "Silver Revolution",
+        "Golden Revolution",
+        "Blue Revolution"
+      ],
+      "answer": "Silver Revolution"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "What is goods and services sold to other countries called?",
+      "choices": [
+        "Tariff",
+        "Deflation",
+        "Quota",
+        "Exports"
+      ],
+      "answer": "Exports"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "What is removal of government trade barriers called?",
+      "choices": [
+        "Tariff",
+        "Liberalisation",
+        "Imports",
+        "Quota"
+      ],
+      "answer": "Liberalisation"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "What is goods bought from other countries called?",
+      "choices": [
+        "Quota",
+        "Imports",
+        "Collateral",
+        "Tariff"
+      ],
+      "answer": "Imports"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "What is a general fall in prices called?",
+      "choices": [
+        "Exports",
+        "Liberalisation",
+        "Quota",
+        "Deflation"
+      ],
+      "answer": "Deflation"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "What is a tax on imports called?",
+      "choices": [
+        "Tariff",
+        "Liberalisation",
+        "Exports",
+        "Imports"
+      ],
+      "answer": "Tariff"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "What is a limit on the quantity of imports called?",
+      "choices": [
+        "Liberalisation",
+        "Imports",
+        "Exports",
+        "Quota"
+      ],
+      "answer": "Quota"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "What is a general rise in prices called?",
+      "choices": [
+        "Tariff",
+        "Imports",
+        "Inflation",
+        "Liberalisation"
+      ],
+      "answer": "Inflation"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "What is an asset pledged against a loan called?",
+      "choices": [
+        "Collateral",
+        "Exports",
+        "Imports",
+        "Liberalisation"
+      ],
+      "answer": "Collateral"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 7,
   "chapterNames": [
     "Nationalism",
     "Resources and Development",
     "Democratic Politics",
-    "Economy and the World"
+    "Economy and the World",
+    "International Bodies",
+    "Revolutions in Farming",
+    "Economic Terms"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    8,
+    8,
     8
   ],
   "meta": {

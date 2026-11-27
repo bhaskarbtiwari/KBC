@@ -311,19 +311,315 @@
         "Saturn"
       ],
       "answer": "Saturn"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "q": "Which kind of organism causes the common cold?",
+      "choices": [
+        "Protozoan",
+        "Virus",
+        "Bacterium",
+        "Fungus"
+      ],
+      "answer": "Virus"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "q": "Which kind of organism causes malaria?",
+      "choices": [
+        "Bacterium",
+        "Protozoan",
+        "Fungus",
+        "Virus"
+      ],
+      "answer": "Protozoan"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "q": "Which kind of organism causes ringworm?",
+      "choices": [
+        "Protozoan",
+        "Bacterium",
+        "Virus",
+        "Fungus"
+      ],
+      "answer": "Fungus"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "q": "Which kind of organism causes tuberculosis?",
+      "choices": [
+        "Virus",
+        "Protozoan",
+        "Bacterium",
+        "Fungus"
+      ],
+      "answer": "Bacterium"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "q": "Which carrier mainly spreads plague?",
+      "choices": [
+        "Female Anopheles mosquito",
+        "Aedes mosquito",
+        "Tsetse fly",
+        "Rat flea"
+      ],
+      "answer": "Rat flea"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "q": "Which carrier mainly spreads sleeping sickness?",
+      "choices": [
+        "Female Anopheles mosquito",
+        "Rat flea",
+        "Aedes mosquito",
+        "Tsetse fly"
+      ],
+      "answer": "Tsetse fly"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "q": "Which carrier mainly spreads malaria?",
+      "choices": [
+        "Female Anopheles mosquito",
+        "Rat flea",
+        "Aedes mosquito",
+        "Tsetse fly"
+      ],
+      "answer": "Female Anopheles mosquito"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "q": "Which carrier mainly spreads dengue?",
+      "choices": [
+        "Tsetse fly",
+        "Female Anopheles mosquito",
+        "Aedes mosquito",
+        "Rat flea"
+      ],
+      "answer": "Aedes mosquito"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "q": "Which cell part is the jelly-like fluid?",
+      "choices": [
+        "Chloroplast",
+        "Cytoplasm",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer": "Cytoplasm"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "q": "Which cell part releases energy?",
+      "choices": [
+        "Mitochondrion",
+        "Cell wall",
+        "Vacuole",
+        "Chloroplast"
+      ],
+      "answer": "Mitochondrion"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "q": "Which cell part stores cell sap?",
+      "choices": [
+        "Cell membrane",
+        "Ribosome",
+        "Vacuole",
+        "Mitochondrion"
+      ],
+      "answer": "Vacuole"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "q": "Which cell part gives plant cells a rigid shape?",
+      "choices": [
+        "Cytoplasm",
+        "Cell membrane",
+        "Vacuole",
+        "Cell wall"
+      ],
+      "answer": "Cell wall"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "q": "Which cell part makes proteins?",
+      "choices": [
+        "Mitochondrion",
+        "Ribosome",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": "Ribosome"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "q": "Which cell part traps sunlight?",
+      "choices": [
+        "Cell membrane",
+        "Nucleus",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "answer": "Chloroplast"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "q": "Which cell part controls cell activities?",
+      "choices": [
+        "Cell wall",
+        "Nucleus",
+        "Vacuole",
+        "Ribosome"
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "q": "Which cell part controls what enters and leaves?",
+      "choices": [
+        "Cell membrane",
+        "Mitochondrion",
+        "Cell wall",
+        "Ribosome"
+      ],
+      "answer": "Cell membrane"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "q": "Who discovered radium with Pierre Curie?",
+      "choices": [
+        "Alexander Graham Bell",
+        "Wilhelm Roentgen",
+        "Marie Curie",
+        "Edward Jenner"
+      ],
+      "answer": "Marie Curie"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "q": "Who named the cell?",
+      "choices": [
+        "Robert Hooke",
+        "Robert Koch",
+        "Isaac Newton",
+        "Louis Pasteur"
+      ],
+      "answer": "Robert Hooke"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "q": "Who discovered X-rays?",
+      "choices": [
+        "Wilhelm Roentgen",
+        "Alexander Graham Bell",
+        "Louis Pasteur",
+        "Robert Hooke"
+      ],
+      "answer": "Wilhelm Roentgen"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "q": "Who discovered the tuberculosis bacterium?",
+      "choices": [
+        "Marie Curie",
+        "Wilhelm Roentgen",
+        "Robert Koch",
+        "Louis Pasteur"
+      ],
+      "answer": "Robert Koch"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "q": "Who invented the telephone?",
+      "choices": [
+        "Marie Curie",
+        "Isaac Newton",
+        "Alexander Graham Bell",
+        "Robert Hooke"
+      ],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "q": "Who developed the rabies vaccine?",
+      "choices": [
+        "Robert Hooke",
+        "Louis Pasteur",
+        "Alexander Graham Bell",
+        "Marie Curie"
+      ],
+      "answer": "Louis Pasteur"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "q": "Who stated the laws of motion?",
+      "choices": [
+        "Wilhelm Roentgen",
+        "Isaac Newton",
+        "Alexander Graham Bell",
+        "Edward Jenner"
+      ],
+      "answer": "Isaac Newton"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "q": "Who developed the smallpox vaccine?",
+      "choices": [
+        "Edward Jenner",
+        "Robert Koch",
+        "Wilhelm Roentgen",
+        "Isaac Newton"
+      ],
+      "answer": "Edward Jenner"
     }
   ],
-  "chapterCount": 4,
+  "chapterCount": 8,
   "chapterNames": [
     "Cells and Microbes",
     "Force and Pressure",
     "Materials and Reproduction",
-    "Space and Environment"
+    "Space and Environment",
+    "Diseases and Causes",
+    "Disease Carriers",
+    "Cell Parts",
+    "Inventors and Discoverers"
   ],
   "chapterSizes": [
     6,
     6,
     6,
+    8,
+    4,
+    4,
+    8,
     8
   ],
   "meta": {

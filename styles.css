@@ -5,7 +5,15 @@
 body{background:radial-gradient(circle at 20% 10%, #09182b 0%, #071022 40%, #02111a 100%), linear-gradient(180deg,#071022,#001018); color:#ffd;}
 header{background:linear-gradient(90deg,#06213a,#0b2740);padding:14px;border-radius:10px;color:#ffd;margin-bottom:12px}
 h1{color:#ffd;margin:0;font-weight:700}
-.status{display:flex;gap:12px;align-items:center}
+.status{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:8px}
+*,*::before,*::after{box-sizing:border-box}
+#voice-select{max-width:100%;min-width:0}
+#subjects{display:flex;flex-wrap:wrap;gap:6px}
+#spell-area{display:flex;flex-wrap:wrap;gap:8px}
+#spell-input{flex:1;min-width:140px}
+#keyboard,.keyboard-help{width:100%}
+#voice-controls input[type=range]{flex:1;min-width:0}
+@media (max-width:600px){ #choices{grid-template-columns:1fr !important} }
 .subject-btn{padding:10px 14px;border-radius:8px;border:2px solid rgba(255,215,0,0.08);background:linear-gradient(180deg,#0f4a78,#083a60);color:#ffd;font-weight:600;cursor:pointer}
 .subject-btn:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(0,0,0,0.6)}
 #subjects .subject-btn.selected{outline:3px solid rgba(255,215,0,0.18);box-shadow:0 12px 36px rgba(255,215,0,0.06) inset}
