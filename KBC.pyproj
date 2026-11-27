@@ -27,10 +27,24 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="bank\english.js" />
+    <Content Include="bank\hindi.js" />
+    <Content Include="bank\marathi.js" />
+    <Content Include="bank\math.js" />
+    <Content Include="bank\more.js" />
+    <Content Include="bank\science.js" />
+    <Content Include="bank\social.js" />
+    <Content Include="bank\words.js" />
     <Content Include="generate_dataset.js" />
     <Content Include="index.html" />
     <Content Include="script.js" />
     <Content Include="styles.css" />
+    <Content Include="tools\anthropic\.env.template" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bank\" />
+    <Folder Include="tools\" />
+    <Folder Include="tools\anthropic\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
